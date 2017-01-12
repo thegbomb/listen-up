@@ -87,7 +87,7 @@ nav a {
       filter: grayscale(1);
     }
     &:hover .excerpt__image:after {
-      background:$color--lightest-gray;
+      background:$color--red;
       transition: $primary-transition;
       opacity:0.8;
     }
@@ -224,15 +224,20 @@ div.row.excerpt__title {
 // ----------
 
 footer {
-  color: $color--black;
+  background-color: $color--black;
+  color: $color--white;
   padding: 2rem 3rem 2rem 3rem;
   a {
-    color: $color--black;
+    color: $color--white;
     display: block;
     }
   @include breakpoint(small only) {
     padding: 2rem;
   }
+}
+
+.footer__detail {
+  color: $color--gray;
 }
 
 // 5. Index
@@ -242,7 +247,7 @@ footer {
   min-height: 50vh;
   background: url(../img/hero.jpg) 50% 50% no-repeat;
   background-size: cover;
-  padding-top: 5rem;
+  padding-top: 7rem;
   h1 {
   color: $color--white;
   }
@@ -262,9 +267,10 @@ footer {
   color: $color--red;
 }
 
-.index__services__sections {
+.index__services__section {
+  padding-bottom: 2rem;
   h4 {
-    color: $color--red;
+    color: $color--black;
   }
   h5 {
     color: $color--gray;

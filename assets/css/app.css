@@ -8565,7 +8565,7 @@ nav a {
     width: 100%;
     filter: grayscale(1); }
   .excerpt:hover .excerpt__image:after {
-    background: #EDEDEA;
+    background: #e32117;
     transition: all 0.35s cubic-bezier(0.39, 0.575, 0.565, 1);
     opacity: 0.8; }
   .excerpt:hover .excerpt__title p {
@@ -8663,20 +8663,24 @@ div.row.excerpt__title {
     margin-bottom: 2rem; }
 
 footer {
-  color: #2c2c2d;
+  background-color: #2c2c2d;
+  color: #ffffff;
   padding: 2rem 3rem 2rem 3rem; }
   footer a {
-    color: #2c2c2d;
+    color: #ffffff;
     display: block; }
   @media screen and (max-width: 39.9375em) {
     footer {
       padding: 2rem; } }
 
+.footer__detail {
+  color: #9B9B9B; }
+
 .index__hero {
   min-height: 50vh;
   background: url(../img/hero.jpg) 50% 50% no-repeat;
   background-size: cover;
-  padding-top: 5rem; }
+  padding-top: 7rem; }
   .index__hero h1 {
     color: #ffffff; }
 
@@ -8691,14 +8695,14 @@ footer {
 .index__section__title {
   color: #e32117; }
 
-.index__services__sections h4 {
-  color: #e32117; }
-
-.index__services__sections h5 {
-  color: #9B9B9B; }
-
-.index__services__sections p {
-  color: #666666; }
+.index__services__section {
+  padding-bottom: 2rem; }
+  .index__services__section h4 {
+    color: #2c2c2d; }
+  .index__services__section h5 {
+    color: #9B9B9B; }
+  .index__services__section p {
+    color: #666666; }
 
 .index__more {
   color: #9B9B9B; }

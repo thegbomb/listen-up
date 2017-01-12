@@ -141,6 +141,12 @@
 		"oAP": "\/_clients\/wilkinson-half-light.markdown",
 		"oF": 0
 		},
+	"\/_config.yml": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/_config.yml",
+		"oF": 0
+		},
 	"\/_data\/navigation-mobile.yml": {
 		"ft": 8192,
 		"oA": 2,
@@ -225,6 +231,12 @@
 		"oAP": "\/_layouts\/contact.html",
 		"oF": 0
 		},
+	"\/_layouts\/default.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_layouts\/default.html",
+		"oF": 0
+		},
 	"\/_layouts\/index.html": {
 		"ft": 8192,
 		"oA": 2,
@@ -249,10 +261,34 @@
 		"oAP": "\/_layouts\/post.html",
 		"oF": 0
 		},
-	"\/_layouts\/projects.html": {
+	"\/_layouts\/project.html": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/_layouts\/projects.html",
+		"oAP": "\/_layouts\/project.html",
+		"oF": 0
+		},
+	"\/_services\/digital.markdown": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_services\/digital.markdown",
+		"oF": 0
+		},
+	"\/_services\/events.markdown": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_services\/events.markdown",
+		"oF": 0
+		},
+	"\/_services\/press.markdown": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_services\/press.markdown",
+		"oF": 0
+		},
+	"\/_services\/radio.markdown": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_services\/radio.markdown",
 		"oF": 0
 		},
 	"\/_site": {
@@ -13333,6 +13369,24 @@
 		"oA": 2,
 		"oAP": "\/humans.txt",
 		"oF": 0
+		},
+	"\/index.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/index.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
 		},
 	"\/LICENSE.md": {
 		"cS": 0,

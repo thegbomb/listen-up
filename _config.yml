@@ -2,11 +2,11 @@
 title: Listen Up
 timezone: UTC
 collections:
-  posts:
-    title: Posts
-    output: true
   clients:
     title: Clients
+    output: true
+  posts:
+    title: Posts
     output: true
   uploads:
     title: Uploads
@@ -26,7 +26,8 @@ defaults:
     image: 
     description: 
 url: http://listen-up.biz
-description: Listen Up provides a bespoke 360 promotional service offering radio, club, online and print campaigns in the UK and worldwide.
+description: Listen Up provides a bespoke 360 promotional service offering radio,
+  club, online and print campaigns in the UK and worldwide.
 permalink: pretty
 exclude: 
 gems:
@@ -40,8 +41,8 @@ kramdown:
 highlighter: rouge
 company: Listen Up
 email: hello@listen-up.biz
-google_site_verification:
-analytics:
+google_site_verification: 
+analytics: 
 logo: "/assets/img/logo.svg"
 per_page: 12
 date_format: "%b %d, %Y"
@@ -50,4 +51,4 @@ social:
   facebook: 
   instagram: 
   twitter: 
-  linkedin:
+  linkedin: 

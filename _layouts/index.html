@@ -1,0 +1,52 @@
+---
+layout: default
+---
+
+<!-- Hero -->
+<section class="index__hero">
+    <div class="row">
+      <div class="small-5 columns">
+        <h1>Without promotion nothing happens</h1>
+      </div>
+    </div>
+</section>
+<!-- End Hero -->
+
+<!-- Intro -->
+<section class="index__intro">
+    <div class="row">
+      <div class="small-12 medium-9 columns">
+        <h3>Listen Up is a promotion and communications agency specialising in music and events, consistently delivering results to clients in a diverse range of genres.</h3>
+      </div>
+    </div>
+</section>
+<!-- End Intro -->
+
+<!-- Clients -->
+<section class="index__clients">
+<div class="row">
+  {% assign clients = site.clients | sort: 'position' %}
+  {% for client in clients %}
+    <div class="small-12 medium-6 large-4 columns">
+    {% include excerpt.html %}
+    </div>
+  {% endfor %}
+</div>
+</section>
+<!-- End Clients -->
+
+<!-- Services -->
+<section class="index__services">
+<div class="row">
+<div class="small-3 columns index__section__title">
+<h4>Services</h4>
+</div>
+<div class="small-9 columns index__services__sections">
+<h4>Events</h4>
+<h5>Dapibus Mollis Dolor</h5>
+<p>Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Cras mattis consectetur purus sit amet fermentum. Nullam id dolor id nibh ultricies vehicula ut id elit. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit</p>
+<div class="index__more">More <span>+</span></div>
+</div>
+</div>
+</section>
+<!-- End Services -->

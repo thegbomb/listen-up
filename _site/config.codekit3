@@ -165,6 +165,12 @@
 		"oAP": "\/_includes\/analytics.html",
 		"oF": 0
 		},
+	"\/_includes\/client-excerpt.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_includes\/client-excerpt.html",
+		"oF": 0
+		},
 	"\/_includes\/excerpt.html": {
 		"ft": 8192,
 		"oA": 2,
@@ -219,10 +225,22 @@
 		"oAP": "\/_includes\/sharing.html",
 		"oF": 0
 		},
+	"\/_includes\/team-excerpt.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_includes\/team-excerpt.html",
+		"oF": 0
+		},
 	"\/_layouts\/about.html": {
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_layouts\/about.html",
+		"oF": 0
+		},
+	"\/_layouts\/clients.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_layouts\/clients.html",
 		"oF": 0
 		},
 	"\/_layouts\/contact.html": {
@@ -267,6 +285,12 @@
 		"oAP": "\/_layouts\/project.html",
 		"oF": 0
 		},
+	"\/_layouts\/team.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_layouts\/team.html",
+		"oF": 0
+		},
 	"\/_services\/digital.markdown": {
 		"ft": 8192,
 		"oA": 2,
@@ -295,6 +319,30 @@
 		"ft": 65536,
 		"oA": 1,
 		"oAP": "\/build\/_site",
+		"oF": 0
+		},
+	"\/_team\/james-jackson.markdown": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_team\/james-jackson.markdown",
+		"oF": 0
+		},
+	"\/_team\/james-mack.markdown": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_team\/james-mack.markdown",
+		"oF": 0
+		},
+	"\/_team\/luke-neville.markdown": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_team\/luke-neville.markdown",
+		"oF": 0
+		},
+	"\/_team\/nick-tearle.markdown": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_team\/nick-tearle.markdown",
 		"oF": 0
 		},
 	"\/_uploads\/55DSL-italy-texas.jpg": {
@@ -13334,6 +13382,24 @@
 		"rFN": 0,
 		"uCM": 0
 		},
+	"\/clients.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 2,
+		"oAP": "\/clients.md",
+		"oF": 1,
+		"oFM": 9,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
 	"\/contact.md": {
 		"cS": 0,
 		"eF": 1,
@@ -13437,6 +13503,24 @@
 		"oA": 2,
 		"oAP": "\/robots.txt",
 		"oF": 0
+		},
+	"\/team.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 2,
+		"oAP": "\/team.md",
+		"oF": 1,
+		"oFM": 9,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
 		}
 	},
 "hooks": [

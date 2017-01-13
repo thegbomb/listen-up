@@ -72,9 +72,9 @@
               <li><a href="#">Press</a></li>
             </ul>
           </li>
-          <li><a href="#">Clients</a></li>
-          <li><a href="#">Team</a></li>
-          <li><a href="#">Contact</a></li>
+          <li><a href="/clients">Clients</a></li>
+          <li><a href="/team">Team</a></li>
+          <li><a href="/contact">Contact</a></li>
           <li><a href="#"><svg class="icon icon-facebook"><use xlink:href="#icon-facebook"></use></svg></a></li>
           <li><a href="#"><svg class="icon icon-instagram"><use xlink:href="#icon-instagram"></use></svg></a></li>
           <li><a href="#"><svg class="icon icon-twitter"><use xlink:href="#icon-twitter"></use></svg></a></li>
@@ -86,45 +86,284 @@
 <!-- End Navigation -->
 
 <!-- Content -->  
-<section class="contact">
+<!-- Map -->
+<div class="row expanded collapse">
+  <div class="small-12 columns text-center">
+    
+<script src='https://maps.googleapis.com/maps/api/js?key=AIzaSyCUPjgcKt0CjEV-ghQGGI0cf9J-0K9r7K0&sensor=false&extension=.js'></script> 
+ 
+<script> 
+    google.maps.event.addDomListener(window, 'load', init);
+    var map;
+    function init() {
+        var mapOptions = {
+            center: new google.maps.LatLng(51.517538, -0.180459),
+            zoom: 16,
+            zoomControl: true,
+            zoomControlOptions: {
+                style: google.maps.ZoomControlStyle.DEFAULT,
+            },
+            disableDoubleClickZoom: true,
+            mapTypeControl: true,
+            mapTypeControlOptions: {
+                style: google.maps.MapTypeControlStyle.HORIZONTAL_BAR,
+            },
+            scaleControl: true,
+            scrollwheel: false,
+            panControl: true,
+            streetViewControl: true,
+            draggable : true,
+            overviewMapControl: true,
+            overviewMapControlOptions: {
+                opened: false,
+            },
+            mapTypeId: google.maps.MapTypeId.ROADMAP,
+            styles: [
+  {
+    "featureType": "water",
+    "elementType": "geometry.fill",
+    "stylers": [
+      { "color": "#d3d3d3" }
+    ]
+  },{
+    "featureType": "transit",
+    "stylers": [
+      { "color": "#808080" },
+      { "visibility": "off" }
+    ]
+  },{
+    "featureType": "road.highway",
+    "elementType": "geometry.stroke",
+    "stylers": [
+      { "visibility": "on" },
+      { "color": "#b3b3b3" }
+    ]
+  },{
+    "featureType": "road.highway",
+    "elementType": "geometry.fill",
+    "stylers": [
+      { "color": "#ffffff" }
+    ]
+  },{
+    "featureType": "road.local",
+    "elementType": "geometry.fill",
+    "stylers": [
+      { "visibility": "on" },
+      { "color": "#ffffff" },
+      { "weight": 1.8 }
+    ]
+  },{
+    "featureType": "road.local",
+    "elementType": "geometry.stroke",
+    "stylers": [
+      { "color": "#d7d7d7" }
+    ]
+  },{
+    "featureType": "poi",
+    "elementType": "geometry.fill",
+    "stylers": [
+      { "visibility": "on" },
+      { "color": "#ebebeb" }
+    ]
+  },{
+    "featureType": "administrative",
+    "elementType": "geometry",
+    "stylers": [
+      { "color": "#a7a7a7" }
+    ]
+  },{
+    "featureType": "road.arterial",
+    "elementType": "geometry.fill",
+    "stylers": [
+      { "color": "#ffffff" }
+    ]
+  },{
+    "featureType": "road.arterial",
+    "elementType": "geometry.fill",
+    "stylers": [
+      { "color": "#ffffff" }
+    ]
+  },{
+    "featureType": "landscape",
+    "elementType": "geometry.fill",
+    "stylers": [
+      { "visibility": "on" },
+      { "color": "#efefef" }
+    ]
+  },{
+    "featureType": "road",
+    "elementType": "labels.text.fill",
+    "stylers": [
+      { "color": "#696969" }
+    ]
+  },{
+    "featureType": "administrative",
+    "elementType": "labels.text.fill",
+    "stylers": [
+      { "visibility": "on" },
+      { "color": "#737373" }
+    ]
+  },{
+    "featureType": "poi",
+    "elementType": "labels.icon",
+    "stylers": [
+      { "visibility": "off" }
+    ]
+  },{
+    "featureType": "poi",
+    "elementType": "labels",
+    "stylers": [
+      { "visibility": "off" }
+    ]
+  },{
+    "featureType": "road.arterial",
+    "elementType": "geometry.stroke",
+    "stylers": [
+      { "color": "#d6d6d6" }
+    ]
+  },{
+    "featureType": "road",
+    "elementType": "labels.icon",
+    "stylers": [
+      { "visibility": "off" }
+    ]
+  },{
+  },{
+    "featureType": "poi",
+    "elementType": "geometry.fill",
+    "stylers": [
+      { "color": "#dadada" }
+    ]
+  }
+],
+        }
+        var mapElement = document.getElementById('map');
+        var map = new google.maps.Map(mapElement, mapOptions);
+        var locations = [
+['EARN Studios', 'undefined', '+44 (0)20 3318 8227', 'hello@earnstudios.com', 'http://earnstudios.com', 51.517538, -0.180459, 'http://earnstudios.com/assets/img/layout/marker.png']
+        ];
+        for (i = 0; i < locations.length; i++) {
+			if (locations[i][1] =='undefined'){ description ='';} else { description = locations[i][1];}
+			if (locations[i][2] =='undefined'){ telephone ='';} else { telephone = locations[i][2];}
+			if (locations[i][3] =='undefined'){ email ='';} else { email = locations[i][3];}
+           if (locations[i][4] =='undefined'){ web ='';} else { web = locations[i][4];}
+           if (locations[i][7] =='undefined'){ markericon ='';} else { markericon = locations[i][7];}
+            marker = new google.maps.Marker({
+                icon: markericon,
+                position: new google.maps.LatLng(locations[i][5], locations[i][6]),
+                map: map,
+                title: locations[i][0],
+                desc: description,
+                tel: telephone,
+                email: email,
+                web: web
+            });
+link = '';            bindInfoWindow(marker, map, locations[i][0], description, telephone, email, web, link);
+     }
+ function bindInfoWindow(marker, map, title, desc, telephone, email, web, link) {
+      var infoWindowVisible = (function () {
+              var currentlyVisible = false;
+              return function (visible) {
+                  if (visible !== undefined) {
+                      currentlyVisible = visible;
+                  }
+                  return currentlyVisible;
+               };
+           }());
+           iw = new google.maps.InfoWindow();
+           google.maps.event.addListener(marker, 'click', function() {
+               if (infoWindowVisible()) {
+                   iw.close();
+                   infoWindowVisible(false);
+               } else {
+                   var html= "<div style='color:#000;background-color:#fff;padding:5px;width:150px;'><h4>"+title+"</h4></div>";
+                   iw = new google.maps.InfoWindow({content:html});
+                   iw.open(map,marker);
+                   infoWindowVisible(true);
+               }
+        });
+        google.maps.event.addListener(iw, 'closeclick', function () {
+            infoWindowVisible(false);
+        });
+ }
+}
+</script>
 
-<div class="row contact__studio align-center text-center">
-  <div class="small-12 medium-10 large-8 columns">
-  <p class="contact__detail">Studio</p>
-  <p><a href="tel:\+447774854367">+44 (0)77 7485 4367</a><br />
-<a href="&#109;&#097;&#105;&#108;&#116;&#111;:&#115;&#116;&#117;&#100;&#105;&#111;&#064;&#100;&#114;&#097;&#103;&#111;&#110;&#102;&#108;&#121;&#115;&#099;&#101;&#110;&#101;&#114;&#121;&#046;&#099;&#111;&#109;">&#115;&#116;&#117;&#100;&#105;&#111;&#064;&#100;&#114;&#097;&#103;&#111;&#110;&#102;&#108;&#121;&#115;&#099;&#101;&#110;&#101;&#114;&#121;&#046;&#099;&#111;&#109;</a></p>
-
+<div id='map'></div>
+    
   </div>
 </div>
+<!-- End Map -->
 
-<div class="row contact__representation align-center text-center">
-  <div class="small-12 medium-10 large-8 columns">
-  <p class="contact__detail">Representation</p>
-  <p><a href="tel:\+442078510200">+44 (0)20 7851 0200</a><br />
-<a href="&#109;&#097;&#105;&#108;&#116;&#111;:&#112;&#097;&#116;&#114;&#105;&#099;&#105;&#097;&#064;&#112;&#097;&#116;&#114;&#105;&#099;&#105;&#097;&#109;&#099;&#109;&#097;&#104;&#111;&#110;&#046;&#099;&#111;&#109;">&#112;&#097;&#116;&#114;&#105;&#099;&#105;&#097;&#064;&#112;&#097;&#116;&#114;&#105;&#099;&#105;&#097;&#109;&#099;&#109;&#097;&#104;&#111;&#110;&#046;&#099;&#111;&#109;</a></p>
+<div class="contact">
 
-  </div>
+<!-- Address -->
+<div class="row project__results project__step align-justify">
+	<div class="small-12 medium-6 large-5 columns">
+	<h3>Enough about us... let’s talk about you</h3>
+	</div>
+	<div class="small-12 medium-6 large-6 columns">
+	<h5><a href="https://goo.gl/maps/Kjon8qneAZk">EARN Studios Limited<br>WeWork Paddington<br>
+2 Eastbourne Terrace<br>
+London W2 6LG<br>
+United Kingdom</a><h5>
+	</div>
+</div>
+<!-- End Address -->
+
+<!-- New Business -->
+<div class="row project__results project__step align-justify contact-new-business">
+	<div class="small-12 medium-6 large-5 columns">
+	<h3>New Business</h3>
+	</div>
+	<div class="small-12 medium-6 large-6 columns">
+	<h5>Nichola Spencer<br>
+<a href="mailto:nichola@earnstudios.com">nichola@earnstudios.com</a><h5>
+	</div>
+</div>
+<!-- End New Business -->
+
+<!-- General Enquiries -->
+<div class="row project__results project__step align-justify">
+	<div class="small-12 medium-6 large-5 columns">
+	<h3>General Enquiries</h3>
+	</div>
+	<div class="small-12 medium-6 large-6 columns">
+	<h5>Contact<br>
+<a href="mailto:hello@earnstudios.com">hello@earnstudios.com</a><h5>
+	</div>
+</div>
+<!-- End General Enquiries -->
+
+<!-- Careers -->
+<div class="row project__results project__step align-justify">
+	<div class="small-12 medium-6 large-5 columns">
+	<h3>Careers</h3>
+	</div>
+	<div class="small-12 medium-6 large-6 columns">
+	<h5>Apply Here<br>
+<a href="mailto:jobs@earnstudios.com">jobs@earnstudios.com</a><h5>
+	</div>
+</div>
+<!-- End Careers -->
+
+<!-- Careers -->
+<div class="row project__results project__step align-justify">
+	<div class="small-12 medium-6 large-5 columns">
+	<h3>Legal</h3>
+	</div>
+	<div class="small-12 medium-6 large-6 columns">
+	EARN Studios Limited<br>
+	Registered No. 08277190<br>
+	Registered in England & Wales.<br>
+	</div>
+</div>
+<!-- End Careers -->
+
+
 </div>
 
-<div class="row contact__copyright align-center text-center">
-  <div class="small-12 medium-10 large-8 columns">
-  All artwork and photography are copyrighted and protected under international copyright laws. Artwork may not be reproduced in any form, stored, or manipulated without prior written permission from Dragonfly Scenery Ltd and the copyright holders.
-  </div>
-</div>
 
-<div class="row contact__address align-center text-center">
-  <div class="small-12 medium-10 large-8 columns">
-  The Old Rectory, Rookery Lane North Fambridge, Chelmsford, Essex CM3 6LP
-  </div>
-</div>
-
-<div class="row contact__registered align-center text-center">
-  <div class="small-12 medium-10 large-8 columns">
-  <small>Registered in England and Wales Company Reg No 04121147<br>All rights reserved Dragonfly Scenery and Design Ltd 2016</small>
-  </div>
-</div>
-
-</section>
 <!-- End Content -->
 
 <!-- Footer -->  
@@ -136,7 +375,7 @@
         
         <div class="row">
         <div class="small-12 medium-6 columns">
-          <a href="/contact">© Listen Up</a>
+          <a href="/contact">© Listen Up Online Promotions Ltd</a>
         </div>
         
         <div class="small-12 medium-6 columns">

@@ -1,0 +1,26 @@
+---
+layout: default
+---
+
+<!-- Intro -->
+<section class="clients__intro">
+    <div class="row">
+      <div class="small-12 medium-9 columns">
+        <h3>Nullam quis risus eget urna mollis ornare vel eu leo. Donec id elit non mi porta gravida at eget metus. Vestibulum id ligula porta felis euismod semper. Donec sed odio dui. Donec ullamcorper nulla non metus auctor fringilla. Lorem ipsum dolor sit amet, consectetur adipiscing elit</h3>
+      </div>
+    </div>
+</section>
+<!-- End Intro -->
+
+<!-- Clients -->
+<section class="clients__clients">
+<div class="row">
+  {% assign clients = site.clients | sort: 'position' %}
+  {% for client in clients %}
+    <div class="small-12 medium-6 large-4 columns">
+    {% include client-excerpt.html %}
+    </div>
+  {% endfor %}
+</div>
+</section>
+<!-- End Clients -->

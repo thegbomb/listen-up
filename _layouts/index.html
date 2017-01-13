@@ -28,7 +28,7 @@ layout: default
   {% assign clients = site.clients | sort: 'position' %}
   {% for client in clients %}
     <div class="small-12 medium-6 large-4 columns">
-    {% include excerpt.html %}
+    {% include client-excerpt.html %}
     </div>
   {% endfor %}
 </div>

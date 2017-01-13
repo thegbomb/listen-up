@@ -1,0 +1,32 @@
+---
+layout: default
+---
+
+<!-- Intro -->
+<section class="team__intro">
+    <div class="row">
+      <div class="small-12 medium-9 columns">
+        <h3>{{ content }}</h3>
+      </div>
+    </div>
+</section>
+<!-- End Intro -->
+
+<!-- Clients -->
+<section class="team__team">
+  {% assign teams = site.team | sort: 'position' %}
+  {% for team in teams %}
+  <div class="row team__excerpt">
+    <div class="small-12 medium-6 large-6 columns">
+    <img src="{{team.image}}" alt="{{team.title}}">
+    </div>
+    
+    <div class="small-12 medium-6 large-6 columns">
+    <h4>{{team.title}}</h4>
+    <h5>{{team.job-title}}</h5>
+    {{content}}
+    </div>
+  </div>
+  {% endfor %}
+</section>
+<!-- End Clients -->

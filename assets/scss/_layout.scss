@@ -226,6 +226,7 @@ div.row.excerpt__title {
 footer {
   background-color: $color--black;
   color: $color--white;
+  margin-top: 3rem;
   padding: 2rem 3rem 2rem 3rem;
   a {
     color: $color--white;
@@ -286,3 +287,28 @@ footer {
     color: $color--red;
   }
 }
+
+// 11. Clients
+// ----------
+
+
+.clients__intro {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+}
+
+// 11. Team
+// ----------
+
+
+.team__intro {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+}
+
+.team__excerpt {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+
+

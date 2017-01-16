@@ -4824,7 +4824,7 @@ button {
   display: none !important; }
 
 .row {
-  max-width: 75rem;
+  max-width: 64rem;
   margin-right: auto;
   margin-left: auto;
   display: flex;
@@ -5476,7 +5476,7 @@ a {
 
 hr {
   clear: both;
-  max-width: 75rem;
+  max-width: 64rem;
   height: 0;
   margin: 1.25rem auto;
   border-top: 0;
@@ -7206,7 +7206,7 @@ html.is-reveal-open body {
   @media print, screen and (min-width: 40em) {
     .reveal {
       width: 600px;
-      max-width: 75rem; } }
+      max-width: 64rem; } }
   @media print, screen and (min-width: 40em) {
     .reveal .reveal {
       right: auto;
@@ -7217,15 +7217,15 @@ html.is-reveal-open body {
   @media print, screen and (min-width: 40em) {
     .reveal.tiny {
       width: 30%;
-      max-width: 75rem; } }
+      max-width: 64rem; } }
   @media print, screen and (min-width: 40em) {
     .reveal.small {
       width: 50%;
-      max-width: 75rem; } }
+      max-width: 64rem; } }
   @media print, screen and (min-width: 40em) {
     .reveal.large {
       width: 90%;
-      max-width: 75rem; } }
+      max-width: 64rem; } }
   .reveal.full {
     top: 0;
     left: 0;
@@ -8515,6 +8515,11 @@ Example showing how to change the color/size of the icons:
       .overlay-mobile ul li a:hover {
         color: #2c2c2d; }
 
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0; }
+
 body {
   cursor: default; }
 
@@ -8549,18 +8554,20 @@ i, cite, em, var, address, dfn {
 
 nav a {
   color: #ffffff; }
+  nav a:hover {
+    color: #2c2c2d; }
 
 .excerpt {
   position: relative;
   opacity: 1;
-  margin: 1rem 0rem;
+  margin: 0.5rem;
   transition: all 0.35s cubic-bezier(0.39, 0.575, 0.565, 1); }
   @media screen and (min-width: 40em) and (max-width: 63.9375em) {
     .excerpt {
-      margin: 1rem; } }
+      margin: 0.75rem; } }
   @media screen and (max-width: 39.9375em) {
     .excerpt {
-      margin: 1.5rem; } }
+      margin: 0.75rem; } }
   .excerpt img {
     width: 100%;
     filter: grayscale(1); }
@@ -8598,49 +8605,18 @@ div.row.excerpt__title {
   opacity: 0;
   transition: all 0.35s cubic-bezier(0.39, 0.575, 0.565, 1); }
 
-.page__content {
-  padding: 1rem 3rem 1rem 3rem; }
-  @media screen and (max-width: 39.9375em) {
-    .page__content {
-      padding: 2rem; } }
-  .page__content h3 {
-    margin-bottom: 2rem; }
+.content {
+  margin: 1rem 3rem 1rem 3rem; }
 
-.contact {
-  padding: 3rem; }
-  @media screen and (max-width: 39.9375em) {
-    .contact {
-      padding: 2rem; } }
-
-.contact__detail {
-  margin-bottom: 0rem; }
-
-.contact a {
-  display: inline-block;
-  position: relative; }
-
-.contact a::after {
-  content: '';
-  position: absolute;
-  left: 0;
-  display: inline-block;
-  height: 1em;
-  width: 100%;
-  border-bottom: 1px solid #2c2c2d;
-  margin-top: 5px;
-  transition: all 0.35s cubic-bezier(0.39, 0.575, 0.565, 1); }
-
-.contact a:hover::after {
-  border-bottom: 1px solid #EDEDEA;
-  margin-top: 5px; }
-
-.contact__copyright {
+.contact__intro {
   padding-top: 3rem;
-  padding-bottom: 1rem; }
+  padding-bottom: 3rem; }
 
-.contact__address {
-  padding-top: 1rem;
-  padding-bottom: 2rem; }
+.contact__location {
+  margin-bottom: 2rem; }
+
+.contact__location__map {
+  height: 20rem; }
 
 .gallery {
   height: 100vh; }
@@ -8678,11 +8654,17 @@ footer {
   color: #9B9B9B; }
 
 .index__hero {
-  min-height: 50vh;
+  height: 70vh; }
+
+.index__hero__cell {
+  height: 100%;
+  width: 100;
   background: url(../img/hero.jpg) 50% 50% no-repeat;
-  background-size: cover;
-  padding-top: 7rem; }
-  .index__hero h1 {
+  background-size: cover; }
+
+.index__hero__cell__text {
+  height: 100%; }
+  .index__hero__cell__text h1 {
     color: #ffffff; }
 
 .index__intro {
@@ -8699,6 +8681,7 @@ footer {
 .index__services__section {
   padding-bottom: 2rem; }
   .index__services__section h4 {
+    margin-bottom: 0;
     color: #2c2c2d; }
   .index__services__section h5 {
     color: #9B9B9B; }
@@ -8721,3 +8704,20 @@ footer {
 .team__excerpt {
   padding-top: 1rem;
   padding-bottom: 1rem; }
+
+.team__featured__people h4 {
+  margin-bottom: 0;
+  color: #2c2c2d; }
+
+.team__featured__people h5 {
+  color: #9B9B9B; }
+
+.team__people h4 {
+  margin-bottom: 0;
+  color: #2c2c2d; }
+
+.team__people h5 {
+  color: #9B9B9B; }
+
+.team__people p {
+  color: #666666; }

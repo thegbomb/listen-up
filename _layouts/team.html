@@ -6,15 +6,15 @@ layout: default
 <section class="team__intro">
     <div class="row">
       <div class="small-12 medium-9 columns">
-        <h3>{{ content }}</h3>
+        <h3>{{page.intro}}</h3>
       </div>
     </div>
 </section>
 <!-- End Intro -->
 
-<!-- Clients -->
-<section class="team__team">
-  {% assign teams = site.team | sort: 'position' %}
+<!-- Featured People -->
+<section class="team__featured__people">
+  {% assign teams = site.team | sort: 'position' | where: "is-featured", "true" %}
   {% for team in teams %}
   <div class="row team__excerpt">
     <div class="small-12 medium-6 large-6 columns">
@@ -24,9 +24,23 @@ layout: default
     <div class="small-12 medium-6 large-6 columns">
     <h4>{{team.title}}</h4>
     <h5>{{team.job-title}}</h5>
-    {{content}}
+    {{team.content}}
     </div>
   </div>
   {% endfor %}
 </section>
-<!-- End Clients -->
+<!-- End Featured People -->
+
+<!-- People -->
+<section class="team__people">
+  {% assign teams = site.team | sort: 'position' | where: "is-featured", "false" %}
+  {% for team in teams %}
+  <div class="row team__excerpt">    
+    <div class="small-12 medium-6 large-6 columns">
+    <h4>{{team.title}}</h4>
+    <h5>{{team.job-title}}</h5>
+    </div>
+  </div>
+  {% endfor %}
+</section>
+<!-- End People -->

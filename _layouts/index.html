@@ -4,11 +4,13 @@ layout: default
 
 <!-- Hero -->
 <section class="index__hero">
-    <div class="row">
-      <div class="small-5 columns">
-        <h1>Without promotion nothing happens</h1>
-      </div>
-    </div>
+  <div class="index__hero__cell">
+      <div class="row index__hero__cell__text align-middle">
+          <div class="small-11 medium-8 large-6 columns">
+            <h1>Without promotion nothing happens</h1>
+          </div>
+       </div> 
+  </div>
 </section>
 <!-- End Hero -->
 
@@ -24,7 +26,7 @@ layout: default
 
 <!-- Clients -->
 <section class="index__clients">
-<div class="row">
+<div class="row collapse">
   {% assign clients = site.clients | sort: 'position' %}
   {% for client in clients %}
     <div class="small-12 medium-6 large-4 columns">

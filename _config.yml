@@ -54,7 +54,7 @@ per_page: 12
 date_format: "%b %d, %Y"
 future: true
 social:
-  facebook: 
-  instagram: 
-  twitter: 
-  linkedin: 
+  facebook: https://www.facebook.com/listenupbiz
+  instagram: https://www.instagram.com/listenupbiz/
+  twitter: https://twitter.com/ListenUpbiz
+  linkedin: https://www.linkedin.com/company/listen-up-music-pr

@@ -47,7 +47,8 @@
 // ---------
 
 $global-font-size: 100%;
-$global-width: rem-calc(1200);
+// $global-width: rem-calc(1200);
+$global-width: rem-calc(1024);
 $global-lineheight: 1.5;
 /*
 $foundation-palette: (
@@ -119,6 +120,7 @@ $header-font-style: normal;
 $font-family-monospace: Consolas, 'Liberation Mono', Courier, monospace;
 $header-color: inherit;
 $header-lineheight: 1.4;
+// $header-margin-bottom: 0.5rem;
 $header-margin-bottom: 0.5rem;
 $header-styles: (
   small: (

@@ -14,7 +14,7 @@ layout: default
 
 <!-- Clients -->
 <section class="clients__clients">
-<div class="row">
+<div class="row collapse">
   {% assign clients = site.clients | sort: 'position' %}
   {% for client in clients %}
     <div class="small-12 medium-6 large-4 columns">

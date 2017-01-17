@@ -8538,12 +8538,21 @@ img {
 a {
   transition: all 0.35s cubic-bezier(0.39, 0.575, 0.565, 1); }
 
-.external:after {
+.arrow:after {
   content: '→';
   margin-left: .4816em;
   transition: margin .1s; }
 
-.external:hover:after {
+.arrow:hover:after {
+  margin-left: 0.602em; }
+
+.plus:after {
+  content: '+';
+  margin-left: .4816em;
+  transition: margin .1s;
+  color: #e32117; }
+
+.plus:hover:after {
   margin-left: 0.602em; }
 
 .uppercase {

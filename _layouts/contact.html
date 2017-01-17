@@ -431,14 +431,22 @@ layout: default
     {
         position: london,
         map: londonmap,
-        title:"London"
+        title:"London",
+        icon: {
+        path: google.maps.SymbolPath.CIRCLE,
+        scale: 10
+        }
    });
 
     var myMarker2 = new google.maps.Marker(
     {
         position: la,
         map: lamap,
-        title:"LA"
+        title:"LA",
+        icon: {
+        path: google.maps.SymbolPath.CIRCLE,
+        scale: 10
+        }
     });
 }
     </script>

@@ -42,13 +42,24 @@ a {
   transition: $primary-transition;
 }
 
-.external:after {
+.arrow:after {
     content: '→';
     margin-left: .4816em;
     transition: margin .1s
 }
 
-.external:hover:after {
+.arrow:hover:after {
+    margin-left: 0.602em
+}
+
+.plus:after {
+    content: '+';
+    margin-left: .4816em;
+    transition: margin .1s;
+    color: $color--red;
+}
+
+.plus:hover:after {
     margin-left: 0.602em
 }
 

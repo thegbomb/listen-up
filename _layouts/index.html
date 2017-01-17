@@ -51,7 +51,9 @@ layout: default
 <h4>{{ service.title }}</h4>
 <h5>{{ service.subtitle }}</h5>
 <p>{{ service.content }}</p>
-<div class="index__more">More <span>+</span></div>
+<div class="index__more">
+  <a href="{{team.twitter}}" class="plus">More</a>
+</div>
 </div>
 {% endfor %}
 </div>

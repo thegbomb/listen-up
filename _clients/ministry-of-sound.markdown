@@ -1,13 +1,13 @@
 ---
 title: Ministry of Sound
-tags:
-- label
 categories:
 - events
+tags:
+- label
 position: 3
 image: "/uploads/team-006.jpg"
-is-featured:
-is-front:
+is-featured: 
+is-front: 
 layout: client
 ---
 

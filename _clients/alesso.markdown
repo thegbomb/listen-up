@@ -1,9 +1,9 @@
 ---
 title: Alesso
-tags:
-- artist
 categories:
 - events
+tags:
+- artist
 position: 2
 image: "/uploads/team-011.jpg"
 is-featured: true

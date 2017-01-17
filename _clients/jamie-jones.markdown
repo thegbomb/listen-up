@@ -4,6 +4,7 @@ tags:
 - tutorial
 - liquid
 - v1
+- v2
 position: 0
 image: "/uploads/team-009.jpg"
 layout: client

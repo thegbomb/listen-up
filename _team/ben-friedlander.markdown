@@ -1,6 +1,6 @@
 ---
 title: Ben Friedlander
-image:
+image: 
 job-title: Press Manager
 is-featured: false
 twitter: cestcecilia

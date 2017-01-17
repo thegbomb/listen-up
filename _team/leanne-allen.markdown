@@ -1,6 +1,6 @@
 ---
 title: Leanne Allen
-image:
+image: 
 job-title: Event Press Coordinator
 is-featured: false
 twitter: cestcecilia

@@ -1,6 +1,6 @@
 ---
 title: Cecilia Doreng-Stearns
-image:
+image: 
 job-title: Head of Press, North America
 is-featured: false
 twitter: cestcecilia

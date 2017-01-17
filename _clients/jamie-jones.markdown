@@ -1,11 +1,11 @@
 ---
 title: Jamie Jones
-position: 0
-image: "/uploads/team-009.jpg"
 tags:
 - tutorial
 - liquid
 - v1
+position: 0
+image: "/uploads/team-009.jpg"
 layout: client
 ---
 

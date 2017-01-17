@@ -1,6 +1,6 @@
 ---
 title: Alex John
-image:
+image: 
 job-title: Press Manager, North America
 is-featured: false
 twitter: cestcecilia

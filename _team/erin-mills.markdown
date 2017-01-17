@@ -1,6 +1,6 @@
 ---
 title: Erin Mills
-image:
+image: 
 job-title: Joint Head of Press
 is-featured: false
 twitter: cestcecilia

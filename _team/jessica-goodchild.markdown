@@ -1,6 +1,6 @@
 ---
 title: Jessica Goodchild
-image:
+image: 
 job-title: Senior Press Manager
 is-featured: false
 twitter: cestcecilia

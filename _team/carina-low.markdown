@@ -1,6 +1,6 @@
 ---
 title: Carina Low
-image:
+image: 
 job-title: Senior Events Press Manager
 is-featured: false
 twitter: cestcecilia

@@ -1,6 +1,6 @@
 ---
 title: Liberty Spinks
-image:
+image: 
 job-title: Events Press Manager
 is-featured: false
 twitter: cestcecilia

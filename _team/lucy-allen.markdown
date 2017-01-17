@@ -1,6 +1,6 @@
 ---
 title: Lucy Allen
-image:
+image: 
 job-title: Head of Festival & Events Press
 is-featured: false
 twitter: cestcecilia

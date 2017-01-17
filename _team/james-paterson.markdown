@@ -1,6 +1,6 @@
 ---
 title: James Paterson
-image:
+image: 
 job-title: Head of National Radio
 is-featured: false
 twitter: cestcecilia

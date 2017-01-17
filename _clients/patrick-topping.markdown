@@ -2,6 +2,8 @@
 title: Patrick Topping
 position: 3
 image: "/uploads/team-007.jpg"
+is-featured: true
+is-front: true
 layout: client
 ---
 

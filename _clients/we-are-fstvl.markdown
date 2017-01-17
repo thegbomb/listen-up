@@ -1,7 +1,9 @@
 ---
-title: Steve Lawler
-position: 5
-image: "/uploads/team-005.jpg"
+title: We Are Fstvl
+tags:
+- festival
+position: 2
+image: "/uploads/venue.jpg"
 is-featured: true
 is-front: true
 layout: client

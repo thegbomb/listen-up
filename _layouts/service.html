@@ -1,0 +1,32 @@
+---
+layout: default
+---
+
+<!-- Intro -->
+<section class="clients__intro">
+    <div class="row">
+      <div class="small-12 medium-9 columns">
+        <h2>{{ page.title }}</h2>
+        <h3>{{ page.subtitle }}</h3>
+        {{ page.content }}
+      </div>
+    </div>
+</section>
+<!-- End Intro -->
+
+<!-- Featured Clients -->
+<section class="clients__featured">
+<div class="row small-up-1 medium-up-3">
+{% for client in site.clients %}
+{% if client.categories contains 'events' %}
+    <div class="columns">
+    {{ client.title }}
+    </div>
+{% endif %}
+{% endfor %}
+</div>
+</section>
+<!-- End Featured Clients -->
+
+
+

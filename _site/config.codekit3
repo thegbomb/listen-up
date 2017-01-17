@@ -33,6 +33,12 @@
 		"oAP": "\/_clients\/alesso.markdown",
 		"oF": 0
 		},
+	"\/_clients\/cafe-mambo.markdown": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_clients\/cafe-mambo.markdown",
+		"oF": 0
+		},
 	"\/_clients\/jamie-jones.markdown": {
 		"ft": 8192,
 		"oA": 2,
@@ -49,6 +55,12 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_clients\/martin-solveig.markdown",
+		"oF": 0
+		},
+	"\/_clients\/ministry-of-sound.markdown": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_clients\/ministry-of-sound.markdown",
 		"oF": 0
 		},
 	"\/_clients\/patrick-topping.markdown": {
@@ -73,6 +85,12 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_clients\/subfocus.markdown",
+		"oF": 0
+		},
+	"\/_clients\/we-are-fstvl.markdown": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_clients\/we-are-fstvl.markdown",
 		"oF": 0
 		},
 	"\/_clients\/wiley.markdown": {
@@ -133,6 +151,12 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/_includes\/icons.html",
+		"oF": 0
+		},
+	"\/_includes\/map-script.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_includes\/map-script.html",
 		"oF": 0
 		},
 	"\/_includes\/navigation.html": {
@@ -223,6 +247,12 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/_layouts\/post.html",
+		"oF": 0
+		},
+	"\/_layouts\/service.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_layouts\/service.html",
 		"oF": 0
 		},
 	"\/_layouts\/team.html": {
@@ -387,110 +417,6 @@
 		"oAP": "\/_team\/olivia-warnford-davis.markdown",
 		"oF": 0
 		},
-	"\/_uploads\/55DSL-italy-texas.jpg": {
-		"ft": 16384,
-		"iS": 77007,
-		"oA": 0,
-		"oAP": "\/_uploads\/55DSL-italy-texas.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/_uploads\/bryan-ferry-loop-de-li.jpg": {
-		"ft": 16384,
-		"iS": 185057,
-		"oA": 0,
-		"oAP": "\/_uploads\/bryan-ferry-loop-de-li.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/_uploads\/honda-ignition.jpg": {
-		"ft": 16384,
-		"iS": 90230,
-		"oA": 0,
-		"oAP": "\/_uploads\/honda-ignition.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/_uploads\/james-vincent-mcmorrow-cavalier.jpg": {
-		"ft": 16384,
-		"iS": 124052,
-		"oA": 0,
-		"oAP": "\/_uploads\/james-vincent-mcmorrow-cavalier.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/_uploads\/james-vincent-mcmorrow-glacier.jpg": {
-		"ft": 16384,
-		"iS": 210084,
-		"oA": 0,
-		"oAP": "\/_uploads\/james-vincent-mcmorrow-glacier.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/_uploads\/james-vincent-mcmorrow-red-dust.jpg": {
-		"ft": 16384,
-		"iS": 110197,
-		"oA": 0,
-		"oAP": "\/_uploads\/james-vincent-mcmorrow-red-dust.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/_uploads\/jon-hopkins-open-eye-signal.jpg": {
-		"ft": 16384,
-		"iS": 110357,
-		"oA": 0,
-		"oAP": "\/_uploads\/jon-hopkins-open-eye-signal.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/_uploads\/little-comets-isles.jpg": {
-		"ft": 16384,
-		"iS": 152608,
-		"oA": 0,
-		"oAP": "\/_uploads\/little-comets-isles.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/_uploads\/major-moments.jpg": {
-		"ft": 16384,
-		"iS": 52712,
-		"oA": 0,
-		"oAP": "\/_uploads\/major-moments.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/_uploads\/samsung-feel-more.jpg": {
-		"ft": 16384,
-		"iS": 101948,
-		"oA": 0,
-		"oAP": "\/_uploads\/samsung-feel-more.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/_uploads\/secret-raise.jpg": {
-		"ft": 16384,
-		"iS": 126709,
-		"oA": 0,
-		"oAP": "\/_uploads\/secret-raise.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/_uploads\/simian-mobile-disco-seraphim.jpg": {
-		"ft": 16384,
-		"iS": 99399,
-		"oA": 0,
-		"oAP": "\/_uploads\/simian-mobile-disco-seraphim.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/_uploads\/street-rider.jpg": {
-		"ft": 16384,
-		"iS": 231810,
-		"oA": 0,
-		"oAP": "\/_uploads\/street-rider.jpg",
-		"oF": 0,
-		"opt": 0
-		},
 	"\/_uploads\/team-001.jpg": {
 		"ft": 16384,
 		"iS": 36229,
@@ -579,51 +505,11 @@
 		"oF": 0,
 		"opt": 0
 		},
-	"\/_uploads\/the-question.jpg": {
+	"\/_uploads\/venue.jpg": {
 		"ft": 16384,
-		"iS": 151257,
+		"iS": 114942,
 		"oA": 0,
-		"oAP": "\/_uploads\/the-question.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/_uploads\/u2-every-breaking-wave.jpg": {
-		"ft": 16384,
-		"iS": 126669,
-		"oA": 0,
-		"oAP": "\/_uploads\/u2-every-breaking-wave.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/_uploads\/under-armour-numbers.jpg": {
-		"ft": 16384,
-		"iS": 104312,
-		"oA": 0,
-		"oAP": "\/_uploads\/under-armour-numbers.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/_uploads\/under-armour-prince-with-1000-enemies.jpg": {
-		"ft": 16384,
-		"iS": 32593,
-		"oA": 0,
-		"oAP": "\/_uploads\/under-armour-prince-with-1000-enemies.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/_uploads\/wheels-on-the-car.jpg": {
-		"ft": 16384,
-		"iS": 176006,
-		"oA": 0,
-		"oAP": "\/_uploads\/wheels-on-the-car.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/_uploads\/wilkinson-half-light.jpg": {
-		"ft": 16384,
-		"iS": 143070,
-		"oA": 0,
-		"oAP": "\/_uploads\/wilkinson-half-light.jpg",
+		"oAP": "\/_uploads\/venue.jpg",
 		"oF": 0,
 		"opt": 0
 		},

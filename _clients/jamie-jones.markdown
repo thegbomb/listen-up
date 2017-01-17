@@ -1,12 +1,11 @@
 ---
 title: Jamie Jones
 tags:
-- tutorial
-- liquid
-- v1
-- v2
+- artist
 position: 0
 image: "/uploads/team-009.jpg"
+is-featured: true
+is-front: true
 layout: client
 ---
 

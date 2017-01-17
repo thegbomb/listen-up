@@ -2,6 +2,8 @@
 title: Sam Feldt
 position: 7
 image: "/uploads/team-003.jpg"
+is-featured: true
+is-front: true
 layout: client
 ---
 

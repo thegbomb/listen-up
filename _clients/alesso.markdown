@@ -1,7 +1,13 @@
 ---
 title: Alesso
+tags:
+- artist
+categories:
+- events
 position: 2
 image: "/uploads/team-011.jpg"
+is-featured: true
+is-front: true
 layout: client
 ---
 

@@ -8725,6 +8725,17 @@ footer {
   padding-top: 3rem;
   padding-bottom: 3rem; }
 
+.clients__list {
+  padding-top: 3rem;
+  padding-bottom: 3rem; }
+
+.clients__category {
+  padding-top: 1rem;
+  padding-bottom: 1rem; }
+
+.clients__category__title {
+  color: #e32117; }
+
 .team__intro {
   padding-top: 3rem;
   padding-bottom: 3rem; }

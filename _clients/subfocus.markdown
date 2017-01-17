@@ -2,6 +2,8 @@
 title: Subfocus
 position: 1
 image: "/uploads/team-010.jpg"
+is-featured: true
+is-front: true
 layout: client
 ---
 

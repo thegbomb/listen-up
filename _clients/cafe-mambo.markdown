@@ -1,7 +1,9 @@
 ---
-title: Steve Lawler
-position: 5
-image: "/uploads/team-005.jpg"
+title: Cafe Mambo
+tags:
+- venue
+position: 2
+image: "/uploads/venue.jpg"
 is-featured: true
 is-front: true
 layout: client

@@ -1,9 +1,13 @@
 ---
-title: Steve Lawler
-position: 5
-image: "/uploads/team-005.jpg"
-is-featured: true
-is-front: true
+title: Ministry of Sound
+tags:
+- label
+categories:
+- events
+position: 3
+image: "/uploads/team-006.jpg"
+is-featured:
+is-front:
 layout: client
 ---
 

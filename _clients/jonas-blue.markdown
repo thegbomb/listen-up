@@ -1,7 +1,11 @@
 ---
 title: Jonas Blue
+tags:
+- artist
 position: 8
 image: "/uploads/team-002.jpg"
+is-featured: true
+is-front: true
 layout: client
 ---
 

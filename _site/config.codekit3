@@ -27,6 +27,12 @@
 		"rFN": 0,
 		"uCM": 0
 		},
+	"\/_clients\/alesso.markdown": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_clients\/alesso.markdown",
+		"oF": 0
+		},
 	"\/_clients\/cafe-mambo.markdown": {
 		"ft": 8192,
 		"oA": 2,
@@ -49,6 +55,12 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_clients\/martin-solveig.markdown",
+		"oF": 0
+		},
+	"\/_clients\/ministry-of-sound.markdown": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_clients\/ministry-of-sound.markdown",
 		"oF": 0
 		},
 	"\/_clients\/patrick-topping.markdown": {
@@ -243,10 +255,40 @@
 		"oAP": "\/_layouts\/service.html",
 		"oF": 0
 		},
+	"\/_layouts\/services.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_layouts\/services.html",
+		"oF": 0
+		},
 	"\/_layouts\/team.html": {
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_layouts\/team.html",
+		"oF": 0
+		},
+	"\/_services\/digital.markdown": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_services\/digital.markdown",
+		"oF": 0
+		},
+	"\/_services\/events.markdown": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_services\/events.markdown",
+		"oF": 0
+		},
+	"\/_services\/press.markdown": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_services\/press.markdown",
+		"oF": 0
+		},
+	"\/_services\/radio.markdown": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_services\/radio.markdown",
 		"oF": 0
 		},
 	"\/_site": {

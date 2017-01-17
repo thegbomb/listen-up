@@ -133,10 +133,10 @@ $header-styles: (
   ),
   medium: (
     'h1': ('font-size': 48),
-    'h2': ('font-size': 40),
-    'h3': ('font-size': 31),
-    'h4': ('font-size': 25),
-    'h5': ('font-size': 20),
+    'h2': ('font-size': 36),
+    'h3': ('font-size': 24),
+    'h4': ('font-size': 20),
+    'h5': ('font-size': 18),
     'h6': ('font-size': 16),
   ),
 );
@@ -426,6 +426,7 @@ $menu-margin: 0;
 $menu-margin-nested: 1rem;
 $menu-item-padding: 0.7rem 1rem;
 $menu-item-color-active: $white;
+$menu-item-color-active: $black;
 $menu-item-background-active: get-color(primary);
 $menu-icon-spacing: 0.25rem;
 $menu-item-background-hover: $light-gray;
@@ -629,7 +630,7 @@ $topbar-padding: 0.5rem;
 // $topbar-background: $light-gray;
 $topbar-background: $color--red;
 $topbar-submenu-background: $topbar-background;
-$topbar-title-spacing: 0.5rem 0 0 0;
+$topbar-title-spacing: 0.5rem 0 0 0.5rem;
 $topbar-input-width: 200px;
 $topbar-unstack-breakpoint: medium;
 

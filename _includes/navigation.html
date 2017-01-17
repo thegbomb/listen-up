@@ -1,3 +1,15 @@
+<!-- This finds the current page so it can be highlighted. -->
+
+{% for entry in site.data.navigation %}
+{% capture fullurl %}{{ site.baseurl }}{{ entry.url }}{% endcapture %}
+    {% if fullurl == page.url %}
+        {% assign current_page = fullurl %}
+        {% break %}
+    {% elsif page.url contains fullurl %}
+        {% assign current_page = fullurl %}
+    {% endif %}
+{% endfor %}
+
 <nav>
   <div class="top-bar">
     
@@ -12,24 +24,36 @@
     
 
       <div class="top-bar-right" id="responsive-menu">
+        
         <ul class="dropdown menu" data-dropdown-menu>
-          <li>
-            <a href="#">Services</a>
+    {% for entry in site.data.navigation %}
+        {% if entry.url == current_page %}
+            {% assign current = ' class="active"' %}
+        {% else %}
+            {% assign current = null %}
+        {% endif %}
+        {% assign sublinks = entry.sublinks %}
+        {% if sublinks %}
+        <li{{ current }}>
+            <a href="{{ site.baseurl }}{{ entry.url }}">{{ entry.title }}</a>
             <ul class="menu vertical">
-              <li><a href="#">Events</a></li>
-              <li><a href="#">Radio</a></li>
-              <li><a href="#">Digital</a></li>
-              <li><a href="#">Press</a></li>
+                {% for sublink in sublinks %}
+                <li><a href="{{ site.baseurl }}{{ sublink.url }}">{{ sublink.title }}</a></li>
+                {% endfor %}
             </ul>
-          </li>
-          <li><a href="/clients">Clients</a></li>
-          <li><a href="/team">Team</a></li>
-          <li><a href="/contact">Contact</a></li>
-          <li><a href="#"><svg class="icon icon-facebook"><use xlink:href="#icon-facebook"></use></svg></a></li>
-          <li><a href="#"><svg class="icon icon-instagram"><use xlink:href="#icon-instagram"></use></svg></a></li>
-          <li><a href="#"><svg class="icon icon-twitter"><use xlink:href="#icon-twitter"></use></svg></a></li>
-        </ul>
+        </li>
+        {% else %}
+        <li{{ current }}><a href="{{ site.baseurl }}{{ entry.url }}">{{ entry.title }}</a></li>
+        {% endif %}
+    {% endfor %}
+    <li><a href="{{site.social.facebook}}"><svg class="icon icon-facebook"><use xlink:href="#icon-facebook"></use></svg></a></li>
+    <li><a href="{{site.social.instagram}}"><svg class="icon icon-instagram"><use xlink:href="#icon-instagram"></use></svg></a></li>
+    <li><a href="{{site.social.twitter}}"><svg class="icon icon-twitter"><use xlink:href="#icon-twitter"></use></svg></a></li>
+    </ul>
+    
       </div>
+      
+      
     </div>
     
     

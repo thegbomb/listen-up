@@ -27,118 +27,58 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/_clients\/55DSL-italy-texas.markdown": {
+	"\/_clients\/alesso.markdown": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/_clients\/55DSL-italy-texas.markdown",
+		"oAP": "\/_clients\/alesso.markdown",
 		"oF": 0
 		},
-	"\/_clients\/bryan-ferry-loop-de-li.markdown": {
+	"\/_clients\/jamie-jones.markdown": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/_clients\/bryan-ferry-loop-de-li.markdown",
+		"oAP": "\/_clients\/jamie-jones.markdown",
 		"oF": 0
 		},
-	"\/_clients\/honda-ignition.markdown": {
+	"\/_clients\/jonas-blue.markdown": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/_clients\/honda-ignition.markdown",
+		"oAP": "\/_clients\/jonas-blue.markdown",
 		"oF": 0
 		},
-	"\/_clients\/james-vincent-mcmorrow-cavalier.markdown": {
+	"\/_clients\/martin-solveig.markdown": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/_clients\/james-vincent-mcmorrow-cavalier.markdown",
+		"oAP": "\/_clients\/martin-solveig.markdown",
 		"oF": 0
 		},
-	"\/_clients\/james-vincent-mcmorrow-glacier.markdown": {
+	"\/_clients\/patrick-topping.markdown": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/_clients\/james-vincent-mcmorrow-glacier.markdown",
+		"oAP": "\/_clients\/patrick-topping.markdown",
 		"oF": 0
 		},
-	"\/_clients\/james-vincent-mcmorrow-red-dust.markdown": {
+	"\/_clients\/sam-feldt.markdown": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/_clients\/james-vincent-mcmorrow-red-dust.markdown",
+		"oAP": "\/_clients\/sam-feldt.markdown",
 		"oF": 0
 		},
-	"\/_clients\/jon-hopkins-open-eye-signal.markdown": {
+	"\/_clients\/steve-lawler.markdown": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/_clients\/jon-hopkins-open-eye-signal.markdown",
+		"oAP": "\/_clients\/steve-lawler.markdown",
 		"oF": 0
 		},
-	"\/_clients\/little-comets-isles.markdown": {
+	"\/_clients\/subfocus.markdown": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/_clients\/little-comets-isles.markdown",
+		"oAP": "\/_clients\/subfocus.markdown",
 		"oF": 0
 		},
-	"\/_clients\/major-moments.markdown": {
+	"\/_clients\/wiley.markdown": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/_clients\/major-moments.markdown",
-		"oF": 0
-		},
-	"\/_clients\/samsung-feel-more.markdown": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_clients\/samsung-feel-more.markdown",
-		"oF": 0
-		},
-	"\/_clients\/secret-raise.markdown": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_clients\/secret-raise.markdown",
-		"oF": 0
-		},
-	"\/_clients\/simian-mobile-disco-seraphim.markdown": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_clients\/simian-mobile-disco-seraphim.markdown",
-		"oF": 0
-		},
-	"\/_clients\/street-rider.markdown": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_clients\/street-rider.markdown",
-		"oF": 0
-		},
-	"\/_clients\/the-question.markdown": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_clients\/the-question.markdown",
-		"oF": 0
-		},
-	"\/_clients\/u2-every-breaking-wave.markdown": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_clients\/u2-every-breaking-wave.markdown",
-		"oF": 0
-		},
-	"\/_clients\/under-armour-numbers.markdown": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_clients\/under-armour-numbers.markdown",
-		"oF": 0
-		},
-	"\/_clients\/under-armour-prince-with-1000-enemies.markdown": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_clients\/under-armour-prince-with-1000-enemies.markdown",
-		"oF": 0
-		},
-	"\/_clients\/wheels-on-the-car.markdown": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_clients\/wheels-on-the-car.markdown",
-		"oF": 0
-		},
-	"\/_clients\/wilkinson-half-light.markdown": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_clients\/wilkinson-half-light.markdown",
+		"oAP": "\/_clients\/wiley.markdown",
 		"oF": 0
 		},
 	"\/_config.yml": {
@@ -237,6 +177,12 @@
 		"oAP": "\/_layouts\/about.html",
 		"oF": 0
 		},
+	"\/_layouts\/client.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_layouts\/client.html",
+		"oF": 0
+		},
 	"\/_layouts\/clients.html": {
 		"ft": 8192,
 		"oA": 2,
@@ -279,12 +225,6 @@
 		"oAP": "\/_layouts\/post.html",
 		"oF": 0
 		},
-	"\/_layouts\/project.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_layouts\/project.html",
-		"oF": 0
-		},
 	"\/_layouts\/team.html": {
 		"ft": 8192,
 		"oA": 2,
@@ -319,6 +259,18 @@
 		"ft": 65536,
 		"oA": 1,
 		"oAP": "\/build\/_site",
+		"oF": 0
+		},
+	"\/_team\/cecilia-doreng-stearns.markdown": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_team\/cecilia-doreng-stearns.markdown",
+		"oF": 0
+		},
+	"\/_team\/grace-mccracken.markdown": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_team\/grace-mccracken.markdown",
 		"oF": 0
 		},
 	"\/_team\/james-jackson.markdown": {
@@ -13591,6 +13543,24 @@
 		"oA": 2,
 		"oAP": "\/robots.txt",
 		"oF": 0
+		},
+	"\/services.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 2,
+		"oAP": "\/services.md",
+		"oF": 1,
+		"oFM": 9,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
 		},
 	"\/team.md": {
 		"cS": 0,

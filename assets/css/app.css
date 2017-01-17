@@ -8633,12 +8633,26 @@ div.row.excerpt__title {
 .contact__location {
   margin-bottom: 2rem; }
 
+.contact__location__directions {
+  padding-top: 0rem;
+  padding-bottom: 1rem; }
+  .contact__location__directions a {
+    color: #9B9B9B; }
+  .contact__location__directions a:hover {
+    color: #2c2c2d; }
+
 .contact__location__map {
   height: 20rem; }
+
+.contact__enquiries__title {
+  color: #e32117; }
 
 .contact__enquiries {
   padding-top: 3rem;
   padding-bottom: 3rem; }
+
+.contact__enquiry {
+  padding-bottom: 1rem; }
 
 .about__clients {
   padding: 1rem 3rem 1rem 3rem; }
@@ -8735,3 +8749,7 @@ footer {
 
 .team__people p {
   color: #666666; }
+
+.team__people__person {
+  padding-top: 1rem;
+  padding-bottom: 1rem; }

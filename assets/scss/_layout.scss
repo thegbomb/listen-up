@@ -182,13 +182,32 @@ div.row.excerpt__title {
   margin-bottom: 2rem;
 }
 
+.contact__location__directions {
+  padding-top: 0rem;
+  padding-bottom: 1rem;
+  a {
+      color: $color--gray;
+    }
+    a:hover {
+      color: $color--black;
+    }
+}
+
 .contact__location__map {
     height: 20rem;
+}
+
+.contact__enquiries__title {
+  color: $color--red;
 }
 
 .contact__enquiries {
   padding-top: 3rem;
   padding-bottom: 3rem;
+}
+
+.contact__enquiry {
+  padding-bottom: 1rem;
 }
 
 // 10. About
@@ -329,4 +348,9 @@ footer {
   p {
     color: $color--dark-gray;
   }
+}
+
+.team__people__person {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
 }

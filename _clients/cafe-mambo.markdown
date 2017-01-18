@@ -1,7 +1,6 @@
 ---
 title: Cafe Mambo
 categories:
-- radio
 - events
 tags:
 - venue

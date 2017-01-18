@@ -25,7 +25,7 @@ layout: default
       <div class="columns">
        {% include client-excerpt.html %}
       </div>
-      {% endif %}      
+      {% endif %} 
       
       {% endif %}
     {% endfor %}
@@ -34,34 +34,8 @@ layout: default
 </section>
 <!-- End Service Clients -->
 
-
-<!-- Clients -->
-<!--
-<section class="service__clients">
-  <div class="row small-up-1 medium-up-3">
-    {% assign category = page.title | downcase %}
-    {% for client in site.clients %}
-      {% if client.categories contains category %}
-      
-      {% if client %}
-      <div class="columns">
-       {{client.title}}
-       {{client.content}}
-      </div>
-      {% endif %}      
-      
-      {% endif %}
-    {% endfor %}
-  
-  </div>
-</section>
--->
-<!--  Clients -->
-
-
 <!-- Clients List -->
 <section class="clients__list">
-  
   <!-- Clients Category - Labels -->
     <div class="row clients__category">
       
@@ -71,21 +45,142 @@ layout: default
       
       <div class="small-9 columns clients__category__list">
         <div class="row small-up-1 medium-up-3"> 
-        
-        {% assign category = page.title | downcase and page.category  %}
-        {% for client in site.clients %}
-          {% if client.categories contains category %}
-            <div class="columns">
-              {% if client.is-featured  %}
-              {{ client.title }}
-              {% endif %}
-            </div>
+      {% assign category = page.title | downcase %}
+      {% for client in site.clients %}
+        {% if client.categories contains category %}    
+          {% if client.is-featured and client.tags contains 'label' %}
+          <div class="small-12 columns">
+          {{client.title}}
+          </div>
           {% endif %}
-        {% endfor %}
+        {% endif %}
+      {% endfor %} 
         </div>
       </div>
     
     </div>
   <!-- End Clients Category - Labels -->
+  
+  <!-- Clients Category - Artists -->
+    <div class="row clients__category">
+      
+      <div class="small-3 columns clients__category__title">
+        <h4>Artists</h4>
+      </div>
+      
+      <div class="small-9 columns clients__category__list">
+        <div class="row small-up-1 medium-up-3"> 
+          {% assign category = page.title | downcase %}
+          {% for client in site.clients %}
+          {% if client.categories contains category %}    
+            {% if client.is-featured and client.tags contains 'artist' %}
+            <div class="small-12 columns">
+            {{client.title}}
+            </div>
+            {% endif %}
+          {% endif %}
+          {% endfor %} 
+        </div>
+      </div>
+    
+    </div>
+  <!-- End Clients Category - Artists -->
+  
+  <!-- Clients Category - Festivals -->
+    <div class="row clients__category">
+      
+      <div class="small-3 columns clients__category__title">
+        <h4>Festivals</h4>
+      </div>
+      
+      <div class="small-9 columns clients__category__list">
+        <div class="row small-up-1 medium-up-3"> 
+          {% assign category = page.title | downcase %}
+          {% for client in site.clients %}
+          {% if client.categories contains category %}    
+            {% if client.is-featured and client.tags contains 'festival' %}
+            <div class="small-12 columns">
+            {{client.title}}
+            </div>
+            {% endif %}
+          {% endif %}
+          {% endfor %} 
+        </div>
+      </div>
+    
+    </div>
+  <!-- End Clients Category - Festivals -->
+  
+  <!-- Clients Category - Venues -->
+    <div class="row clients__category">
+      
+      <div class="small-3 columns clients__category__title">
+        <h4>Venues</h4>
+      </div>
+      
+      <div class="small-9 columns clients__category__list">
+        <div class="row small-up-1 medium-up-3"> 
+          {% assign category = page.title | downcase %}
+          {% for client in site.clients %}
+          {% if client.categories contains category %}    
+            {% if client.is-featured and client.tags contains 'venue' %}
+            <div class="small-12 columns">
+            {{client.title}}
+            </div>
+            {% endif %}
+          {% endif %}
+          {% endfor %} 
+        </div>
+      </div>
+    
+    </div>
+  <!-- End Clients Category - Venues -->
 </section>
 <!-- End Clients List -->
+
+<!-- Service Clients - Label -->
+<!--
+<section class="service__clients__featured">
+  
+  <div class="row">
+      {% assign category = page.title | downcase %}
+      {% for client in site.clients %}
+        {% if client.categories contains category %}    
+          {% if client.is-featured and client.tags contains 'label' %}
+          <div class="small-12 columns">
+          {{client.title}}
+          </div>
+          {% endif %}
+        {% endif %}
+      {% endfor %} 
+  </div>
+  
+   <div class="row">
+      {% assign category = page.title | downcase %}
+      {% for client in site.clients %}
+        {% if client.categories contains category %}    
+          {% if client.is-featured and client.tags contains 'artist' %}
+          <div class="small-12 columns">
+          {{client.title}}
+          </div>
+          {% endif %}
+        {% endif %}
+      {% endfor %} 
+  </div>
+  
+   <div class="row">
+      {% assign category = page.title | downcase %}
+      {% for client in site.clients %}
+        {% if client.categories contains category %}    
+          {% if client.is-featured and client.tags contains 'artist' %}
+          <div class="small-12 columns">
+          {{client.title}}
+          </div>
+          {% endif %}
+        {% endif %}
+      {% endfor %} 
+  </div>
+  
+</section>
+-->
+<!-- End Service Clients - Label -->

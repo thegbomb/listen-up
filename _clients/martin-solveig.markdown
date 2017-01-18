@@ -8,7 +8,7 @@ tags:
 position: 6
 image: "/uploads/team-004.jpg"
 is-featured: true
-is-front: true
+is-front: false
 layout: client
 ---
 

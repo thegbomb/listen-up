@@ -72,11 +72,11 @@ layout: default
       <div class="small-9 columns clients__category__list">
         <div class="row small-up-1 medium-up-3"> 
         
-        {% assign category = page.title | downcase  %}
+        {% assign category = page.title | downcase and page.category  %}
         {% for client in site.clients %}
           {% if client.categories contains category %}
             <div class="columns">
-              {% if client.is-featured | and client.tags contains label  %}
+              {% if client.is-featured  %}
               {{ client.title }}
               {% endif %}
             </div>

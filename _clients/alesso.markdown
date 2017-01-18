@@ -1,12 +1,13 @@
 ---
 title: Alesso
 categories:
-- events
+- radio
+- digital
 tags:
 - artist
 position: 2
 image: "/uploads/team-011.jpg"
-is-featured: true
+is-featured: false
 is-front: true
 layout: client
 ---

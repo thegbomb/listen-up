@@ -1,13 +1,12 @@
 ---
-title: Cafe Mambo
-categories:
-- radio
-- events
+title: Fabric
 tags:
-- venue
+- festival
+categories:
+- events
 position: 2
 image: "/uploads/venue.jpg"
-is-featured: true
+is-featured:
 is-front: true
 layout: client
 ---

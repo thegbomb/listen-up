@@ -1,5 +1,10 @@
 ---
 title: Martin Solveig
+categories:
+- radio
+- press
+tags:
+- artist
 position: 6
 image: "/uploads/team-004.jpg"
 is-featured: true

@@ -52,7 +52,7 @@ layout: default
 <h5>{{ service.subtitle }}</h5>
 <p>{{ service.content }}</p>
 <div class="index__more">
-  <a href="{{team.twitter}}" class="plus">More</a>
+  <a href="services/{{ service.title | downcase }}" class="plus">More</a>
 </div>
 </div>
 {% endfor %}

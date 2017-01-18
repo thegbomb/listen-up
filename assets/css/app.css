@@ -8736,6 +8736,18 @@ footer {
 .clients__category__title {
   color: #e32117; }
 
+.service__intro {
+  padding-top: 3rem;
+  padding-bottom: 3rem; }
+
+.service__clients__featured {
+  padding-top: 3rem;
+  padding-bottom: 3rem; }
+
+.service__clients {
+  padding-top: 3rem;
+  padding-bottom: 3rem; }
+
 .team__intro {
   padding-top: 3rem;
   padding-bottom: 3rem; }

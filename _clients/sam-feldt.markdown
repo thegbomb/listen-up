@@ -1,8 +1,10 @@
 ---
 title: Sam Feldt
+categories:
+- radio
 position: 7
 image: "/uploads/team-003.jpg"
-is-featured: true
+is-featured:
 is-front: true
 layout: client
 ---

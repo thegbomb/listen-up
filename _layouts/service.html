@@ -3,7 +3,7 @@ layout: default
 ---
 
 <!-- Intro -->
-<section class="clients__intro">
+<section class="service__intro">
     <div class="row">
       <div class="small-12 medium-9 columns">
         <h2>{{ page.title }}</h2>
@@ -14,19 +14,78 @@ layout: default
 </section>
 <!-- End Intro -->
 
-<!-- Featured Clients -->
-<section class="clients__featured">
-<div class="row small-up-1 medium-up-3">
-{% for client in site.clients %}
-{% if client.categories contains 'events' %}
-    <div class="columns">
-    {{ client.title }}
-    </div>
-{% endif %}
-{% endfor %}
-</div>
+<!-- Featured Service Clients -->
+<section class="service__clients__featured">
+  <div class="row small-up-1 medium-up-3">
+    {% assign category = page.title | downcase %}
+    {% for client in site.clients %}
+      {% if client.categories contains category %}
+      
+      {% if client.is-featured %}
+      <div class="columns">
+       {% include client-excerpt.html %}
+      </div>
+      {% endif %}      
+      
+      {% endif %}
+    {% endfor %}
+  
+  </div>
 </section>
-<!-- End Featured Clients -->
+<!-- End Service Clients -->
 
 
+<!-- Clients -->
+<!--
+<section class="service__clients">
+  <div class="row small-up-1 medium-up-3">
+    {% assign category = page.title | downcase %}
+    {% for client in site.clients %}
+      {% if client.categories contains category %}
+      
+      {% if client %}
+      <div class="columns">
+       {{client.title}}
+       {{client.content}}
+      </div>
+      {% endif %}      
+      
+      {% endif %}
+    {% endfor %}
+  
+  </div>
+</section>
+-->
+<!--  Clients -->
 
+
+<!-- Clients List -->
+<section class="clients__list">
+  
+  <!-- Clients Category - Labels -->
+    <div class="row clients__category">
+      
+      <div class="small-3 columns clients__category__title">
+        <h4>Labels</h4>
+      </div>
+      
+      <div class="small-9 columns clients__category__list">
+        <div class="row small-up-1 medium-up-3"> 
+        
+        {% assign category = page.title | downcase  %}
+        {% for client in site.clients %}
+          {% if client.categories contains category %}
+            <div class="columns">
+              {% if client.is-featured | and client.tags contains label  %}
+              {{ client.title }}
+              {% endif %}
+            </div>
+          {% endif %}
+        {% endfor %}
+        </div>
+      </div>
+    
+    </div>
+  <!-- End Clients Category - Labels -->
+</section>
+<!-- End Clients List -->

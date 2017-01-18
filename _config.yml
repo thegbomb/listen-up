@@ -30,7 +30,12 @@ defaults:
     permalink: "/blog/:title/"
     layout: post
     image: 
-    description: 
+    description:
+- scope:
+    type: services
+  values:
+    permalink: "/services/:title/"
+    layout: service
 url: http://listen-up.biz
 description: Listen Up provides a bespoke 360 promotional service offering radio,
   club, online and print campaigns in the UK and worldwide.

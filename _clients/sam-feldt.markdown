@@ -4,7 +4,7 @@ categories:
 - radio
 position: 7
 image: "/uploads/team-003.jpg"
-is-featured:
+is-featured: 
 is-front: true
 layout: client
 ---

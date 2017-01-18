@@ -30,8 +30,9 @@ defaults:
     permalink: "/blog/:title/"
     layout: post
     image: 
-    description:
+    description: 
 - scope:
+    path: ''
     type: services
   values:
     permalink: "/services/:title/"

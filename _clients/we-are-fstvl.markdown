@@ -1,9 +1,9 @@
 ---
 title: We Are Fstvl
-tags:
-- festival
 categories:
 - events
+tags:
+- festival
 position: 2
 image: "/uploads/venue.jpg"
 is-featured: ture

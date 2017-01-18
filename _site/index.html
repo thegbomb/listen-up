@@ -55,92 +55,124 @@
 <body>
 
 <!-- Navigation -->  
-<!-- This finds the current page so it can be highlighted. -->
 
 
 
-    
 
 
-    
 
 
-    
 
 
-    
+
+
+
 
 
 <nav>
-  <div class="top-bar">
-    
+  <div class="top-bar"> 
     <div class="row expanded align-middle align-justify">
     
-    <div class="top-bar-title">
-      <a href="/"><svg class="icon icon-logo"><use xlink:href="#icon-logo"></use></svg></a>
-      <span data-responsive-toggle="responsive-menu" data-hide-for="medium">
-        <button class="menu-icon dark" type="button" data-toggle></button>
-      </span>
-    </div>
-    
-
-      <div class="top-bar-right" id="responsive-menu">
-        
-        <ul class="dropdown menu" data-dropdown-menu>
-    
-        
-        
-        
-        <li>
-            <a href="/services/">Services</a>
-            <ul class="menu vertical">
-                
-                <li><a href="/services/events/">Events</a></li>
-                
-                <li><a href="/services/radio/">Radio</a></li>
-                
-                <li><a href="/services/digital/">Digital</a></li>
-                
-                <li><a href="/services/press/">Press</a></li>
-                
-            </ul>
-        </li>
-        
-    
-        
-        
-        
-        <li><a href="/clients/">Clients</a></li>
-        
-    
-        
-        
-        
-        <li><a href="/team/">Team</a></li>
-        
-    
-        
-        
-        
-        <li><a href="/contact/">Contact</a></li>
-        
-    
-    <li><a href="https://www.facebook.com/listenupbiz"><svg class="icon icon-facebook"><use xlink:href="#icon-facebook"></use></svg></a></li>
-    <li><a href="https://www.instagram.com/listenupbiz/"><svg class="icon icon-instagram"><use xlink:href="#icon-instagram"></use></svg></a></li>
-    <li><a href="https://twitter.com/ListenUpbiz"><svg class="icon icon-twitter"><use xlink:href="#icon-twitter"></use></svg></a></li>
-    </ul>
-    
+      <div class="top-bar-title">
+        <a href="/"><svg class="icon icon-logo"><use xlink:href="#icon-logo"></use></svg></a>
       </div>
       
+      <div class="top-bar-right-mobile show-for-small-only">
+        <button class="hamburger hamburger--collapse" id="toggle" data-toggler=".is-active" type="button" data-toggle="overlay toggle">
+          <span class="hamburger-box">
+            <span class="hamburger-inner"></span>
+          </span>
+        </button>
+      </div>
       
+      <div class="top-bar-right show-for-medium">
+        <ul class="dropdown menu" data-dropdown-menu>
+          
+          
+          
+          
+          <li>
+          <a href="/services/">Services</a>
+          <ul class="menu vertical">
+          
+          <li><a href="/services/events/">Events</a></li>
+          
+          <li><a href="/services/radio/">Radio</a></li>
+          
+          <li><a href="/services/digital/">Digital</a></li>
+          
+          <li><a href="/services/press/">Press</a></li>
+          
+          </ul>
+          </li>
+          
+          
+          
+          
+          
+          <li><a href="/clients/">Clients</a></li>
+          
+          
+          
+          
+          
+          <li><a href="/team/">Team</a></li>
+          
+          
+          
+          
+          
+          <li><a href="/contact/">Contact</a></li>
+          
+          
+          <li><a href="https://www.facebook.com/listenupbiz"><svg class="icon icon-facebook"><use xlink:href="#icon-facebook"></use></svg></a></li>
+          <li><a href="https://www.instagram.com/listenupbiz/"><svg class="icon icon-instagram"><use xlink:href="#icon-instagram"></use></svg></a></li>
+          <li><a href="https://twitter.com/ListenUpbiz"><svg class="icon icon-twitter"><use xlink:href="#icon-twitter"></use></svg></a></li>
+        </ul>
+      </div>
+    
     </div>
-    
-    
   </div>
 </nav>
 
 
 <!-- End Navigation -->
+
+<!-- Menu -->  
+<!-- Overlay Menu -->
+<div class="overlay" id="overlay" data-toggler=".open">
+
+<!--
+  <button class="close-button" data-toggle="overlay" type="button">
+      <span aria-hidden="true">&times;</span>
+  </button>
+-->
+
+  <nav class="overlay-menu">
+      <ul>
+        
+          <li class="element">
+            <a href="">Services</a>
+          </li>
+        
+          <li class="element">
+            <a href="">Clients</a>
+          </li>
+        
+          <li class="element">
+            <a href="">Team</a>
+          </li>
+        
+          <li class="element">
+            <a href="">Contact</a>
+          </li>
+        
+      </ul>
+  </nav>
+
+</div>
+<!-- End Overlay Menu -->
+<!-- End Menu --> 
 
 <!-- Content -->
 <!-- Hero -->
@@ -317,30 +349,6 @@
     <div class="small-12 medium-6 large-4 columns">
     <!-- Excerpt -->
 <div class="excerpt">
-  <a href="/clients/wiley/">
-
-  <!-- Excerpt Title -->
-  <div class="row excerpt__title align-middle">
-    <div class="small-12 columns text-center">
-      <p>Wiley</p>
-    </div>
-  </div>
-  <!-- End Excerpt Title -->
-
-  <!-- Excerpt Image -->
-  <div class="excerpt__image">
-  <img src="/uploads/team-006.jpg" alt="Wiley">
-  </div>
-  <!-- End Image -->
-
-  </a>
-</div>
-<!-- End Excerpt -->
-    </div>
-  
-    <div class="small-12 medium-6 large-4 columns">
-    <!-- Excerpt -->
-<div class="excerpt">
   <a href="/clients/ministry-of-sound/">
 
   <!-- Excerpt Title -->
@@ -402,54 +410,6 @@
   <!-- Excerpt Image -->
   <div class="excerpt__image">
   <img src="/uploads/team-005.jpg" alt="Steve Lawler">
-  </div>
-  <!-- End Image -->
-
-  </a>
-</div>
-<!-- End Excerpt -->
-    </div>
-  
-    <div class="small-12 medium-6 large-4 columns">
-    <!-- Excerpt -->
-<div class="excerpt">
-  <a href="/clients/martin-solveig/">
-
-  <!-- Excerpt Title -->
-  <div class="row excerpt__title align-middle">
-    <div class="small-12 columns text-center">
-      <p>Martin Solveig</p>
-    </div>
-  </div>
-  <!-- End Excerpt Title -->
-
-  <!-- Excerpt Image -->
-  <div class="excerpt__image">
-  <img src="/uploads/team-004.jpg" alt="Martin Solveig">
-  </div>
-  <!-- End Image -->
-
-  </a>
-</div>
-<!-- End Excerpt -->
-    </div>
-  
-    <div class="small-12 medium-6 large-4 columns">
-    <!-- Excerpt -->
-<div class="excerpt">
-  <a href="/clients/sam-feldt/">
-
-  <!-- Excerpt Title -->
-  <div class="row excerpt__title align-middle">
-    <div class="small-12 columns text-center">
-      <p>Sam Feldt</p>
-    </div>
-  </div>
-  <!-- End Excerpt Title -->
-
-  <!-- Excerpt Image -->
-  <div class="excerpt__image">
-  <img src="/uploads/team-003.jpg" alt="Sam Feldt">
   </div>
   <!-- End Image -->
 

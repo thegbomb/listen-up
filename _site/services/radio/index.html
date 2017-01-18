@@ -52,97 +52,129 @@
 <body>
 
 <!-- Navigation -->  
-<!-- This finds the current page so it can be highlighted. -->
 
 
 
-    
-        
-    
 
 
-    
 
 
-    
 
 
-    
+
+
+
+
+
 
 
 <nav>
-  <div class="top-bar">
-    
+  <div class="top-bar"> 
     <div class="row expanded align-middle align-justify">
     
-    <div class="top-bar-title">
-      <a href="/"><svg class="icon icon-logo"><use xlink:href="#icon-logo"></use></svg></a>
-      <span data-responsive-toggle="responsive-menu" data-hide-for="medium">
-        <button class="menu-icon dark" type="button" data-toggle></button>
-      </span>
-    </div>
-    
-
-      <div class="top-bar-right" id="responsive-menu">
-        
-        <ul class="dropdown menu" data-dropdown-menu>
-    
-        
-        
-        
-        <li class="active">
-            <a href="/services/">Services</a>
-            <ul class="menu vertical">
-                
-                <li><a href="/services/events/">Events</a></li>
-                
-                <li><a href="/services/radio/">Radio</a></li>
-                
-                <li><a href="/services/digital/">Digital</a></li>
-                
-                <li><a href="/services/press/">Press</a></li>
-                
-            </ul>
-        </li>
-        
-    
-        
-        
-        
-        <li><a href="/clients/">Clients</a></li>
-        
-    
-        
-        
-        
-        <li><a href="/team/">Team</a></li>
-        
-    
-        
-        
-        
-        <li><a href="/contact/">Contact</a></li>
-        
-    
-    <li><a href="https://www.facebook.com/listenupbiz"><svg class="icon icon-facebook"><use xlink:href="#icon-facebook"></use></svg></a></li>
-    <li><a href="https://www.instagram.com/listenupbiz/"><svg class="icon icon-instagram"><use xlink:href="#icon-instagram"></use></svg></a></li>
-    <li><a href="https://twitter.com/ListenUpbiz"><svg class="icon icon-twitter"><use xlink:href="#icon-twitter"></use></svg></a></li>
-    </ul>
-    
+      <div class="top-bar-title">
+        <a href="/"><svg class="icon icon-logo"><use xlink:href="#icon-logo"></use></svg></a>
       </div>
       
+      <div class="top-bar-right-mobile show-for-small-only">
+        <button class="hamburger hamburger--collapse" id="toggle" data-toggler=".is-active" type="button" data-toggle="overlay toggle">
+          <span class="hamburger-box">
+            <span class="hamburger-inner"></span>
+          </span>
+        </button>
+      </div>
       
+      <div class="top-bar-right show-for-medium">
+        <ul class="dropdown menu" data-dropdown-menu>
+          
+          
+          
+          
+          <li class="active">
+          <a href="/services/">Services</a>
+          <ul class="menu vertical">
+          
+          <li><a href="/services/events/">Events</a></li>
+          
+          <li><a href="/services/radio/">Radio</a></li>
+          
+          <li><a href="/services/digital/">Digital</a></li>
+          
+          <li><a href="/services/press/">Press</a></li>
+          
+          </ul>
+          </li>
+          
+          
+          
+          
+          
+          <li><a href="/clients/">Clients</a></li>
+          
+          
+          
+          
+          
+          <li><a href="/team/">Team</a></li>
+          
+          
+          
+          
+          
+          <li><a href="/contact/">Contact</a></li>
+          
+          
+          <li><a href="https://www.facebook.com/listenupbiz"><svg class="icon icon-facebook"><use xlink:href="#icon-facebook"></use></svg></a></li>
+          <li><a href="https://www.instagram.com/listenupbiz/"><svg class="icon icon-instagram"><use xlink:href="#icon-instagram"></use></svg></a></li>
+          <li><a href="https://twitter.com/ListenUpbiz"><svg class="icon icon-twitter"><use xlink:href="#icon-twitter"></use></svg></a></li>
+        </ul>
+      </div>
+    
     </div>
-    
-    
   </div>
 </nav>
 
 
 <!-- End Navigation -->
 
+<!-- Menu -->  
+<!-- Overlay Menu -->
+<div class="overlay" id="overlay" data-toggler=".open">
+
+<!--
+  <button class="close-button" data-toggle="overlay" type="button">
+      <span aria-hidden="true">&times;</span>
+  </button>
+-->
+
+  <nav class="overlay-menu">
+      <ul>
+        
+          <li class="element">
+            <a href="">Services</a>
+          </li>
+        
+          <li class="element">
+            <a href="">Clients</a>
+          </li>
+        
+          <li class="element">
+            <a href="">Team</a>
+          </li>
+        
+          <li class="element">
+            <a href="">Contact</a>
+          </li>
+        
+      </ul>
+  </nav>
+
+</div>
+<!-- End Overlay Menu -->
+<!-- End Menu --> 
+
 <!-- Content -->
-<!-- Intro -->
+<!-- Service Intro -->
 <section class="service__intro">
     <div class="row">
       <div class="small-12 medium-9 columns">
@@ -153,11 +185,11 @@
       </div>
     </div>
 </section>
-<!-- End Intro -->
+<!-- End Service Intro -->
 
 <!-- Featured Service Clients -->
 <section class="service__clients__featured">
-  <div class="row small-up-1 medium-up-3">
+  <div class="row collapse small-up-1 medium-up-3">
     
     
       
@@ -228,15 +260,15 @@
 <!-- End Service Clients -->
 
 <!-- Clients List -->
-<section class="clients__list">
+<section class="service__list">
   <!-- Clients Category - Labels -->
-    <div class="row clients__category">
+    <div class="row service__category">
       
-      <div class="small-3 columns clients__category__title">
+      <div class="small-3 columns service__category__title">
         <h4>Labels</h4>
       </div>
       
-      <div class="small-9 columns clients__category__list">
+      <div class="small-9 columns service__category__list">
         <div class="row small-up-1 medium-up-3"> 
       
       
@@ -279,13 +311,13 @@
   <!-- End Clients Category - Labels -->
   
   <!-- Clients Category - Artists -->
-    <div class="row clients__category">
+    <div class="row service__category">
       
-      <div class="small-3 columns clients__category__title">
+      <div class="small-3 columns service__category__title">
         <h4>Artists</h4>
       </div>
       
-      <div class="small-9 columns clients__category__list">
+      <div class="small-9 columns service__category__list">
         <div class="row small-up-1 medium-up-3"> 
           
           
@@ -332,13 +364,13 @@
   <!-- End Clients Category - Artists -->
   
   <!-- Clients Category - Festivals -->
-    <div class="row clients__category">
+    <div class="row service__category">
       
-      <div class="small-3 columns clients__category__title">
+      <div class="small-3 columns service__category__title">
         <h4>Festivals</h4>
       </div>
       
-      <div class="small-9 columns clients__category__list">
+      <div class="small-9 columns service__category__list">
         <div class="row small-up-1 medium-up-3"> 
           
           
@@ -381,13 +413,13 @@
   <!-- End Clients Category - Festivals -->
   
   <!-- Clients Category - Venues -->
-    <div class="row clients__category">
+    <div class="row service__category">
       
-      <div class="small-3 columns clients__category__title">
+      <div class="small-3 columns service__category__title">
         <h4>Venues</h4>
       </div>
       
-      <div class="small-9 columns clients__category__list">
+      <div class="small-9 columns service__category__list">
         <div class="row small-up-1 medium-up-3"> 
           
           
@@ -430,133 +462,6 @@
   <!-- End Clients Category - Venues -->
 </section>
 <!-- End Clients List -->
-
-<!-- Service Clients - Label -->
-<!--
-<section class="service__clients__featured">
-  
-  <div class="row">
-      
-      
-            
-          
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-            
-          
-        
-      
-        
-      
-        
-      
-            
-          
-        
-      
-        
-      
-        
-      
-        
-      
-        
-       
-  </div>
-  
-   <div class="row">
-      
-      
-            
-          
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-            
-          
-          <div class="small-12 columns">
-          Martin Solveig
-          </div>
-          
-        
-      
-        
-      
-        
-      
-            
-          
-        
-      
-        
-      
-        
-      
-        
-      
-        
-       
-  </div>
-  
-   <div class="row">
-      
-      
-            
-          
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-            
-          
-          <div class="small-12 columns">
-          Martin Solveig
-          </div>
-          
-        
-      
-        
-      
-        
-      
-            
-          
-        
-      
-        
-      
-        
-      
-        
-      
-        
-       
-  </div>
-  
-</section>
--->
-<!-- End Service Clients - Label -->
 <!-- End Content -->
 
 <!-- Footer -->  

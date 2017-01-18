@@ -102,6 +102,10 @@ nav a {
     }
 }
 
+.top-bar-right-mobile {
+  z-index: 1004;
+}
+
 
 // 6. Excerpt
 // ----------
@@ -223,27 +227,6 @@ div.row.excerpt__title {
     }
 }
 
-// 11. Footer
-// ----------
-
-footer {
-  background-color: $color--black;
-  color: $color--white;
-  margin-top: 3rem;
-  padding: 2rem 2rem;
-  a {
-    color: $color--white;
-    display: block;
-    }
-  @include breakpoint(small only) {
-    padding: 2rem;
-  }
-}
-
-.footer__detail {
-  color: $color--gray;
-}
-
 // 5. Index
 // --------
 
@@ -337,16 +320,39 @@ footer {
 }
 
 .service__clients__featured {
+  padding-top: 0rem;
+  padding-bottom: 3rem;
+}
+
+.service__list {
   padding-top: 3rem;
   padding-bottom: 3rem;
 }
 
-.service__clients {
-  padding-top: 3rem;
-  padding-bottom: 3rem;
+.service__category {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
 }
 
+.service__category__title {
+  color: $color--red;
+}
 
+/*
+.service__category__title {
+  padding-bottom: 2rem;
+  h4 {
+    margin-bottom: $header-bottom-margin--tighter;
+    color: $color--black;
+  }
+  h5 {
+    color: $color--gray;
+  }
+  p {
+    color: $color--dark-gray;
+  }
+}
+*/
 
 // 11. Team
 // ----------
@@ -388,4 +394,58 @@ footer {
 .team__people__person {
   padding-top: 1rem;
   padding-bottom: 1rem;
+}
+
+
+// 11. Footer
+// ----------
+
+footer {
+  background-color: $color--black;
+  color: $color--white;
+  margin-top: 3rem;
+  padding: 2rem 2rem;
+  a {
+    color: $color--white;
+    display: block;
+    }
+  @include breakpoint(small only) {
+    padding: 2rem;
+  }
+}
+
+.footer__detail {
+  color: $color--gray;
+}
+
+// Client
+
+// 5. Index
+// --------
+
+.client__hero {
+  height: 40vh;
+}
+
+.client__hero__cell {
+  height: 100%;
+  width: 100;
+  background: 10% 25% no-repeat;
+  background-size: cover;
+}
+
+.client__hero__cell__text {
+  height: 100%;
+  h1 {
+  color: $color--white;
+  }
+}
+
+.client__content {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+  @include breakpoint(small only) {
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+  }
 }

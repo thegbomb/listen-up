@@ -27,7 +27,7 @@ layout: default
 <!-- Clients -->
 <section class="index__clients">
 <div class="row collapse">
-  {% assign clients = site.clients | sort: 'position' %}
+  {% assign clients = site.clients | sort: 'position' | where: "is-front", "true" %}
   {% for client in clients %}
     <div class="small-12 medium-6 large-4 columns">
     {% include client-excerpt.html %}

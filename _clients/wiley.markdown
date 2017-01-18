@@ -3,7 +3,7 @@ title: Wiley
 position: 3
 image: "/uploads/team-006.jpg"
 is-featured: true
-is-front: true
+is-front:
 layout: client
 ---
 

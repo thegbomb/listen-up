@@ -13,11 +13,11 @@ is-front: true
 website: https://www.aatw.com
 facebook: http://www.facebook.com/aatwofficial
 twitter: http://twitter.com/aatwofficial
-instagram:
-spotify:
+instagram: 
+spotify: 
 soundcloud: http://www.soundcloud.com/aatwofficial
 youtube: https://www.youtube.com/user/SteveAATW
-apple:
+apple: 
 layout: client
 ---
 

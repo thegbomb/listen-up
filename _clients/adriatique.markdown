@@ -14,10 +14,10 @@ website: http://www.adriatique.ch
 facebook: http://www.facebook.com/adriatiqueofficial
 twitter: http://www.twitter.com/adriatiquemusic
 instagram: http://www.instagram.com/adriatique
-spotify:
-soundcloud:
-youtube:
-apple:
+spotify: 
+soundcloud: 
+youtube: 
+apple: 
 layout: client
 ---
 

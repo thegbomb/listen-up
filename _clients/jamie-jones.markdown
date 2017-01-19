@@ -2,7 +2,7 @@
 title: Jamie Jones
 tags:
 - artist
-position: 0
+position: 1
 image: "/uploads/team-009.jpg"
 is-featured: true
 is-front: true

@@ -6,7 +6,7 @@ categories:
 - press
 tags:
 - artist
-position: 1
+position: 2
 image: "/uploads/team-010.jpg"
 is-featured: true
 is-front: true

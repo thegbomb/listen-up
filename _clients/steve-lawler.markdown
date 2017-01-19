@@ -1,6 +1,6 @@
 ---
 title: Steve Lawler
-position: 5
+position: 14
 image: "/uploads/team-005.jpg"
 is-featured: true
 is-front: true

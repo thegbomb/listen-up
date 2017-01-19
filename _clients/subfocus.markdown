@@ -4,7 +4,7 @@ categories:
 - events
 tags:
 - label
-position: 1
+position: 6
 image: "/uploads/team-010.jpg"
 is-featured: true
 is-front: true

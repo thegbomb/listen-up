@@ -4,7 +4,7 @@ categories:
 - events
 tags:
 - festival
-position: 2
+position: 10
 image: "/uploads/venue.jpg"
 is-featured: 
 is-front: true

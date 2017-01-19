@@ -1,6 +1,6 @@
 ---
 title: Patrick Topping
-position: 3
+position: 11
 image: "/uploads/team-007.jpg"
 is-featured: true
 is-front: true

@@ -4,7 +4,7 @@ categories:
 - events
 tags:
 - venue
-position: 2
+position: 8
 image: "/uploads/venue.jpg"
 is-featured: true
 is-front: true

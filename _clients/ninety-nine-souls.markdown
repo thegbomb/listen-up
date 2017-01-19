@@ -6,7 +6,7 @@ categories:
 - press
 tags:
 - artist
-position: 1
+position: 5
 image: 
 is-featured: 
 is-front: 

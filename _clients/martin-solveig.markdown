@@ -5,7 +5,7 @@ categories:
 - press
 tags:
 - artist
-position: 6
+position: 15
 image: "/uploads/team-004.jpg"
 is-featured: true
 is-front: false

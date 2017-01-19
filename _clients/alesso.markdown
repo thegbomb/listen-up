@@ -5,7 +5,7 @@ categories:
 - digital
 tags:
 - artist
-position: 2
+position: 7
 image: "/uploads/team-011.jpg"
 is-featured: false
 is-front: true

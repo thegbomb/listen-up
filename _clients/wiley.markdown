@@ -1,6 +1,6 @@
 ---
 title: Wiley
-position: 3
+position: 12
 image: "/uploads/team-006.jpg"
 is-featured: true
 is-front: 

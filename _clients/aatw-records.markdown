@@ -6,7 +6,7 @@ categories:
 - press
 tags:
 - label
-position: 1
+position: 3
 image: "/uploads/team-010.jpg"
 is-featured: true
 is-front: true

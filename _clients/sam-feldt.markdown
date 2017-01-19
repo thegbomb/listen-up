@@ -2,7 +2,7 @@
 title: Sam Feldt
 categories:
 - radio
-position: 7
+position: 16
 image: "/uploads/team-003.jpg"
 is-featured: 
 is-front: 

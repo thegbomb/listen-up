@@ -7,9 +7,9 @@ categories:
 tags:
 - artist
 position: 2
-image:
-is-featured:
-is-front:
+image: 
+is-featured: 
+is-front: 
 website: https://andyc.cc
 facebook: https://www.facebook.com/andyc/
 twitter: https://twitter.com/ANDYC_ram

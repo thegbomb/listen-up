@@ -7,9 +7,9 @@ categories:
 tags:
 - artist
 position: 2
-image:
-is-featured:
-is-front:
+image: 
+is-featured: 
+is-front: 
 website: http://attlasmusic.com
 facebook: https://www.facebook.com/attlasmusic
 twitter: https://twitter.com/attlas
@@ -20,3 +20,4 @@ youtube: https://www.youtube.com/channel/UCXPVfICh-BEm21aH_k7t1JQ
 apple: https://itunes.apple.com/us/artist/attlas/id173455825
 layout: client
 ---
+

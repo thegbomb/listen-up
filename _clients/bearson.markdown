@@ -7,9 +7,9 @@ categories:
 tags:
 - artist
 position: 2
-image:
-is-featured:
-is-front:
+image: 
+is-featured: 
+is-front: 
 website: 
 facebook: https://www.facebook.com/bearsonmusic/
 twitter: https://twitter.com/BearsonMusic
@@ -20,3 +20,4 @@ youtube:
 apple: https://itunes.apple.com/us/artist/bearson/id987486238
 layout: client
 ---
+

@@ -7,9 +7,9 @@ categories:
 tags:
 - label
 position: 2
-image:
-is-featured:
-is-front:
+image: 
+is-featured: 
+is-front: 
 website: https://www.anjunabeats.com/
 facebook: https://www.facebook.com/anjunabeats
 twitter: https://twitter.com/anjunabeats

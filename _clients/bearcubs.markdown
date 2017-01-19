@@ -7,9 +7,9 @@ categories:
 tags:
 - artist
 position: 2
-image:
-is-featured:
-is-front:
+image: 
+is-featured: 
+is-front: 
 website: 
 facebook: https://www.facebook.com/bearcubsmusic/
 twitter: https://twitter.com/bearcubsmusic
@@ -20,3 +20,4 @@ youtube: https://www.youtube.com/channel/UCC7btq3QcAb_YLDquoirCCw
 apple: https://itunes.apple.com/gb/artist/bearcubs/id808927108
 layout: client
 ---
+

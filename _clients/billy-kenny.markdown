@@ -7,9 +7,9 @@ categories:
 tags:
 - artist
 position: 2
-image:
-is-featured:
-is-front:
+image: 
+is-featured: 
+is-front: 
 website: http://www.billykennymusic.com
 facebook: http://www.facebook.com/billykennymusic
 twitter: http://www.twitter.com/billykennymusic
@@ -20,7 +20,6 @@ youtube: https://www.youtube.com/user/BillyKennyMusic
 apple: https://itunes.apple.com/gb/artist/billy-kenny/id532805610
 layout: client
 ---
-
 
 British producer, DJ and engineer Billy Kenny is widely accustomed to the lower, more aggressive frequencies in the amalgamation between UK Garage, House and Techno. His hit track “Work” has reigned the bass heavy side of festivals ever since it’s release in August 2014 and continues to do so while more recent releases on Dirtybird, Sweat It Out and his co-run imprint “This Ain't Bristol” circulate the globe.
  

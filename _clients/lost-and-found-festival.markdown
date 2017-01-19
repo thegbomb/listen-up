@@ -8,17 +8,17 @@ categories:
 tags:
 - festival
 position: 2
-image:
-is-featured:
-is-front:
+image: 
+is-featured: 
+is-front: 
 website: http://www.lostandfoundfestival.com
 facebook: https://www.facebook.com/lostandfoundfestival/
 twitter: https://twitter.com/AMPlostandfound
 instagram: https://www.instagram.com/amplostandfound
-spotify:
-soundcloud:
+spotify: 
+soundcloud: 
 youtube: https://www.youtube.com/channel/UCTy--nLdft2j0Oscj51dElg
-apple:
+apple: 
 layout: client
 ---
 

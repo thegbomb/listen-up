@@ -7,9 +7,9 @@ categories:
 tags:
 - artist
 position: 2
-image:
-is-featured:
-is-front:
+image: 
+is-featured: 
+is-front: 
 website: https://www.andreaolivamusic.com
 facebook: http://www.facebook.com/andreaolivaofficial
 twitter: http://www.twitter.com/andreaoliva1

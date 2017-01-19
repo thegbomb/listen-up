@@ -7,9 +7,9 @@ categories:
 tags:
 - label
 position: 2
-image:
-is-featured:
-is-front:
+image: 
+is-featured: 
+is-front: 
 website: http://axtone.com
 facebook: https://www.facebook.com/axtone
 twitter: http://twitter.com/axtone

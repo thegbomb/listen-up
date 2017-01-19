@@ -7,10 +7,10 @@ categories:
 tags:
 - artist
 position: 2
-image:
-is-featured:
-is-front:
-website:
+image: 
+is-featured: 
+is-front: 
+website: 
 facebook: https://www.facebook.com/astronomar/
 twitter: https://twitter.com/astronomar
 instagram: https://instagram.com/astronomar/

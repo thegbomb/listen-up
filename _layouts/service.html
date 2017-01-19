@@ -48,7 +48,7 @@ layout: default
       {% assign category = page.title | downcase %}
       {% for client in site.clients %}
         {% if client.categories contains category %}    
-          {% if client.is-featured and client.tags contains 'label' %}
+          {% if client.tags contains 'label' %}
           <div class="small-12 columns">
           {{client.title}}
           </div>
@@ -73,7 +73,7 @@ layout: default
           {% assign category = page.title | downcase %}
           {% for client in site.clients %}
           {% if client.categories contains category %}    
-            {% if client.is-featured and client.tags contains 'artist' %}
+            {% if client.tags contains 'artist' %}
             <div class="small-12 columns">
             {{client.title}}
             </div>
@@ -98,7 +98,7 @@ layout: default
           {% assign category = page.title | downcase %}
           {% for client in site.clients %}
           {% if client.categories contains category %}    
-            {% if client.is-featured and client.tags contains 'festival' %}
+            {% if client.tags contains 'festival' %}
             <div class="small-12 columns">
             {{client.title}}
             </div>
@@ -123,7 +123,7 @@ layout: default
           {% assign category = page.title | downcase %}
           {% for client in site.clients %}
           {% if client.categories contains category %}    
-            {% if client.is-featured and client.tags contains 'venue' %}
+            {% if client.tags contains 'venue' %}
             <div class="small-12 columns">
             {{client.title}}
             </div>

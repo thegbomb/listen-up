@@ -7,7 +7,7 @@
 		"uuidString": "550FEDE5-7AFF-4FD3-8DBE-A45DE2D02921"
 		}
 	],
-"creatorBuild": "25479",
+"creatorBuild": "25504",
 "files": {
 	"\/404.md": {
 		"cS": 0,
@@ -177,16 +177,160 @@
 		"oAP": "\/_clients\/ben-pearce.markdown",
 		"oF": 0
 		},
+	"\/_clients\/big-beat.markdown": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_clients\/big-beat.markdown",
+		"oF": 0
+		},
 	"\/_clients\/billy-kenny.markdown": {
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_clients\/billy-kenny.markdown",
 		"oF": 0
 		},
+	"\/_clients\/black-coffee.markdown": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_clients\/black-coffee.markdown",
+		"oF": 0
+		},
+	"\/_clients\/black-sun-empire.markdown": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_clients\/black-sun-empire.markdown",
+		"oF": 0
+		},
+	"\/_clients\/blonde.markdown": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_clients\/blonde.markdown",
+		"oF": 0
+		},
+	"\/_clients\/blue-marlin.markdown": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_clients\/blue-marlin.markdown",
+		"oF": 0
+		},
+	"\/_clients\/bob-moses.markdown": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_clients\/bob-moses.markdown",
+		"oF": 0
+		},
+	"\/_clients\/bobby-green.markdown": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_clients\/bobby-green.markdown",
+		"oF": 0
+		},
+	"\/_clients\/booka-shade.markdown": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_clients\/booka-shade.markdown",
+		"oF": 0
+		},
+	"\/_clients\/branchez.markdown": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_clients\/branchez.markdown",
+		"oF": 0
+		},
+	"\/_clients\/brobot-records.markdown": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_clients\/brobot-records.markdown",
+		"oF": 0
+		},
 	"\/_clients\/cafe-mambo.markdown": {
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_clients\/cafe-mambo.markdown",
+		"oF": 0
+		},
+	"\/_clients\/cages.markdown": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_clients\/cages.markdown",
+		"oF": 0
+		},
+	"\/_clients\/camelphat.markdown": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_clients\/camelphat.markdown",
+		"oF": 0
+		},
+	"\/_clients\/card-on-spokes.markdown": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_clients\/card-on-spokes.markdown",
+		"oF": 0
+		},
+	"\/_clients\/carola-pisaturo.markdown": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_clients\/carola-pisaturo.markdown",
+		"oF": 0
+		},
+	"\/_clients\/cavo-paradiso.markdown": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_clients\/cavo-paradiso.markdown",
+		"oF": 0
+		},
+	"\/_clients\/cedric-gervais.markdown": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_clients\/cedric-gervais.markdown",
+		"oF": 0
+		},
+	"\/_clients\/chaim.markdown": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_clients\/chaim.markdown",
+		"oF": 0
+		},
+	"\/_clients\/chase-and-status.markdown": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_clients\/chase-and-status.markdown",
+		"oF": 0
+		},
+	"\/_clients\/cherokee.markdown": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_clients\/cherokee.markdown",
+		"oF": 0
+		},
+	"\/_clients\/chocolate-puma.markdown": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_clients\/chocolate-puma.markdown",
+		"oF": 0
+		},
+	"\/_clients\/chris-lake.markdown": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_clients\/chris-lake.markdown",
+		"oF": 0
+		},
+	"\/_clients\/chuckie.markdown": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_clients\/chuckie.markdown",
+		"oF": 0
+		},
+	"\/_clients\/circoloco.markdown": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_clients\/circoloco.markdown",
+		"oF": 0
+		},
+	"\/_clients\/clmd.markdown": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_clients\/clmd.markdown",
 		"oF": 0
 		},
 	"\/_clients\/fabric.markdown": {
@@ -14439,6 +14583,10 @@
 			"active": 0,
 			"optionString": ""
 			},
+		"no-await-in-loop": {
+			"active": 0,
+			"optionString": ""
+			},
 		"no-bitwise": {
 			"active": 0,
 			"optionString": "{'allow': ['~'], 'int32Hint': true}"
@@ -14978,6 +15126,10 @@
 		"prefer-const": {
 			"active": 0,
 			"optionString": "{'destructuring': 'any', 'ignoreReadBeforeAssign': false}"
+			},
+		"prefer-destructuring": {
+			"active": 0,
+			"optionString": "{'array': true, 'object': true}, {'enforceForRenamedProperties': false}"
 			},
 		"prefer-numeric-literals": {
 			"active": 0,

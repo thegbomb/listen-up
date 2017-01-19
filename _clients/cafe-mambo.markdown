@@ -1,16 +1,22 @@
 ---
 title: Cafe Mambo
 categories:
-- events
+- radio
+- digital
+- press
 tags:
 - venue
-position: 8
-image: "/uploads/venue.jpg"
-is-featured: true
-is-front: true
+position: 2
+image:
+is-featured:
+is-front:
+website: http://www.cafemamboibiza.com
+facebook: https://www.facebook.com/mamboibiza
+twitter: https://twitter.com/Mamboibiza
+instagram: http://instagram.com/mamboibiza
+spotify:
+soundcloud: https://soundcloud.com/cafemamboibiza
+youtube: https://www.youtube.com/user/CafeMamboLive
+apple:
 layout: client
 ---
-
-Cras justo odio, dapibus ac facilisis in, egestas eget quam. Etiam porta sem malesuada magna mollis euismod. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
-
-Maecenas sed diam eget risus varius blandit sit amet non magna. Donec id elit non mi porta gravida at eget metus. Curabitur blandit tempus porttitor. Sed posuere consectetur est at lobortis. Etiam porta sem malesuada magna mollis euismod. Vestibulum id ligula porta felis euismod semper.

@@ -7,9 +7,9 @@ categories:
 tags:
 - artist
 position: 2
-image:
-is-featured:
-is-front:
+image: 
+is-featured: 
+is-front: 
 website: http://www.clmdmusic.com
 facebook: https://www.facebook.com/CLMDMusic/
 twitter: https://twitter.com/clmdmusic

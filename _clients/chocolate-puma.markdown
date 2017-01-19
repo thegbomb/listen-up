@@ -7,9 +7,9 @@ categories:
 tags:
 - artist
 position: 2
-image:
-is-featured:
-is-front:
+image: 
+is-featured: 
+is-front: 
 website: http://www.chocolatepuma.com
 facebook: https://www.facebook.com/ChocolatePumaOfficial
 twitter: http://www.twitter.com/chocolatepuma
@@ -20,3 +20,4 @@ youtube: https://www.youtube.com/user/chocolatepumachannel
 apple: https://itunes.apple.com/artist/chocolate-puma/id89758046
 layout: client
 ---
+

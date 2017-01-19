@@ -7,10 +7,10 @@ categories:
 tags:
 - artist
 position: 2
-image:
-is-featured:
-is-front:
-website:
+image: 
+is-featured: 
+is-front: 
+website: 
 facebook: https://www.facebook.com/bobbygreenmusic/
 twitter: https://twitter.com/bobbygreenmusic
 instagram: https://www.instagram.com/bobbyisgreen/
@@ -20,3 +20,4 @@ youtube: https://www.youtube.com/channel/UCKiJjWYrVq-JAy5inRwvkFg
 apple: https://itunes.apple.com/us/artist/bobby-green/id296274512
 layout: client
 ---
+

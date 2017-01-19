@@ -7,9 +7,9 @@ categories:
 tags:
 - artist
 position: 2
-image:
-is-featured:
-is-front:
+image: 
+is-featured: 
+is-front: 
 website: http://www.branchez.com
 facebook: https://www.facebook.com/BranchezMusic/
 twitter: https://twitter.com/branchez
@@ -20,3 +20,4 @@ youtube: https://www.youtube.com/channel/UCNxjlNvgJYHlAW-z_jMrVTw
 apple: https://itunes.apple.com/us/artist/branchez/id643388038
 layout: client
 ---
+

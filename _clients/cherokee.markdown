@@ -7,9 +7,9 @@ categories:
 tags:
 - artist
 position: 2
-image:
-is-featured:
-is-front:
+image: 
+is-featured: 
+is-front: 
 website: http://www.cherokee-musique.com/
 facebook: https://www.facebook.com/cherokee.music
 twitter: https://twitter.com/cherokee_music
@@ -20,3 +20,4 @@ youtube: https://www.youtube.com/user/CherokeeOfficiel
 apple: https://itunes.apple.com/us/artist/cherokee/id1578473
 layout: client
 ---
+

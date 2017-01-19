@@ -7,16 +7,17 @@ categories:
 tags:
 - venue
 position: 2
-image:
-is-featured:
-is-front:
+image: 
+is-featured: 
+is-front: 
 website: http://cavoparadiso.gr
 facebook: https://www.facebook.com/cavoparadiso
 twitter: https://twitter.com/Cavo_Paradiso
 instagram: http://instagram.com/cavoparadisoclub
 spotify: https://play.spotify.com/user/cavoparadiso
-soundcloud:
+soundcloud: 
 youtube: https://www.youtube.com/user/CavoParadisoClub
-apple:
+apple: 
 layout: client
 ---
+

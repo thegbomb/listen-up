@@ -7,9 +7,9 @@ categories:
 tags:
 - artist
 position: 2
-image:
-is-featured:
-is-front:
+image: 
+is-featured: 
+is-front: 
 website: http://www.blacksunempire.com
 facebook: https://www.facebook.com/blacksunempire/
 twitter: https://twitter.com/_blacksunempire
@@ -20,3 +20,4 @@ youtube: https://www.youtube.com/user/blacksunempire
 apple: https://itunes.apple.com/gb/artist/black-sun-empire/id133487558
 layout: client
 ---
+

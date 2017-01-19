@@ -7,10 +7,10 @@ categories:
 tags:
 - artist
 position: 2
-image:
-is-featured:
-is-front:
-website:
+image: 
+is-featured: 
+is-front: 
+website: 
 facebook: http://www.facebook.com/chaseandstatus
 twitter: http://twitter.com/#!/chaseandstatus
 instagram: https://www.instagram.com/chaseandstatus/

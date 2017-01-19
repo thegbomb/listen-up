@@ -7,9 +7,9 @@ categories:
 tags:
 - artist
 position: 2
-image:
-is-featured:
-is-front:
+image: 
+is-featured: 
+is-front: 
 website: http://djchuckie.com
 facebook: https://facebook.com/djchuckie
 twitter: https://twitter.com/djchuckie
@@ -20,3 +20,4 @@ youtube: http://youtube.com/djchuckie
 apple: https://itunes.apple.com/us/artist/dj-chuckie/id75682558
 layout: client
 ---
+

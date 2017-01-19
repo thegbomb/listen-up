@@ -7,9 +7,9 @@ categories:
 tags:
 - artist
 position: 2
-image:
-is-featured:
-is-front:
+image: 
+is-featured: 
+is-front: 
 website: http://blondesound.com
 facebook: http://facebook.com/blondesound
 twitter: http://twitter.com/blondesound
@@ -20,3 +20,4 @@ youtube: https://www.youtube.com/channel/UC9pyiweI-NU42NfMoIJbWcg
 apple: https://itunes.apple.com/gb/artist/blonde/id4823382
 layout: client
 ---
+

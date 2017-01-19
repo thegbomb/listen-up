@@ -7,9 +7,9 @@ categories:
 tags:
 - artist
 position: 2
-image:
-is-featured:
-is-front:
+image: 
+is-featured: 
+is-front: 
 website: http://cedricgervais.com
 facebook: http://www.facebook.com/cedgerv/
 twitter: http://twitter.com/CedricGervais
@@ -20,3 +20,4 @@ youtube: http://www.youtube.com/user/cedricgervaistv
 apple: http://itunes.apple.com/us/artist/cedric-gervais/id34132099
 layout: client
 ---
+

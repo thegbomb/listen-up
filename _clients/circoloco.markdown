@@ -7,9 +7,9 @@ categories:
 tags:
 - venue
 position: 2
-image:
-is-featured:
-is-front:
+image: 
+is-featured: 
+is-front: 
 website: http://www.circolocoibiza.com
 facebook: https://www.facebook.com/circolocoibiza/
 twitter: https://twitter.com/circolocoibiza
@@ -20,3 +20,4 @@ youtube: https://www.youtube.com/user/circolocovideo
 apple: https://itunes.apple.com/gb/podcast/circoloco-radio/id1100730073?mt=2
 layout: client
 ---
+

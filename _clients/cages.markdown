@@ -7,10 +7,10 @@ categories:
 tags:
 - artist
 position: 2
-image:
-is-featured:
-is-front:
-website:
+image: 
+is-featured: 
+is-front: 
+website: 
 facebook: https://www.facebook.com/iamcages/
 twitter: https://twitter.com/iamcages
 instagram: https://www.instagram.com/iamcages/
@@ -20,3 +20,4 @@ youtube: https://www.youtube.com/channel/UCiIvJb_QBfdoC-2X0NYI71A
 apple: https://itunes.apple.com/us/artist/cages/id279092953
 layout: client
 ---
+

@@ -7,9 +7,9 @@ categories:
 tags:
 - artist
 position: 2
-image:
-is-featured:
-is-front:
+image: 
+is-featured: 
+is-front: 
 website: https://www.bookashade.com
 facebook: https://facebook.com/bookashade
 twitter: https://twitter.com/bookashade
@@ -20,3 +20,4 @@ youtube: https://www.youtube.com/user/BookaShadeOfficial
 apple: https://itunes.apple.com/gb/artist/booka-shade/id129902516
 layout: client
 ---
+

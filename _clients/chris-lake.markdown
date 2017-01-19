@@ -7,9 +7,9 @@ categories:
 tags:
 - artist
 position: 2
-image:
-is-featured:
-is-front:
+image: 
+is-featured: 
+is-front: 
 website: http://www.chris-lake.com
 facebook: https://www.facebook.com/chrislake
 twitter: https://twitter.com/chrislake
@@ -20,3 +20,4 @@ youtube: https://www.youtube.com/user/chrislakeofficial
 apple: https://itunes.apple.com/gb/artist/chris-lake/id135067114
 layout: client
 ---
+

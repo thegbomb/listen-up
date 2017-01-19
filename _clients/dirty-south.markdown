@@ -7,9 +7,9 @@ categories:
 tags:
 - artist
 position: 2
-image:
-is-featured:
-is-front:
+image: 
+is-featured: 
+is-front: 
 website: http://dirtysouth.com
 facebook: http://facebook.com/dirtysouth
 twitter: http://twitter.com/dirtysouth

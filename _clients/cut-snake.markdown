@@ -7,9 +7,9 @@ categories:
 tags:
 - artist
 position: 2
-image:
-is-featured:
-is-front:
+image: 
+is-featured: 
+is-front: 
 website: http://www.cutsnake.com/
 facebook: http://facebook.com/cutsnakemusic
 twitter: http://twitter.com/cutsnake
@@ -20,3 +20,4 @@ youtube: http://youtube.com/cutsnakemusic
 apple: https://itunes.apple.com/gb/artist/cut-snake/id575515254
 layout: client
 ---
+

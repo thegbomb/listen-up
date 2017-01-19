@@ -7,16 +7,16 @@ categories:
 tags:
 - artist
 position: 2
-image:
-is-featured:
-is-front:
-website:
+image: 
+is-featured: 
+is-front: 
+website: 
 facebook: https://www.facebook.com/dennisferrerobj
 twitter: http://twitter.com/dennisferrer
 instagram: https://www.instagram.com/dennisferrerofficial/
 spotify: https://open.spotify.com/artist/0MGTHZpAGf7isSfw8yMIoi
 soundcloud: https://soundcloud.com/dennis-ferrer
-youtube:
+youtube: 
 apple: https://itunes.apple.com/gb/artist/dennis-ferrer/id5355855
 layout: client
 ---

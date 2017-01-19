@@ -8,16 +8,17 @@ categories:
 tags:
 - festival
 position: 2
-image:
-is-featured:
-is-front:
+image: 
+is-featured: 
+is-front: 
 website: http://dirty-dutch.com
 facebook: https://www.facebook.com/dirtydutchmusic
 twitter: https://twitter.com/dirtydutch
 instagram: https://instagram.com/officialdirtydutch
-spotify:
-soundcloud:
+spotify: 
+soundcloud: 
 youtube: https://youtube.com/dirtydutchtv
-apple:
+apple: 
 layout: client
 ---
+

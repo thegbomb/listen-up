@@ -7,9 +7,9 @@ categories:
 tags:
 - artist
 position: 1
-image:
-is-featured:
-is-front:
+image: 
+is-featured: 
+is-front: 
 facebook: 99SoulsOfficial
 twitter: 99SoulsOfficial
 instagram: 99soulsofficial
@@ -19,3 +19,4 @@ youtube: UCsXPiMh3DP2l5G7esryLSPA
 apple: gb/artist/99-souls/id973473733
 layout: client
 ---
+

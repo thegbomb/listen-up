@@ -167,12 +167,6 @@ div.row.excerpt__title {
   opacity:0.5;
 }
 
-// 7. Page
-// -------
-
-.content {
-  margin: 1rem 3rem 1rem 3rem;
-}
 
 // 8. Contact
 // -------
@@ -231,7 +225,7 @@ div.row.excerpt__title {
 // --------
 
 .index__hero {
-  height: 40vh;
+  height: 60vh;
 }
 
 .index__hero__cell {
@@ -403,7 +397,6 @@ div.row.excerpt__title {
 footer {
   background-color: $color--black;
   color: $color--white;
-  margin-top: 3rem;
   padding: 2rem 2rem;
   a {
     color: $color--white;
@@ -423,29 +416,7 @@ footer {
 // 5. Index
 // --------
 
-.client__hero {
-  height: 40vh;
-}
-
-.client__hero__cell {
-  height: 100%;
-  width: 100;
-  background: 10% 25% no-repeat;
-  background-size: cover;
-}
-
-.client__hero__cell__text {
-  height: 100%;
-  h1 {
-  color: $color--white;
-  }
-}
-
-.client__content {
+.client {
   padding-top: 3rem;
   padding-bottom: 3rem;
-  @include breakpoint(small only) {
-    padding-top: 2rem;
-    padding-bottom: 2rem;
-  }
 }

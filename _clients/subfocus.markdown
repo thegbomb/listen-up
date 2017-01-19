@@ -1,9 +1,21 @@
 ---
 title: Subfocus
+categories:
+- events
+tags:
+- label
 position: 1
 image: "/uploads/team-010.jpg"
 is-featured: true
 is-front: true
+facebook: test
+twitter: test
+instagram: test
+spotify: test
+soundcloud: test
+youtube: test
+apple: test
+deezer: test
 layout: client
 ---
 

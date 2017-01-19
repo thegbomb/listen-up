@@ -27,6 +27,30 @@
 		"rFN": 0,
 		"uCM": 0
 		},
+	"\/_clients\/a-trak.markdown": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_clients\/a-trak.markdown",
+		"oF": 0
+		},
+	"\/_clients\/aatw-records.markdown": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_clients\/aatw-records.markdown",
+		"oF": 0
+		},
+	"\/_clients\/abode.markdown": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_clients\/abode.markdown",
+		"oF": 0
+		},
+	"\/_clients\/adriatique.markdown": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_clients\/adriatique.markdown",
+		"oF": 0
+		},
 	"\/_clients\/alesso.markdown": {
 		"ft": 8192,
 		"oA": 2,
@@ -67,6 +91,12 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_clients\/ministry-of-sound.markdown",
+		"oF": 0
+		},
+	"\/_clients\/ninety-nine-souls.markdown": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_clients\/ninety-nine-souls.markdown",
 		"oF": 0
 		},
 	"\/_clients\/patrick-topping.markdown": {
@@ -193,6 +223,12 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/_includes\/sharing.html",
+		"oF": 0
+		},
+	"\/_includes\/socials.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_includes\/socials.html",
 		"oF": 0
 		},
 	"\/_includes\/team-excerpt.html": {

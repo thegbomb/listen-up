@@ -2,22 +2,25 @@
 layout: default
 ---
 
-<!-- Hero -->
-<section class="client__hero">
-  <div class="client__hero__cell" style="background-image: url({{page.image}})">
-      <div class="row client__hero__cell__text align-middle align-center">
-          <div class="shrink columns">
-            <h1>{{ page.title }}</h1>
-          </div>
-       </div> 
+<!-- Featured People -->
+<section class="client">
+  <div class="row">
+    
+    <div class="small-12 medium-6 large-6 columns client__image">
+      <img src="{{page.image}}" alt="{{page.title}}">
+    </div>
+    
+    <div class="small-12 medium-6 large-6 columns">
+      <h3>{{page.title}}</h3>
+      {{page.content}}
+      
+      <div class="row">
+      <div class="small-12 columns">
+      {% include socials.html %}
+      </div>
+      </div>
+    </div>
+
   </div>
 </section>
-<!-- End Hero -->
-
-<!-- Content -->
-<div class="row client__content align-center">
-  <div class="small-10 medium-10 columns">
-    {{ page.content | markdownify }}
-  </div>
-</div>
-<!-- End Content -->
+<!-- End Featured People -->

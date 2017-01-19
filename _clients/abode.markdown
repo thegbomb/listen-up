@@ -7,7 +7,7 @@ categories:
 tags:
 - label
 position: 4
-image:
+image: 
 is-featured: true
 is-front: true
 website: http://www.aboderecords.com

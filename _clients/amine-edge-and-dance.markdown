@@ -7,9 +7,9 @@ categories:
 tags:
 - artist
 position: 2
-image:
-is-featured:
-is-front:
+image: 
+is-featured: 
+is-front: 
 website: 
 facebook: https://www.facebook.com/amineedgeanddance
 twitter: https://twitter.com/amineedge
@@ -20,3 +20,4 @@ youtube: https://www.youtube.com/user/amineedge
 apple: https://itunes.apple.com/gb/artist/amine-edge-dance/id544799026
 layout: client
 ---
+

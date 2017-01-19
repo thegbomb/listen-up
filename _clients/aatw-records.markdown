@@ -7,7 +7,7 @@ categories:
 tags:
 - label
 position: 3
-image:
+image: 
 is-featured: true
 is-front: true
 website: https://www.aatw.com

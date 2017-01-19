@@ -7,7 +7,7 @@ categories:
 tags:
 - artist
 position: 2
-image:
+image: 
 is-featured: true
 is-front: true
 website: http://www.adriatique.ch

@@ -7,9 +7,9 @@ categories:
 tags:
 - artist
 position: 0
-image:
-is-featured:
-is-front:
+image: 
+is-featured: 
+is-front: 
 website: http://atrak.com
 facebook: https://www.facebook.com/atrak
 twitter: https://twitter.com/atrak

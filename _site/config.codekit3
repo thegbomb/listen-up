@@ -51,10 +51,46 @@
 		"oAP": "\/_clients\/adriatique.markdown",
 		"oF": 0
 		},
+	"\/_clients\/after-hours.markdown": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_clients\/after-hours.markdown",
+		"oF": 0
+		},
+	"\/_clients\/afterlife.markdown": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_clients\/afterlife.markdown",
+		"oF": 0
+		},
+	"\/_clients\/alan-walker.markdown": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_clients\/alan-walker.markdown",
+		"oF": 0
+		},
 	"\/_clients\/alesso.markdown": {
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_clients\/alesso.markdown",
+		"oF": 0
+		},
+	"\/_clients\/alison-wonderland.markdown": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_clients\/alison-wonderland.markdown",
+		"oF": 0
+		},
+	"\/_clients\/amine-edge-and-dance.markdown": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_clients\/amine-edge-and-dance.markdown",
+		"oF": 0
+		},
+	"\/_clients\/amtrac.markdown": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_clients\/amtrac.markdown",
 		"oF": 0
 		},
 	"\/_clients\/cafe-mambo.markdown": {
@@ -464,6 +500,14 @@
 		"oA": 2,
 		"oAP": "\/_team\/olivia-warnford-davis.markdown",
 		"oF": 0
+		},
+	"\/_uploads\/placeholder.png": {
+		"ft": 32768,
+		"iS": 24751,
+		"oA": 0,
+		"oAP": "\/_uploads\/placeholder.png",
+		"oF": 0,
+		"opt": 0
 		},
 	"\/_uploads\/team-001.jpg": {
 		"ft": 16384,

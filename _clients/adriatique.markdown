@@ -7,17 +7,17 @@ categories:
 tags:
 - artist
 position: 2
-image: "/uploads/team-010.jpg"
+image:
 is-featured: true
 is-front: true
 website: http://www.adriatique.ch
 facebook: http://www.facebook.com/adriatiqueofficial
 twitter: http://www.twitter.com/adriatiquemusic
 instagram: http://www.instagram.com/adriatique
-spotify: 
-soundcloud: 
-youtube: 
-apple: 
+spotify: https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB
+soundcloud: https://soundcloud.com/adriatique
+youtube: https://www.youtube.com/user/adriatiquemusic
+apple: https://itunes.apple.com/us/artist/adriatique/id374559168
 layout: client
 ---
 

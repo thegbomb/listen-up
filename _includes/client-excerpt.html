@@ -12,7 +12,11 @@
 
   <!-- Excerpt Image -->
   <div class="excerpt__image">
-  <img src="{{client.image}}" alt="{{client.title}}">
+  {% if client.image %}
+    <img src="{{client.image}}" alt="{{client.image}}">
+    {% else %}
+    <img src="/uploads/placeholder.png" alt="{{client.title}}">
+  {% endif %}
   </div>
   <!-- End Image -->
 

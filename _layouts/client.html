@@ -7,7 +7,11 @@ layout: default
   <div class="row">
     
     <div class="small-12 medium-6 large-6 columns client__image">
-      <img src="{{page.image}}" alt="{{page.title}}">
+      {% if page.image %}
+        <img src="{{page.image}}" alt="{{page.title}}">
+      {% else %}
+      <img src="/uploads/placeholder.png" alt="{{page.title}}">
+      {% endif %}
     </div>
     
     <div class="small-12 medium-6 large-6 columns">

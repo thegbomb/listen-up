@@ -7,7 +7,7 @@ categories:
 tags:
 - label
 position: 3
-image: "/uploads/team-010.jpg"
+image:
 is-featured: true
 is-front: true
 website: https://www.aatw.com

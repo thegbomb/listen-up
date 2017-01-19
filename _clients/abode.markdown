@@ -7,7 +7,7 @@ categories:
 tags:
 - label
 position: 4
-image: "/uploads/team-010.jpg"
+image:
 is-featured: true
 is-front: true
 website: http://www.aboderecords.com

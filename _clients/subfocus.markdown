@@ -5,7 +5,7 @@ categories:
 tags:
 - label
 position: 6
-image: "/uploads/team-010.jpg"
+image: "/uploads/subfocus.jpg"
 is-featured: true
 is-front: true
 facebook: test

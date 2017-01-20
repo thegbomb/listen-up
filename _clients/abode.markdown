@@ -8,8 +8,8 @@ tags:
 - label
 position: 4
 image: 
-is-featured: true
-is-front: true
+is-featured:
+is-front:
 website: http://www.aboderecords.com
 facebook: https://www.facebook.com/ABODErecords/
 twitter: https://twitter.com/aboderecords

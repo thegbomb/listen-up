@@ -1,14 +1,22 @@
 ---
 title: Jamie Jones
+categories:
+- radio
+- digital
+- press
 tags:
 - artist
-position: 1
-image: "/uploads/team-009.jpg"
-is-featured: true
+position: 2
+image: "/uploads/jamie-jones.jpg"
+is-featured: 
 is-front: true
+website: http://hotcreations.com
+facebook: https://www.facebook.com/jamiejonesmusic/
+twitter: https://twitter.com/JamieJonesMusic
+instagram: https://www.instagram.com/jamiejonesmusic/
+spotify: hhttps://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji
+soundcloud: https://soundcloud.com/jamie-jones
+youtube: https://www.youtube.com/channel/UCBamg4BvhCkztN7bPmR14bg
+apple: https://itunes.apple.com/gb/artist/jamie-jones/id16013761
 layout: client
 ---
-
-Cras justo odio, dapibus ac facilisis in, egestas eget quam. Etiam porta sem malesuada magna mollis euismod. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
-
-Maecenas sed diam eget risus varius blandit sit amet non magna. Donec id elit non mi porta gravida at eget metus. Curabitur blandit tempus porttitor. Sed posuere consectetur est at lobortis. Etiam porta sem malesuada magna mollis euismod. Vestibulum id ligula porta felis euismod semper.

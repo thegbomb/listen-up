@@ -6,8 +6,8 @@ tags:
 - label
 position: 13
 image: "/uploads/team-006.jpg"
-is-featured: true
-is-front: true
+is-featured:
+is-front:
 layout: client
 ---
 

@@ -8,8 +8,8 @@ tags:
 - label
 position: 3
 image: 
-is-featured: true
-is-front: true
+is-featured:
+is-front:
 website: https://www.aatw.com
 facebook: http://www.facebook.com/aatwofficial
 twitter: http://twitter.com/aatwofficial

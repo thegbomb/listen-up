@@ -1,12 +1,19 @@
 ---
 title: Patrick Topping
-position: 11
-image: "/uploads/team-007.jpg"
+categories:
+- events
+tags:
+- label
+position: 6
+image: "/uploads/patrick-topping.jpg"
 is-featured: true
 is-front: true
+facebook: https://www.facebook.com/patricktoppingdj/
+twitter: https://twitter.com/Patrick_Topping
+instagram: https://www.instagram.com/patricktopping/
+spotify: https://open.spotify.com/artist/7yRimuQSC5Ks3T2Ts0iyZa
+soundcloud: https://soundcloud.com/patricktopping
+youtube: 
+apple: https://itunes.apple.com/gb/artist/patrick-topping/id640499342
 layout: client
 ---
-
-Cras justo odio, dapibus ac facilisis in, egestas eget quam. Etiam porta sem malesuada magna mollis euismod. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
-
-Maecenas sed diam eget risus varius blandit sit amet non magna. Donec id elit non mi porta gravida at eget metus. Curabitur blandit tempus porttitor. Sed posuere consectetur est at lobortis. Etiam porta sem malesuada magna mollis euismod. Vestibulum id ligula porta felis euismod semper.

@@ -6,8 +6,8 @@ tags:
 - festival
 position: 9
 image: "/uploads/venue.jpg"
-is-featured: ture
-is-front: true
+is-featured:
+is-front:
 layout: client
 ---
 

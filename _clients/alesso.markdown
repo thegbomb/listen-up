@@ -7,9 +7,9 @@ categories:
 tags:
 - artist
 position: 2
-image: 
-is-featured: 
-is-front: 
+image: "/uploads/alesso.jpg"
+is-featured: true
+is-front: true
 website: http://www.alessoworld.com
 facebook: https://www.facebook.com/AlessoOfficial/
 twitter: https://twitter.com/Alesso

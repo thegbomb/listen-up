@@ -2,16 +2,23 @@
 title: Martin Solveig
 categories:
 - radio
+- digital
 - press
 tags:
 - artist
-position: 15
-image: "/uploads/team-004.jpg"
+position: 2
+image: "/uploads/martin-solveig.jpg"
 is-featured: true
-is-front: false
+is-front: true
+website: http://www.martinsolveig.com
+facebook: http://www.facebook.com/MartinSolveig
+twitter: http://twitter.com/martinsolveig
+instagram: http://instagram.com/martinsolveig/
+spotify: https://open.spotify.com/artist/1bj5GrcLom5gZFF5t949Xl
+soundcloud: http://soundcloud.com/martinsolveig
+youtube: http://www.youtube.com/user/tempsdavance
+apple: https://itunes.apple.com/gb/artist/martin-solveig/id15201848
 layout: client
 ---
 
-Cras justo odio, dapibus ac facilisis in, egestas eget quam. Etiam porta sem malesuada magna mollis euismod. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
-
-Maecenas sed diam eget risus varius blandit sit amet non magna. Donec id elit non mi porta gravida at eget metus. Curabitur blandit tempus porttitor. Sed posuere consectetur est at lobortis. Etiam porta sem malesuada magna mollis euismod. Vestibulum id ligula porta felis euismod semper.
+Though he grew up singing in the church choir and studying classical music, by age 13 French DJ Martin Solveig had his first pair of turntables and was showing off his skills to his friends. At 18, while working in a local record store, he further discovered the complexity of electronic music, and shortly thereafter was spinning at some of the most prestigious clubs in Paris. In 2001, Solveig worked with Bob Sinclar on Africanism, contributing his track "Edony" to the album. The single went on to be a hit, and after graduating from college, the DJ decided to release a full-length record. Sur la Terre -- which came out in 2002 on his own label, Mixture, and was made using both live and electronic instrumentation -- was also inspired by African rhythms, leading to a remix of Malian singer Salif Keita's song "Malan." In 2004 Solveig decided to move toward American funk and rock, releasing "Rocking Music," sung by Jay Sebag, followed by another full-length, Hedonist, in 2005. A third album, C'est la Vie, was issued in 2008, but it was only with his fourth effort, 2011's aptly titled Smash, that he finally broke through into the mainstream, attracting the interest of Madonna. The singer chose him to work on her album MDNA, and the pair developed a mutual respect and a close working relationship in the studio. Post-MDNA, Solveig continued collaborating, releasing the 2013 single "Hey Now," with the Cataracs and "Blow" featuring Laidback Luke in 2014. In 2015, Solveig returned with yet another single, the house music infused "+1," with vocals by Sam White.

@@ -1,14 +1,24 @@
 ---
 title: Jonas Blue
+categories:
+- radio
+- digital
+- press
 tags:
 - artist
-position: 17
-image: "/uploads/team-002.jpg"
-is-featured: true
+position: 2
+image: "/uploads/jonas-blue.jpg"
+is-featured: 
 is-front: true
+website: http://www.jonasbluemusic.com
+facebook: http://facebook.com/jonasbluemusic
+twitter: http://twitter.com/jonasblue
+instagram: http://instagram.com/jonasblue
+spotify: https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf
+soundcloud: http://soundcloud.com/JonasBlue
+youtube: https://www.youtube.com/channel/UCC6sWkXNQqyS2r6u6xQ_GdQ
+apple: https://itunes.apple.com/gb/artist/jonas-blue/id405728790
 layout: client
 ---
 
-Cras justo odio, dapibus ac facilisis in, egestas eget quam. Etiam porta sem malesuada magna mollis euismod. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
-
-Maecenas sed diam eget risus varius blandit sit amet non magna. Donec id elit non mi porta gravida at eget metus. Curabitur blandit tempus porttitor. Sed posuere consectetur est at lobortis. Etiam porta sem malesuada magna mollis euismod. Vestibulum id ligula porta felis euismod semper.
+London-based electronic dance producer Jonas Blue caught the attention of the industry with his reimagining of Tracy Chapman's 1988 hit "Fast Car." Adding a tropical house tint to the plaintive, bittersweet acoustic original, Blue enlisted the talents of young British singer Dakota, whose sultry vocals helped carry the song to the top of 17 international charts, including number one slots in Australia, Scotland, and both the U.K. and U.S. dance charts. In June 2016, Blue released the follow-up to his global smash, "Perfect Strangers," which featured JP Cooper on vocals.

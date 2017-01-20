@@ -14,10 +14,10 @@ website: http://www.diynamic.com
 facebook: https://www.facebook.com/DiynamicMusic/
 twitter: https://twitter.com/diynamic_music
 instagram: https://www.instagram.com/diynamicmusic/
-spotify:
+spotify: 
 soundcloud: https://soundcloud.com/diynamic-music
 youtube: https://www.youtube.com/user/diynamicmusic
-apple:
+apple: 
 layout: client
 ---
 

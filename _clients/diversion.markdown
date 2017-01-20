@@ -14,10 +14,10 @@ website: http://www.diversionla.com
 facebook: https://www.facebook.com/DiversionLA/
 twitter: https://twitter.com/diversionca
 instagram: https://www.instagram.com/diversionla/
-spotify:
-soundcloud:
-youtube:
-apple:
+spotify: 
+soundcloud: 
+youtube: 
+apple: 
 layout: client
 ---
 

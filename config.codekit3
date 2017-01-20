@@ -411,28 +411,10 @@
 		"oAP": "\/_clients\/disciples.markdown",
 		"oF": 0
 		},
-	"\/_clients\/diversion.markdown": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_clients\/diversion.markdown",
-		"oF": 0
-		},
-	"\/_clients\/diynamic.markdown": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_clients\/diynamic.markdown",
-		"oF": 0
-		},
 	"\/_clients\/dj-fresh.markdown": {
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_clients\/dj-fresh.markdown",
-		"oF": 0
-		},
-	"\/_clients\/dreambeach.markdown": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_clients\/dreambeach.markdown",
 		"oF": 0
 		},
 	"\/_clients\/ducksauce.markdown": {
@@ -12277,12 +12259,6 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_site\/contact\/index.html",
-		"oF": 0
-		},
-	"\/_site\/feed.xml": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_site\/feed.xml",
 		"oF": 0
 		},
 	"\/_site\/Gemfile": {

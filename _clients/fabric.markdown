@@ -7,7 +7,7 @@ tags:
 position: 10
 image: "/uploads/venue.jpg"
 is-featured: 
-is-front:
+is-front: 
 layout: client
 ---
 

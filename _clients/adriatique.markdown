@@ -8,8 +8,8 @@ tags:
 - artist
 position: 2
 image: 
-is-featured:
-is-front:
+is-featured: 
+is-front: 
 website: http://www.adriatique.ch
 facebook: http://www.facebook.com/adriatiqueofficial
 twitter: http://www.twitter.com/adriatiquemusic

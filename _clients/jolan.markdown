@@ -10,13 +10,14 @@ position: 2
 image: 
 is-featured: 
 is-front: 
-website:
+website: 
 facebook: https://www.facebook.com/jolanmusicofficial/
-twitter:
-instagram:
-spotify:
-soundcloud:
-youtube:
-apple:
+twitter: 
+instagram: 
+spotify: 
+soundcloud: 
+youtube: 
+apple: 
 layout: client
 ---
+

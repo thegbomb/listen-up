@@ -12,11 +12,12 @@ is-featured:
 is-front: 
 website: http://www.gregoriklosman.com
 facebook: https://www.facebook.com/GregoriKlosman
-twitter:
-instagram:
-spotify:
-soundcloud:
-youtube:
-apple:
+twitter: 
+instagram: 
+spotify: 
+soundcloud: 
+youtube: 
+apple: 
 layout: client
 ---
+

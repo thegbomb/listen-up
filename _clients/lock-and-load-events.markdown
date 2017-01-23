@@ -8,15 +8,16 @@ tags:
 - festival
 position: 2
 image: 
-is-featured:
+is-featured: 
 is-front: 
 website: http://www.locknloadevents.com/
-facebook:
-twitter:
-instagram:
-spotify:
-soundcloud:
-youtube:
-apple:
+facebook: 
+twitter: 
+instagram: 
+spotify: 
+soundcloud: 
+youtube: 
+apple: 
 layout: client
 ---
+

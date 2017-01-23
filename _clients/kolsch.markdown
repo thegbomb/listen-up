@@ -8,7 +8,7 @@ tags:
 - artist
 position: 2
 image: 
-is-featured:
+is-featured: 
 is-front: 
 website: 
 facebook: https://www.facebook.com/kolschofficial

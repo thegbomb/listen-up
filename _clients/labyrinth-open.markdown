@@ -9,15 +9,16 @@ tags:
 - festival
 position: 2
 image: 
-is-featured:
+is-featured: 
 is-front: 
-website:
+website: 
 facebook: https://www.facebook.com/labyrinthopen/
-twitter:
-instagram:
-spotify:
-soundcloud:
-youtube:
-apple:
+twitter: 
+instagram: 
+spotify: 
+soundcloud: 
+youtube: 
+apple: 
 layout: client
 ---
+

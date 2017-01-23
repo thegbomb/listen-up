@@ -8,15 +8,16 @@ tags:
 - artist
 position: 2
 image: 
-is-featured:
+is-featured: 
 is-front: 
 website: https://www.facebook.com/mikewilliamsofficial/
-facebook:
-twitter:
-instagram:
-spotify:
-soundcloud:
-youtube:
-apple:
+facebook: 
+twitter: 
+instagram: 
+spotify: 
+soundcloud: 
+youtube: 
+apple: 
 layout: client
 ---
+

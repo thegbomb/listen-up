@@ -25,8 +25,8 @@ layout: default
     <h4>{{team.title}}</h4>
     <h5>{{team.job-title}}</h5>
     {{team.content}}
-    {% if team.twitter %}
-    <a href="https://twitter.com" class="plus" target="_blank">Follow</a>
+    {% if team.email %}
+    <a href="{{team.email}}" class="plus">Contact</a>
     {% endif %}
     </div>
   </div>
@@ -43,8 +43,8 @@ layout: default
     <div class="columns team__people__person">
     <h4>{{team.title}}</h4>
     <h5>{{team.job-title}}</h5>
-    {% if team.twitter %}
-    <a href="https://twitter.com" class="plus" target="_blank">Follow</a>
+    {% if team.email %}
+    <a href="{{team.email}}" class="plus">Contact</a>
     {% endif %}
     </div>
     {% endfor %}

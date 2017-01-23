@@ -63,6 +63,18 @@ a {
     margin-left: 0.602em
 }
 
+/*
+.mui-fade-in-up {
+  @include mui-animation(slide(in, up, 2rem), fade);
+  animation-duration: 500ms;
+}
+
+.mui-fade-in {
+  @include mui-animation(fade);
+  animation-duration: 500ms;
+}
+*/
+
 // 2. Typography
 // -------------
 

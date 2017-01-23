@@ -1,19 +1,11 @@
-{% for entry in site.data.navigation %}
-{% capture fullurl %}{{ site.baseurl }}{{ entry.url }}{% endcapture %}
-{% if fullurl == page.url %}
-{% assign current_page = fullurl %}
-{% break %}
-{% elsif page.url contains fullurl %}
-{% assign current_page = fullurl %}
-{% endif %}
-{% endfor %}
+{% for entry in site.data.navigation %}{% capture fullurl %}{{ site.baseurl }}{{ entry.url }}{% endcapture %}{% if fullurl == page.url %}{% assign current_page = fullurl %}{% break %}{% elsif page.url contains fullurl %}{% assign current_page = fullurl %}{% endif %}{% endfor %}
 
 <nav>
   <div class="top-bar"> 
     <div class="row expanded align-middle align-justify">
     
       <div class="top-bar-title">
-        <a href="/"><svg class="icon icon-logo"><use xlink:href="#icon-logo"></use></svg></a>
+        <a href="/" class="animsition-link"><svg class="icon icon-logo"><use xlink:href="/assets/icons/symbol-defs.svg#icon-logo"></use></svg></a>
       </div>
       
       <div class="top-bar-right-mobile show-for-small-only">
@@ -35,20 +27,21 @@
           {% assign sublinks = entry.sublinks %}
           {% if sublinks %}
           <li{{ current }}>
-          <a href="{{ site.baseurl }}{{ entry.url }}">{{ entry.title }}</a>
+          <a href="{{ site.baseurl }}{{ entry.url }}" class="animsition-link">{{ entry.title }}</a>
           <ul class="menu vertical">
           {% for sublink in sublinks %}
-          <li><a href="{{ site.baseurl }}{{ sublink.url }}">{{ sublink.title }}</a></li>
+          <li><a href="{{ site.baseurl }}{{ sublink.url }}" class="animsition-link">{{ sublink.title }}</a></li>
           {% endfor %}
           </ul>
           </li>
           {% else %}
-          <li{{ current }}><a href="{{ site.baseurl }}{{ entry.url }}">{{ entry.title }}</a></li>
+          <li{{ current }}><a href="{{ site.baseurl }}{{ entry.url }}" class="animsition-link">{{ entry.title }}</a></li>
           {% endif %}
           {% endfor %}
-          <li><a href="{{site.social.facebook}}" target="_blank"><svg class="icon icon-facebook"><use xlink:href="#icon-facebook"></use></svg></a></li>
-          <li><a href="{{site.social.instagram}}" target="_blank"><svg class="icon icon-instagram"><use xlink:href="#icon-instagram"></use></svg></a></li>
-          <li><a href="{{site.social.twitter}}" target="_blank"><svg class="icon icon-twitter"><use xlink:href="#icon-twitter"></use></svg></a></li>
+<!--           <li><a href="{{site.social.facebook}}" target="_blank"><svg class="icon icon-facebook"><use xlink:href="#icon-facebook"></use></svg></a></li> -->
+          <li><a href="{{site.social.facebook}}" target="_blank"><svg class="icon icon-facebook"><use xlink:href="/assets/icons/symbol-defs.svg#icon-facebook"></use></svg></a></li>
+          <li><a href="{{site.social.instagram}}" target="_blank"><svg class="icon icon-instagram"><use xlink:href="/assets/icons/symbol-defs.svg#icon-instagram"></use></svg></a></li>
+          <li><a href="{{site.social.twitter}}" target="_blank"><svg class="icon icon-twitter"><use xlink:href="/assets/icons/symbol-defs.svg#icon-twitter"></use></svg></a></li>
         </ul>
       </div>
     

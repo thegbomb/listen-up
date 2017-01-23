@@ -23,7 +23,8 @@
     "masonry": "^4.1.1",
     "animsition": "^4.0.2",
     "vidage": "*",
-    "vide": "^0.5.1"
+    "vide": "^0.5.1",
+    "svgxuse": "^1.1.23"
   },
   "ignore": [
     "**/.*",

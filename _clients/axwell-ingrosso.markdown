@@ -5,7 +5,7 @@ categories:
 - digital
 - press
 tags:
-- label
+- artist
 position: 2
 image: 
 is-featured: 

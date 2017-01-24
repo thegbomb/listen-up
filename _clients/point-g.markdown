@@ -1,17 +1,17 @@
 ---
-title: Pleasure State
+title: Point G
 categories:
 - radio
 - digital
 - press
 tags:
-- label
+- artist
 position: 2
 image: 
 is-featured: 
 is-front: 
 website: 
-facebook: https://www.facebook.com/pleasurestatemusic/
+facebook: https://www.facebook.com/pointg.ofc
 twitter: 
 instagram: 
 spotify: 

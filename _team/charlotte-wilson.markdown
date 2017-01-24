@@ -1,6 +1,6 @@
 ---
 title: Charlotte Wilson
-position: 7
+position: 8
 image: 
 job-title: Senior Press Manager
 is-featured: false

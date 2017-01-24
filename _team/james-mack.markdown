@@ -1,6 +1,6 @@
 ---
 title: James Mack
-position: 16
+position: 17
 image: "/uploads/team-002.jpg"
 job-title: Partner
 is-featured: true

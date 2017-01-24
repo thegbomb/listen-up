@@ -1,6 +1,6 @@
 ---
 title: Ben Friedlander
-position: 5
+position: 6
 image: 
 job-title: Press Manager
 is-featured: false

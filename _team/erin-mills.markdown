@@ -1,6 +1,6 @@
 ---
 title: Erin Mills
-position: 2
+position: 3
 image: 
 job-title: Joint Head of Press
 is-featured: false

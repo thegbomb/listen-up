@@ -1,6 +1,6 @@
 ---
 title: Dujon Fairweather
-position: 8
+position: 9
 image: 
 job-title: Press Manager
 is-featured: false

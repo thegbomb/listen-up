@@ -1,6 +1,6 @@
 ---
 title: Nick Tearle
-position: 0
+position: 1
 image: "/uploads/team-004.jpg"
 job-title: Director of Digital
 is-featured: false

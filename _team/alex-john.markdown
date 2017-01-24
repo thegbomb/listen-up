@@ -1,6 +1,6 @@
 ---
 title: Alex John
-position: 10
+position: 11
 image: 
 job-title: Press Manager, North America
 is-featured: false

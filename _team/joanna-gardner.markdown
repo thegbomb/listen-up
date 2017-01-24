@@ -1,6 +1,6 @@
 ---
 title: Joanna Gardner
-position: 13
+position: 14
 image: 
 job-title: Senior Press Manager
 is-featured: false

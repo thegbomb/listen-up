@@ -1,5 +1,6 @@
 ---
 title: James Jackson
+position: 20
 image: "/uploads/team-001.jpg"
 job-title: Director of Radio & Club Promotions
 is-featured: true

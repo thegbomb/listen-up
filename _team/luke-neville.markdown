@@ -1,5 +1,6 @@
 ---
 title: Nike Neville
+position: 4
 image: "/uploads/team-003.jpg"
 job-title: Founder
 is-featured: true

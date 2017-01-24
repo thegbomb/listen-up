@@ -12,10 +12,10 @@ image:
 is-featured: 
 is-front: 
 website: http://www.renelavice.com/
-facebook:
-twitter:
-instagram:
-spotify:
+facebook: 
+twitter: 
+instagram: 
+spotify: 
 soundcloud: 
 youtube: 
 apple: 

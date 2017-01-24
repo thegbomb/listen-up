@@ -9,13 +9,13 @@ image: "/uploads/subfocus.jpg"
 is-featured: true
 is-front: true
 facebook: https://www.facebook.com/subfocus/
-twitter:
-instagram:
-spotify:
-soundcloud:
-youtube:
-apple:
-deezer:
+twitter: 
+instagram: 
+spotify: 
+soundcloud: 
+youtube: 
+apple: 
+deezer: 
 layout: client
 ---
 

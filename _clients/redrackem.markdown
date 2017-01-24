@@ -11,11 +11,11 @@ position: 2
 image: 
 is-featured: 
 is-front: 
-website:
+website: 
 facebook: https://www.facebook.com/redrackem/
-twitter:
-instagram:
-spotify:
+twitter: 
+instagram: 
+spotify: 
 soundcloud: 
 youtube: 
 apple: 

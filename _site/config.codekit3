@@ -1185,6 +1185,12 @@
 		"oAP": "\/_clients\/pleasure-state.markdown",
 		"oF": 0
 		},
+	"\/_clients\/point-g.markdown": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_clients\/point-g.markdown",
+		"oF": 0
+		},
 	"\/_clients\/sam-feldt.markdown": {
 		"ft": 8192,
 		"oA": 2,
@@ -13964,6 +13970,12 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_site\/clients\/pleasure-state\/index.html",
+		"oF": 0
+		},
+	"\/_site\/clients\/point-g\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/clients\/point-g\/index.html",
 		"oF": 0
 		},
 	"\/_site\/clients\/sam-feldt\/index.html": {

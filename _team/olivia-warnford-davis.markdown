@@ -2,7 +2,7 @@
 title: Olivia Warnford-Davis
 image: 
 job-title: Press Manager
-is-featured: false
+is-featured: true
 email: alex.john@listen-up.biz
 ---
 

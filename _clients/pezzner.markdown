@@ -10,7 +10,7 @@ position: 2
 image: 
 is-featured: 
 is-front: 
-website:
+website: 
 facebook: https://www.facebook.com/pezzner/
 twitter: 
 instagram: 

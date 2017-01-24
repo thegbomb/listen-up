@@ -12,7 +12,7 @@ image:
 is-featured: 
 is-front: 
 website: http://onelove.com.au
-facebook:
+facebook: 
 twitter: 
 instagram: 
 spotify: 

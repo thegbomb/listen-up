@@ -11,13 +11,14 @@ position: 2
 image: 
 is-featured: 
 is-front: 
-website:
+website: 
 facebook: https://www.facebook.com/strictlyrhythm
-twitter:
-instagram:
-spotify:
-soundcloud:
+twitter: 
+instagram: 
+spotify: 
+soundcloud: 
 youtube: 
 apple: 
 layout: client
 ---
+

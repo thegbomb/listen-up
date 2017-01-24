@@ -10,13 +10,14 @@ position: 2
 image: 
 is-featured: 
 is-front: 
-website:
+website: 
 facebook: https://www.facebook.com/TokyoDanceMusicEvent/
-twitter:
-instagram:
-spotify:
-soundcloud:
+twitter: 
+instagram: 
+spotify: 
+soundcloud: 
 youtube: 
 apple: 
 layout: client
 ---
+

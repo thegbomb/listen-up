@@ -12,12 +12,13 @@ image:
 is-featured: 
 is-front: 
 website: http://suncebeat.com/
-facebook:
-twitter:
-instagram:
-spotify:
-soundcloud:
+facebook: 
+twitter: 
+instagram: 
+spotify: 
+soundcloud: 
 youtube: 
 apple: 
 layout: client
 ---
+

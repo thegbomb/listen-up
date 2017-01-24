@@ -12,7 +12,7 @@ image:
 is-featured: 
 is-front: 
 website: 
-facebook:
+facebook: 
 twitter: https://twitter.com/PrydaRecordings
 instagram: 
 spotify: 

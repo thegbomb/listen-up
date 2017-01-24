@@ -6,7 +6,7 @@ categories:
 - press
 tags:
 - artist
-position: 2
+position: 47
 image: "/uploads/alesso.jpg"
 is-featured: true
 is-front: true

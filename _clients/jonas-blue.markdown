@@ -6,7 +6,7 @@ categories:
 - press
 tags:
 - artist
-position: 2
+position: 87
 image: "/uploads/jonas-blue.jpg"
 is-featured: 
 is-front: true

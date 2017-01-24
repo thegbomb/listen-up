@@ -6,7 +6,7 @@ categories:
 - press
 tags:
 - artist
-position: 2
+position: 89
 image: "/uploads/sam-feldt.jpg"
 is-featured: true
 is-front: true

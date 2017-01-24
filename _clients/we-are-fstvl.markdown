@@ -6,7 +6,7 @@ categories:
 - press
 tags:
 - festival
-position: 2
+position: 50
 image: 
 is-featured: 
 is-front: 

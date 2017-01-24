@@ -6,7 +6,7 @@ categories:
 - press
 tags:
 - artist
-position: 2
+position: 45
 image: "/uploads/jamie-jones.jpg"
 is-featured: 
 is-front: true

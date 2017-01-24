@@ -6,7 +6,7 @@ categories:
 - press
 tags:
 - publication
-position: 2
+position: 189
 image: 
 is-featured: 
 is-front: 

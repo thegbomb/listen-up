@@ -4,7 +4,7 @@ categories:
 - events
 tags:
 - label
-position: 6
+position: 271
 image: "/uploads/patrick-topping.jpg"
 is-featured: true
 is-front: true

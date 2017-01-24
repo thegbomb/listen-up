@@ -6,7 +6,7 @@ categories:
 - press
 tags:
 - artist
-position: 2
+position: 90
 image: "/uploads/steve-lawler.jpg"
 is-featured: true
 is-front: true

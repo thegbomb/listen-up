@@ -6,7 +6,7 @@ categories:
 - press
 tags:
 - label
-position: 3
+position: 268
 image: 
 is-featured: 
 is-front: 

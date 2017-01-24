@@ -1371,7 +1371,7 @@
 		"oAP": "\/_clients\/skrillex.markdown",
 		"oF": 0
 		},
-	"\/_clients\/snakehips.markdown": {
+	"\/_clients\/Snakehips.markdown": {
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_clients\/snakehips.markdown",
@@ -14912,6 +14912,12 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_site\/clients\/yotto\/index.html",
+		"oF": 0
+		},
+	"\/_site\/clients\/zedd\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/clients\/zedd\/index.html",
 		"oF": 0
 		},
 	"\/_site\/contact\/index.html": {

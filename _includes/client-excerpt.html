@@ -1,6 +1,13 @@
 <!-- Excerpt -->
 <div class="excerpt">
-  <a href="{{ client.url }}">
+  
+  {% if client.website %}
+  <a href="{{ client.website }}" target="_blank">
+  {% elsif client.facebook %}
+  <a href="{{ client.facebook }}" target="_blank">
+  {% else %}
+  <a href="{{ client.twitter }}" target="_blank">
+  {% endif %}
 
   <!-- Excerpt Title -->
   <div class="row excerpt__title align-middle">

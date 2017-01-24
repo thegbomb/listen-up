@@ -39,7 +39,8 @@ layout: default
         {% for client in site.clients %}
           {% if client.tags contains 'label' %}
             <div class="columns">
-              {{ client.title }}
+{% if client.website %}<a href="{{ client.website }}" target="_blank">{% elsif client.facebook %}<a href="{{ client.facebook }}" target="_blank">{% else %}<a href="{{ client.twitter }}" target="_blank">{% endif %}{{client.title}}</a>
+
             </div>
           {% endif %}
         {% endfor %}
@@ -61,7 +62,8 @@ layout: default
         {% for client in site.clients %}
           {% if client.tags contains 'artist' %}
             <div class="columns">
-              {{ client.title }}
+{% if client.website %}<a href="{{ client.website }}" target="_blank">{% elsif client.facebook %}<a href="{{ client.facebook }}" target="_blank">{% else %}<a href="{{ client.twitter }}" target="_blank">{% endif %}{{client.title}}</a>
+
             </div>
           {% endif %}
         {% endfor %}
@@ -83,7 +85,8 @@ layout: default
         {% for client in site.clients %}
           {% if client.tags contains 'festival' %}
             <div class="columns">
-              {{ client.title }}
+{% if client.website %}<a href="{{ client.website }}" target="_blank">{% elsif client.facebook %}<a href="{{ client.facebook }}" target="_blank">{% else %}<a href="{{ client.twitter }}" target="_blank">{% endif %}{{client.title}}</a>
+
             </div>
           {% endif %}
         {% endfor %}
@@ -105,7 +108,8 @@ layout: default
         {% for client in site.clients %}
           {% if client.tags contains 'venue' %}
             <div class="columns">
-              {{ client.title }}
+{% if client.website %}<a href="{{ client.website }}" target="_blank">{% elsif client.facebook %}<a href="{{ client.facebook }}" target="_blank">{% else %}<a href="{{ client.twitter }}" target="_blank">{% endif %}{{client.title}}</a>
+
             </div>
           {% endif %}
         {% endfor %}

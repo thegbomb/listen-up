@@ -1683,12 +1683,6 @@
 		"oAP": "\/_config.yml",
 		"oF": 0
 		},
-	"\/_data\/navigation-mobile.yml": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_data\/navigation-mobile.yml",
-		"oF": 0
-		},
 	"\/_data\/navigation.yml": {
 		"ft": 8192,
 		"oA": 2,
@@ -1880,16 +1874,6 @@
 		"oA": 2,
 		"oAP": "\/_site\/about\/index.html",
 		"oF": 0
-		},
-	"\/_site\/assets\/css\/app.css": {
-		"aP": 0,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 2,
-		"oAP": "\/_site\/assets\/css\/app-min.css",
-		"oF": 0,
-		"oS": 0
 		},
 	"\/_site\/assets\/css\/app.css.map": {
 		"ft": 8192,

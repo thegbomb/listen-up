@@ -38,7 +38,7 @@ img {
   color: $color--white;
 }
 
-a { 
+a {
   transition: $primary-transition;
 }
 
@@ -318,6 +318,15 @@ div.row.excerpt__title {
   color: $color--red;
 }
 
+.clients__category__list {
+    a {
+      color: $color--black;
+    }
+    a:hover {
+      color: $color--gray;
+    }
+}
+
 // 12. Service
 // ----------
 
@@ -344,6 +353,15 @@ div.row.excerpt__title {
 
 .service__category__title {
   color: $color--red;
+}
+
+.service__category__list {
+    a {
+      color: $color--black;
+    }
+    a:hover {
+      color: $color--gray;
+    }
 }
 
 /*

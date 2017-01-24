@@ -50,7 +50,11 @@ layout: default
         {% if client.categories contains category %}    
           {% if client.tags contains 'label' %}
           <div class="small-12 columns">
-          {{client.title}}
+          
+          
+{% if client.website %}<a href="{{ client.website }}" target="_blank">{% elsif client.facebook %}<a href="{{ client.facebook }}" target="_blank">{% else %}<a href="{{ client.twitter }}" target="_blank">{% endif %}{{client.title}}</a>
+          
+          
           </div>
           {% endif %}
         {% endif %}
@@ -75,7 +79,7 @@ layout: default
           {% if client.categories contains category %}    
             {% if client.tags contains 'artist' %}
             <div class="small-12 columns">
-            {{client.title}}
+{% if client.website %}<a href="{{ client.website }}" target="_blank">{% elsif client.facebook %}<a href="{{ client.facebook }}" target="_blank">{% else %}<a href="{{ client.twitter }}" target="_blank">{% endif %}{{client.title}}</a>
             </div>
             {% endif %}
           {% endif %}
@@ -100,7 +104,7 @@ layout: default
           {% if client.categories contains category %}    
             {% if client.tags contains 'festival' %}
             <div class="small-12 columns">
-            {{client.title}}
+{% if client.website %}<a href="{{ client.website }}" target="_blank">{% elsif client.facebook %}<a href="{{ client.facebook }}" target="_blank">{% else %}<a href="{{ client.twitter }}" target="_blank">{% endif %}{{client.title}}</a>
             </div>
             {% endif %}
           {% endif %}
@@ -125,7 +129,7 @@ layout: default
           {% if client.categories contains category %}    
             {% if client.tags contains 'venue' %}
             <div class="small-12 columns">
-            {{client.title}}
+{% if client.website %}<a href="{{ client.website }}" target="_blank">{% elsif client.facebook %}<a href="{{ client.facebook }}" target="_blank">{% else %}<a href="{{ client.twitter }}" target="_blank">{% endif %}{{client.title}}</a>
             </div>
             {% endif %}
           {% endif %}

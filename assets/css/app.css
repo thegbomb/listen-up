@@ -8726,6 +8726,12 @@ div.row.excerpt__title {
 .clients__category__title {
   color: #e32117; }
 
+.clients__category__list a {
+  color: #2c2c2d; }
+
+.clients__category__list a:hover {
+  color: #9B9B9B; }
+
 .service__intro {
   padding-top: 3rem;
   padding-bottom: 3rem; }
@@ -8744,6 +8750,12 @@ div.row.excerpt__title {
 
 .service__category__title {
   color: #e32117; }
+
+.service__category__list a {
+  color: #2c2c2d; }
+
+.service__category__list a:hover {
+  color: #9B9B9B; }
 
 /*
 .service__category__title {

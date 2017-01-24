@@ -192,6 +192,10 @@ div.row.excerpt__title {
   margin-bottom: 2rem;
 }
 
+.contact__location__map {
+  margin-bottom: 2rem;
+}
+
 .contact__location__directions {
   padding-top: 0rem;
   padding-bottom: 1rem;
@@ -217,7 +221,7 @@ div.row.excerpt__title {
 }
 
 .contact__enquiry {
-  padding-bottom: 1rem;
+  padding-bottom: 2rem;
 }
 
 // 10. About
@@ -396,8 +400,7 @@ div.row.excerpt__title {
 }
 
 .team__people__person {
-  padding-top: 1rem;
-  padding-bottom: 1rem;
+  padding-bottom: 2rem;
 }
 
 
@@ -407,18 +410,19 @@ div.row.excerpt__title {
 footer {
   background-color: $color--black;
   color: $color--white;
-  padding: 2rem 2rem;
+  padding-bottom: 2rem;
   a {
     color: $color--white;
     display: block;
     }
-  @include breakpoint(small only) {
-    padding: 2rem;
-  }
+  a:hover {
+    color: $color--red;
+    }
 }
 
 .footer__detail {
   color: $color--gray;
+  padding-top: 2rem;
 }
 
 // Client

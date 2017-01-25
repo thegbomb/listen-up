@@ -1,6 +1,6 @@
 ---
 title: Tommy Horner
-position: 27
+position: 22
 image: 
 job-title: Events Project Coordinator
 is-featured: false

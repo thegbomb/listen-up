@@ -1,6 +1,6 @@
 ---
 title: Josh Clifford
-position: 22
+position: 24
 image: 
 job-title: Radio Promotions Manager
 is-featured: false

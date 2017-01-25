@@ -1,6 +1,6 @@
 ---
 title: Joey Pettit
-position: 16
+position: 17
 image: 
 job-title: Executive Assistant
 is-featured: false

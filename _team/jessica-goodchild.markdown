@@ -1,6 +1,6 @@
 ---
 title: Jessica Goodchild
-position: 25
+position: 10
 image: 
 job-title: Senior Press Manager
 is-featured: false

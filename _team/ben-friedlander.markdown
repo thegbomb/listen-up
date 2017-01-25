@@ -1,6 +1,6 @@
 ---
 title: Ben Friedlander
-position: 11
+position: 14
 image: 
 job-title: Press Manager, North America
 is-featured: false

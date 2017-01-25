@@ -3,7 +3,7 @@ title: Olivia Warnford-Davis
 position: 14
 image: 
 job-title: Press Manager
-is-featured: true
+is-featured: false
 email: olivia.warnforddavis@listen-up.biz
 ---
 

@@ -1875,6 +1875,98 @@
 		"oAP": "\/_site\/about\/index.html",
 		"oF": 0
 		},
+	"\/_site\/bower_components\/jquery-ui\/themes\/pepper-grinder\/jquery-ui.min.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/_site\/bower_components\/jquery-ui\/themes\/pepper-grinder\/jquery-ui.min.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/_site\/bower_components\/jquery-ui\/themes\/pepper-grinder\/theme.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/_site\/bower_components\/jquery-ui\/themes\/pepper-grinder\/theme.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/_site\/bower_components\/jquery-ui\/themes\/redmond\/images\/ui-bg_glass_75_d0e5f5_1x400.png": {
+		"ft": 32768,
+		"iS": 394,
+		"oA": 2,
+		"oAP": "\/_site\/bower_components\/jquery-ui\/themes\/redmond\/images\/ui-bg_glass_75_d0e5f5_1x400.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/_site\/bower_components\/jquery-ui\/themes\/redmond\/images\/ui-bg_glass_85_dfeffc_1x400.png": {
+		"ft": 32768,
+		"iS": 399,
+		"oA": 2,
+		"oAP": "\/_site\/bower_components\/jquery-ui\/themes\/redmond\/images\/ui-bg_glass_85_dfeffc_1x400.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/_site\/bower_components\/jquery-ui\/themes\/redmond\/images\/ui-bg_glass_95_fef1ec_1x400.png": {
+		"ft": 32768,
+		"iS": 390,
+		"oA": 2,
+		"oAP": "\/_site\/bower_components\/jquery-ui\/themes\/redmond\/images\/ui-bg_glass_95_fef1ec_1x400.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/_site\/bower_components\/jquery-ui\/themes\/redmond\/images\/ui-bg_gloss-wave_55_5c9ccc_500x100.png": {
+		"ft": 32768,
+		"iS": 5882,
+		"oA": 2,
+		"oAP": "\/_site\/bower_components\/jquery-ui\/themes\/redmond\/images\/ui-bg_gloss-wave_55_5c9ccc_500x100.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/_site\/bower_components\/jquery-ui\/themes\/redmond\/images\/ui-bg_inset-hard_100_f5f8f9_1x100.png": {
+		"ft": 32768,
+		"iS": 391,
+		"oA": 2,
+		"oAP": "\/_site\/bower_components\/jquery-ui\/themes\/redmond\/images\/ui-bg_inset-hard_100_f5f8f9_1x100.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/_site\/bower_components\/jquery-ui\/themes\/redmond\/images\/ui-bg_inset-hard_100_fcfdfd_1x100.png": {
+		"ft": 32768,
+		"iS": 350,
+		"oA": 2,
+		"oAP": "\/_site\/bower_components\/jquery-ui\/themes\/redmond\/images\/ui-bg_inset-hard_100_fcfdfd_1x100.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/_site\/bower_components\/jquery-ui\/themes\/redmond\/images\/ui-icons_217bc0_256x240.png": {
+		"ft": 32768,
+		"iS": 4676,
+		"oA": 2,
+		"oAP": "\/_site\/bower_components\/jquery-ui\/themes\/redmond\/images\/ui-icons_217bc0_256x240.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/_site\/bower_components\/jquery-ui\/themes\/redmond\/images\/ui-icons_2e83ff_256x240.png": {
+		"ft": 32768,
+		"iS": 4676,
+		"oA": 2,
+		"oAP": "\/_site\/bower_components\/jquery-ui\/themes\/redmond\/images\/ui-icons_2e83ff_256x240.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/_site\/bower_components\/jquery-ui\/themes\/redmond\/images\/ui-icons_469bdd_256x240.png": {
+		"ft": 32768,
+		"iS": 4676,
+		"oA": 2,
+		"oAP": "\/_site\/bower_components\/jquery-ui\/themes\/redmond\/images\/ui-icons_469bdd_256x240.png",
+		"oF": 0,
+		"opt": 0
+		},
 	"\/_site\/bower_components\/jquery-ui\/themes\/redmond\/images\/ui-icons_6da8d5_256x240.png": {
 		"ft": 32768,
 		"iS": 4676,
@@ -7802,12 +7894,6 @@
 		"oAP": "\/_site\/sitemap.xml",
 		"oF": 0
 		},
-	"\/_site\/team\/index.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_site\/team\/index.html",
-		"oF": 0
-		},
 	"\/_site\/uploads\/alesso.jpg": {
 		"ft": 16384,
 		"iS": 76891,
@@ -8829,7 +8915,7 @@
 	"\/bower_components\/animsition\/dist\/js\/animsition.js": {
 		"ft": 64,
 		"mi": 1,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/bower_components\/animsition\/dist\/js\/animsition.js",
 		"oF": 0,
 		"sC": 1,
@@ -21214,7 +21300,7 @@
 	"\/bower_components\/vide\/dist\/jquery.vide.js": {
 		"ft": 64,
 		"mi": 1,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/bower_components\/vide\/dist\/jquery.vide.js",
 		"oF": 0,
 		"sC": 1,
@@ -21753,14 +21839,26 @@
 			},
 		{
 			"followForSyntaxChecking": 0,
-			"linkedFileAbbreviatedPath": "\/bower_components\/flickity\/dist\/flickity.pkgd.js",
+			"linkedFileAbbreviatedPath": "\/bower_components\/animsition\/dist\/js\/animsition.js",
 			"position": 4,
 			"type": 0
 			},
 		{
 			"followForSyntaxChecking": 0,
-			"linkedFileAbbreviatedPath": "\/bower_components\/wow\/dist\/wow.js",
+			"linkedFileAbbreviatedPath": "\/bower_components\/vide\/dist\/jquery.vide.js",
 			"position": 5,
+			"type": 0
+			},
+		{
+			"followForSyntaxChecking": 0,
+			"linkedFileAbbreviatedPath": "\/bower_components\/flickity\/dist\/flickity.pkgd.js",
+			"position": 6,
+			"type": 0
+			},
+		{
+			"followForSyntaxChecking": 0,
+			"linkedFileAbbreviatedPath": "\/bower_components\/wow\/dist\/wow.js",
+			"position": 7,
 			"type": 0
 			}
 		]

@@ -1875,22 +1875,6 @@
 		"oAP": "\/_site\/about\/index.html",
 		"oF": 0
 		},
-	"\/_site\/bower_components\/jquery-ui\/themes\/redmond\/images\/ui-icons_6da8d5_256x240.png": {
-		"ft": 32768,
-		"iS": 4676,
-		"oA": 2,
-		"oAP": "\/_site\/bower_components\/jquery-ui\/themes\/redmond\/images\/ui-icons_6da8d5_256x240.png",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/_site\/bower_components\/jquery-ui\/themes\/redmond\/images\/ui-icons_cd0a0a_256x240.png": {
-		"ft": 32768,
-		"iS": 4676,
-		"oA": 2,
-		"oAP": "\/_site\/bower_components\/jquery-ui\/themes\/redmond\/images\/ui-icons_cd0a0a_256x240.png",
-		"oF": 0,
-		"opt": 0
-		},
 	"\/_site\/bower_components\/jquery-ui\/themes\/redmond\/images\/ui-icons_d8e7f3_256x240.png": {
 		"ft": 32768,
 		"iS": 4676,
@@ -7802,12 +7786,6 @@
 		"oAP": "\/_site\/sitemap.xml",
 		"oF": 0
 		},
-	"\/_site\/team\/index.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_site\/team\/index.html",
-		"oF": 0
-		},
 	"\/_site\/uploads\/alesso.jpg": {
 		"ft": 16384,
 		"iS": 76891,
@@ -8829,7 +8807,7 @@
 	"\/bower_components\/animsition\/dist\/js\/animsition.js": {
 		"ft": 64,
 		"mi": 1,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/bower_components\/animsition\/dist\/js\/animsition.js",
 		"oF": 0,
 		"sC": 1,
@@ -21214,7 +21192,7 @@
 	"\/bower_components\/vide\/dist\/jquery.vide.js": {
 		"ft": 64,
 		"mi": 1,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/bower_components\/vide\/dist\/jquery.vide.js",
 		"oF": 0,
 		"sC": 1,
@@ -21753,14 +21731,26 @@
 			},
 		{
 			"followForSyntaxChecking": 0,
-			"linkedFileAbbreviatedPath": "\/bower_components\/flickity\/dist\/flickity.pkgd.js",
+			"linkedFileAbbreviatedPath": "\/bower_components\/animsition\/dist\/js\/animsition.js",
 			"position": 4,
 			"type": 0
 			},
 		{
 			"followForSyntaxChecking": 0,
-			"linkedFileAbbreviatedPath": "\/bower_components\/wow\/dist\/wow.js",
+			"linkedFileAbbreviatedPath": "\/bower_components\/vide\/dist\/jquery.vide.js",
 			"position": 5,
+			"type": 0
+			},
+		{
+			"followForSyntaxChecking": 0,
+			"linkedFileAbbreviatedPath": "\/bower_components\/flickity\/dist\/flickity.pkgd.js",
+			"position": 6,
+			"type": 0
+			},
+		{
+			"followForSyntaxChecking": 0,
+			"linkedFileAbbreviatedPath": "\/bower_components\/wow\/dist\/wow.js",
+			"position": 7,
 			"type": 0
 			}
 		]

@@ -37,9 +37,25 @@ defaults:
   values:
     permalink: "/services/:title/"
     layout: service
+- scope:
+    path: ''
+    type: clients
+  values:
+    position:
+    image: 
+    is-featured: 
+    is-front: 
+    website: 
+    facebook:
+    twitter: 
+    instagram: 
+    spotify: 
+    soundcloud: 
+    youtube: 
+    apple: 
+    layout: client
 url: http://listen-up.biz
-description: Listen Up provides a bespoke 360 promotional service offering radio,
-  club, online and print campaigns in the UK and worldwide.
+description: Listen Up provides a bespoke 360 promotional service offering radio, club, online and print campaigns in the UK and worldwide.
 permalink: pretty
 exclude: 
 gems:

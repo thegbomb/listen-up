@@ -1,7 +1,7 @@
 {% for entry in site.data.navigation %}{% capture fullurl %}{{ site.baseurl }}{{ entry.url }}{% endcapture %}{% if fullurl == page.url %}{% assign current_page = fullurl %}{% break %}{% elsif page.url contains fullurl %}{% assign current_page = fullurl %}{% endif %}{% endfor %}
 
 <nav>
-  <div class="top-bar"> 
+  <div class="top-bar" id="top"> 
     <div class="row expanded align-middle align-justify">
     
       <div class="top-bar-title">

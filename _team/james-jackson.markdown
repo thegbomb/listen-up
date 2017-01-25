@@ -1,6 +1,6 @@
 ---
 title: James 'Jacko' Jackson
-position: 0
+position: 2
 image: "/uploads/team-001.jpg"
 job-title: Director of Radio & Club Promotions
 is-featured: true

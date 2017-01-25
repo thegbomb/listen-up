@@ -1,6 +1,6 @@
 ---
 title: Luke Neville
-position: 2
+position: 0
 image: "/uploads/team-003.jpg"
 job-title: Founder
 is-featured: true

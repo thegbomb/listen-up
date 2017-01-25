@@ -1,6 +1,6 @@
 ---
 title: Carina Low
-position: 8
+position: 10
 image: 
 job-title: Senior Events Press Manager
 is-featured: false

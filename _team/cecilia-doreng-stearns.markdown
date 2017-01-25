@@ -1,6 +1,6 @@
 ---
 title: Cecilia Doreng-Stearns
-position: 26
+position: 4
 image: 
 job-title: Head of Press, North America
 is-featured: false

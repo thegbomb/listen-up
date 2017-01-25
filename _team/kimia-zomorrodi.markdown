@@ -1,6 +1,6 @@
 ---
 title: Kimia Zomorrodi
-position: 15
+position: 17
 image: 
 job-title: Radio & Club Promotions Manager, North America
 is-featured: false

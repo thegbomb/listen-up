@@ -1,6 +1,6 @@
 ---
 title: Leanne Allen
-position: 25
+position: 26
 image: 
 job-title: Event Press Coordinator
 is-featured: false

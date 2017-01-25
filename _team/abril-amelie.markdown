@@ -1,6 +1,6 @@
 ---
 title: Abril Amélie
-position: 20
+position: 22
 image: 
 job-title: Press Coordinator, North America
 is-featured: false

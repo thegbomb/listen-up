@@ -1,6 +1,6 @@
 ---
 title: Katherine Cooper
-position: 14
+position: 16
 image: 
 job-title: Office Manager
 is-featured: false

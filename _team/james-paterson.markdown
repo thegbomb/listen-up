@@ -1,6 +1,6 @@
 ---
 title: James Paterson
-position: 21
+position: 7
 image: 
 job-title: Head of National Radio
 is-featured: false

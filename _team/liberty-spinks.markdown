@@ -1,6 +1,6 @@
 ---
 title: Liberty Spinks
-position: 28
+position: 29
 image: 
 job-title: Events Press Manager
 is-featured: false

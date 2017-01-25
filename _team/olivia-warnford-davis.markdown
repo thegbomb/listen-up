@@ -1,6 +1,6 @@
 ---
 title: Olivia Warnford-Davis
-position: 17
+position: 14
 image: 
 job-title: Press Manager
 is-featured: true

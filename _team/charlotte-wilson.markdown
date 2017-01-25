@@ -4,7 +4,7 @@ position: 9
 image: 
 job-title: Senior Press Manager
 is-featured: false
-email: alex.john@listen-up.biz
+email: charlotte.wilson@listen-up.biz
 ---
 
-Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Cras mattis consectetur purus sit amet fermentum. Nullam id dolor id nibh ultricies vehicula ut id elit.
+Charlotte brings 5 years of PR experience to her role as a Senior Press Manager at Listen Up. Having worked across many of the company’s major label acts, including Galantis, Martin Solveig and Jonas Blue, plus numerous number 1 single campaigns and demanding high profile shoots and press days, Charlotte has established a wealth of contacts and a well-rounded understanding of the ever-changing world of press.

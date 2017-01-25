@@ -4,7 +4,7 @@ position: 15
 image: 
 job-title: Press Manager
 is-featured: false
-email: alex.john@listen-up.biz
+email: katerina.koumourou@listen-up.biz
 ---
 
-Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Cras mattis consectetur purus sit amet fermentum. Nullam id dolor id nibh ultricies vehicula ut id elit.
+With over 3 years of experience in the music industry, Katerina has worked at boutique PR agencies as well as an in-house assistant for music management companies, working across both established and emerging artist projects. Through previous roles, Katerina has developed an array of skills and knowledge, bringing passion and enthusiasm to her current role as Press Manager at Listen Up.

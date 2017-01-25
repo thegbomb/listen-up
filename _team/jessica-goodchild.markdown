@@ -4,7 +4,7 @@ position: 13
 image: 
 job-title: Senior Press Manager
 is-featured: false
-email: alex.john@listen-up.biz
+email: jessica.goodchild@listen-up.biz
 ---
 
-Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Cras mattis consectetur purus sit amet fermentum. Nullam id dolor id nibh ultricies vehicula ut id elit.
+With a wealth of experience in live events and artist press, Jess joined Listen Up from Global Publicity where she worked on a list of leading international music events and revered dance acts. She brings a wealth of extensive knowledge and experience to her role as Senior Press Manager.

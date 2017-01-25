@@ -2,9 +2,9 @@
 title: Ben Friedlander
 position: 7
 image: 
-job-title: Press Manager
+job-title: Press Manager, North America
 is-featured: false
-email: alex.john@listen-up.biz
+email: ben.friedlander@listen-up.biz
 ---
 
-Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Cras mattis consectetur purus sit amet fermentum. Nullam id dolor id nibh ultricies vehicula ut id elit.
+Ben has worked in the music industry since 2008 in a variety of different capacities. Starting with influential online music magazine Live For The Funk while still a student at the University of Colorado at Boulder, he has worked for Seattle’s Decibel Festival, co-founded music app Craaave, managed DJ Shadow’s Liquid Amber label and now serves as a Press Manager for Listen Up’s LA office.

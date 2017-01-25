@@ -7,4 +7,4 @@ is-featured: false
 email: alex.john@listen-up.biz
 ---
 
-Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Cras mattis consectetur purus sit amet fermentum. Nullam id dolor id nibh ultricies vehicula ut id elit.
+With several years of journalism experience working for music-based publications including DJ Mag and VIBE, coupled with her time spent in public relations and social media management roles, Alex brings an eclectic mix of industry knowledge and street-savvy experience to the table.

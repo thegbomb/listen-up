@@ -4,7 +4,7 @@ position: 20
 image: 
 job-title: Press Manager
 is-featured: true
-email: alex.john@listen-up.biz
+email: olivia.warnforddavis@listen-up.biz
 ---
 
-Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Cras mattis consectetur purus sit amet fermentum. Nullam id dolor id nibh ultricies vehicula ut id elit.
+Gaining a degree in Communications, Olivia started her career at Impressive PR working across a host of artist and event campaigns including Electric Daisy Carnival, before branching out to both celebrity PR and crisis management. She has also previously interned at both Sony and Universal Music, bringing a wealth of experience to her role as Press Manager.

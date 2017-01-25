@@ -4,7 +4,7 @@ position: 6
 image: "/uploads/team-004.jpg"
 job-title: Joint Head of Press
 is-featured: false
-email: alex.john@listen-up.biz
+email: grace.mccracken@listen-up.biz
 ---
 
-Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Cras mattis consectetur purus sit amet fermentum. Nullam id dolor id nibh ultricies vehicula ut id elit.
+Grace is our Joint Head of Press who runs the artist press team alongside Erin. Her career in music PR spans over a decade to date and she’s one of Listen Up’s most experienced PRs. Having secured numerous international magazine covers and some impressive lifestyle features for our artists she has a constantly expanding print portfolio. Grace works a varied roster of clients at Listen Up, working with some of our biggest pop acts to smaller underground artists.

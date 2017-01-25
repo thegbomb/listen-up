@@ -4,7 +4,7 @@ position: 18
 image: 
 job-title: Events Press Manager
 is-featured: false
-email: alex.john@listen-up.biz
+email: liberty.spinks@listen-up.biz
 ---
 
-Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Cras mattis consectetur purus sit amet fermentum. Nullam id dolor id nibh ultricies vehicula ut id elit.
+Having been part of the events team at Listen Up for two years now, Liberty has built on her background in fashion promotion and marketing to work across a wide range of festival and club campaigns. An integral part in the Parklife festival press team and across AMP’s Lost & Found festival and We Are FSTVL, Liberty has also worked closely with a range of UK and international club promoters such as LWE – namely Seth Troxler’s Acid Future and their flagship New Year’s parties – Ministry of Sound and Ushuaïa.

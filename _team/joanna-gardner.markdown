@@ -4,7 +4,7 @@ position: 14
 image: 
 job-title: Senior Press Manager
 is-featured: false
-email: alex.john@listen-up.biz
+email: joanna.gardner@listen-up.biz
 ---
 
-Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Cras mattis consectetur purus sit amet fermentum. Nullam id dolor id nibh ultricies vehicula ut id elit.
+With over 4 years experience in events promotion and PR, Joanna works on artist and label press for Listen Up’s extensive roster. She has secured a number of high-profile international magazine covers and editorial spreads for Listen Up’s clients. Joanna leads national and international campaigns for clients including Alesso, Steve Angello, Tiesto, and successful labels such as Mixmash, Refune, Size and OWSLA. With a huge personal passion for electronic music, Joanna brings a wealth of industry knowledge and expertise to the table. 

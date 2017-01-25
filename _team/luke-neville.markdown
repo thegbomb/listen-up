@@ -1,10 +1,10 @@
 ---
-title: Nike Neville
+title: Luke Neville
 position: 2
 image: "/uploads/team-003.jpg"
 job-title: Founder
 is-featured: true
-email: alex.john@listen-up.biz
+email: luke.neville@listen-up.biz
 ---
 
-Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Cras mattis consectetur purus sit amet fermentum. Nullam id dolor id nibh ultricies vehicula ut id elit. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
+Luke’s career has covered many facets of the music industry; from 8 years as Director of A&R at Universal/Manifesto, to being Executive Producer of the classic ‘Cafe Del Mar’ album series and a dj’ing career that has seen him play clubs & festivals across the globe for 20 years, even recording a Radio 1 Essential Mix. Luke’s wealth of experience has all fed into Listen Up.

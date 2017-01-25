@@ -1,5 +1,5 @@
 ---
-title: James Jackson
+title: James 'Jacko' Jackson
 position: 0
 image: "/uploads/team-001.jpg"
 job-title: Director of Radio & Club Promotions
@@ -7,4 +7,4 @@ is-featured: true
 email: alex.john@listen-up.biz
 ---
 
-Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Cras mattis consectetur purus sit amet fermentum. Nullam id dolor id nibh ultricies vehicula ut id elit. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
+Jacko brings a wealth of experience to the team with 15 years of London DJ residencies at venues such as The Cross, Turnmills and Pacha. At Defected Records Jacko also spent seven years as Promotions Manager working closely with A&R and some of the world’s most renowned music producers and DJs, as well as being Executive Producer for the Defected Radio Show.

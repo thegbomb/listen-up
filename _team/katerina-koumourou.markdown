@@ -1,6 +1,6 @@
 ---
 title: Katerina Koumourou
-position: 25
+position: 26
 image: 
 job-title: Press Manager
 is-featured: false

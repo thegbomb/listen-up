@@ -1,6 +1,6 @@
 ---
 title: Tom Smart
-position: 26
+position: 28
 image: 
 job-title: Radio Promotions Coordinator
 is-featured: false

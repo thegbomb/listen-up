@@ -1,6 +1,6 @@
 ---
 title: Emily Balkind
-position: 17
+position: 20
 image: 
 job-title: Press Manager, North America
 is-featured: false

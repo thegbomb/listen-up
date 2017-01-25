@@ -1,6 +1,6 @@
 ---
 title: Sarah Carr
-position: 24
+position: 26
 image: 
 job-title: HR & Accounts Assistant
 is-featured: false

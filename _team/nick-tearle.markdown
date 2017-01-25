@@ -3,7 +3,7 @@ title: Nick Tearle
 position: 3
 image: "/uploads/team-004.jpg"
 job-title: Director of Digital
-is-featured: false
+is-featured: true
 email: nick.tearle@listen-up.biz
 ---
 

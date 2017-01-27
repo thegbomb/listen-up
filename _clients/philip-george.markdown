@@ -3,7 +3,7 @@ title: Philip George
 categories:
 - radio
 - digital
-- press
+- artist
 tags:
 - artist
 position: 195

@@ -3,7 +3,7 @@ title: Loco Dice
 categories:
 - radio
 - digital
-- press
+- artist
 tags:
 - artist
 position: 111

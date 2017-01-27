@@ -1,5 +1,5 @@
 ---
-title: Press
+title: Artist
 subtitle: Mollis Risus Malesuada Fermentum
 layout: service
 ---

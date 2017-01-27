@@ -3,7 +3,7 @@ title: Alison Wonderland
 categories:
 - radio
 - digital
-- press
+- artist
 tags:
 - artist
 position: 53

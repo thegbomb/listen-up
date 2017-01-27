@@ -3,7 +3,7 @@ title: Eelke Kleijn
 categories:
 - radio
 - digital
-- press
+- artist
 tags:
 - artist
 position: 1

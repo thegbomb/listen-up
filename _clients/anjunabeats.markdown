@@ -3,7 +3,7 @@ title: Anjunabeats
 categories:
 - radio
 - digital
-- press
+- artist
 tags:
 - label
 position: 33

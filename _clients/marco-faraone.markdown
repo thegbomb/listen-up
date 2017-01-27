@@ -3,7 +3,7 @@ title: Marco Faraone
 categories:
 - radio
 - digital
-- press
+- artist
 tags:
 - artist
 position: 99

@@ -3,7 +3,7 @@ title: Yolanda Be Cool
 categories:
 - radio
 - digital
-- press
+- artist
 tags:
 - artist
 position: 265

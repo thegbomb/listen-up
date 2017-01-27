@@ -3,7 +3,7 @@ title: Tokyo Dance Music Event
 categories:
 - radio
 - digital
-- press
+- artist
 tags:
 - festival
 position: 250

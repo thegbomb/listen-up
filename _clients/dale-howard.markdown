@@ -3,7 +3,7 @@ title: Dale Howard
 categories:
 - radio
 - digital
-- press
+- artist
 tags:
 - artist
 position: 15

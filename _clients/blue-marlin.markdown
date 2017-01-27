@@ -3,7 +3,8 @@ title: Blue Marlin
 categories:
 - radio
 - digital
-- press
+- artist
+- club
 tags:
 - venue
 position: 56

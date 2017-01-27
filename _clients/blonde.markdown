@@ -3,7 +3,7 @@ title: Blonde
 categories:
 - radio
 - digital
-- press
+- artist
 tags:
 - artist
 position: 59

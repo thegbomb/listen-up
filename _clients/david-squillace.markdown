@@ -3,7 +3,7 @@ title: David Squillace
 categories:
 - radio
 - digital
-- press
+- artist
 tags:
 - artist
 position: 16

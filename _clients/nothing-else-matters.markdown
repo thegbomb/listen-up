@@ -3,7 +3,7 @@ title: Nothing Else Matters
 categories:
 - radio
 - digital
-- press
+- artist
 tags:
 - artist
 position: 115

@@ -3,7 +3,7 @@ title: Nicole Moudaber
 categories:
 - radio
 - digital
-- press
+- artist
 tags:
 - artist
 position: 122

@@ -3,7 +3,7 @@ title: Ushuaïa Ibiza Beach Hotel
 categories:
 - radio
 - digital
-- press
+- artist
 tags:
 - venue
 position: 259

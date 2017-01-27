@@ -4,7 +4,7 @@ categories:
 - events
 - radio
 - digital
-- press
+- artist
 tags:
 - venue
 position: 126

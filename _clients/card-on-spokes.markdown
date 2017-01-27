@@ -3,7 +3,7 @@ title: Card on Spokes
 categories:
 - radio
 - digital
-- press
+- artist
 tags:
 - artist
 position: 67

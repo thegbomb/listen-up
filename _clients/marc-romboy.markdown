@@ -3,7 +3,7 @@ title: Marc Romboy
 categories:
 - radio
 - digital
-- press
+- artist
 tags:
 - artist
 position: 107

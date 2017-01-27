@@ -3,7 +3,7 @@ title: Martin Solveig
 categories:
 - radio
 - digital
-- press
+- artist
 tags:
 - artist
 position: 88

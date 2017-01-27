@@ -3,7 +3,7 @@ title: Cavo Paradiso
 categories:
 - radio
 - digital
-- press
+- artist
 tags:
 - venue
 position: 69

@@ -3,7 +3,7 @@ title: Go Freek
 categories:
 - radio
 - digital
-- press
+- artist
 tags:
 - artist
 position: 158

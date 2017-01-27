@@ -3,7 +3,7 @@ title: Andy C
 categories:
 - radio
 - digital
-- press
+- artist
 tags:
 - artist
 position: 32

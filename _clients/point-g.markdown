@@ -3,7 +3,7 @@ title: Point G
 categories:
 - radio
 - digital
-- press
+- artist
 tags:
 - artist
 position: 93

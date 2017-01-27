@@ -252,6 +252,7 @@ div.row.excerpt__title {
 .index__hero__cell__text {
   height: 100%;
   h1 {
+  font-family: 'BasisGrotesque-Bold', Helvetica, Roboto, Arial, sans-serif;
   color: $color--white;
   }
 }
@@ -414,6 +415,13 @@ div.row.excerpt__title {
   }
   p {
     color: $color--dark-gray;
+  }
+}
+
+.team__contact {
+  margin-bottom: 3rem;
+  h3 {
+    color: $color--red;
   }
 }
 

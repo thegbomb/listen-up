@@ -3,7 +3,7 @@ title: Cafe Mambo
 categories:
 - radio
 - digital
-- press
+- artist
 tags:
 - venue
 position: 48

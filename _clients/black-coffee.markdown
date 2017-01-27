@@ -3,7 +3,7 @@ title: Black Coffee
 categories:
 - radio
 - digital
-- press
+- artist
 tags:
 - artist
 position: 52

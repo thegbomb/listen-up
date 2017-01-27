@@ -3,7 +3,7 @@ title: World Club Dome
 categories:
 - radio
 - digital
-- press
+- artist
 tags:
 - venue
 position: 264

@@ -3,7 +3,7 @@ title: Francis Xavier
 categories:
 - radio
 - digital
-- press
+- artist
 tags:
 - artist
 position: 153

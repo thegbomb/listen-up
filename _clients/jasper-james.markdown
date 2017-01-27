@@ -3,7 +3,7 @@ title: Jasper James
 categories:
 - radio
 - digital
-- press
+- artist
 tags:
 - artist
 position: 172

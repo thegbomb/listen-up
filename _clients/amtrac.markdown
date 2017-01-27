@@ -3,7 +3,7 @@ title: Amtrac
 categories:
 - radio
 - digital
-- press
+- artist
 tags:
 - artist
 position: 54

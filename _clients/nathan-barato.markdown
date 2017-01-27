@@ -3,7 +3,7 @@ title: Nathan Barato
 categories:
 - radio
 - digital
-- press
+- artist
 tags:
 - artist
 position: 118

@@ -3,7 +3,7 @@ title: Edu Imbernon
 categories:
 - radio
 - digital
-- press
+- artist
 tags:
 - artist
 position: 2

@@ -3,7 +3,7 @@ title: Jonas Blue
 categories:
 - radio
 - digital
-- press
+- artist
 tags:
 - artist
 position: 87

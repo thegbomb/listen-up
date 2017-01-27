@@ -3,7 +3,7 @@ title: UKF
 categories:
 - radio
 - digital
-- press
+- artist
 tags:
 - festival
 position: 257

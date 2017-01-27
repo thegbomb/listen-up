@@ -3,7 +3,7 @@ title: Knife Party
 categories:
 - radio
 - digital
-- press
+- artist
 tags:
 - artist
 position: 186

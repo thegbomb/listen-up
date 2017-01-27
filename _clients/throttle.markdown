@@ -3,7 +3,7 @@ title: Throttle
 categories:
 - radio
 - digital
-- press
+- artist
 tags:
 - festival
 position: 245

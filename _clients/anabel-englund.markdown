@@ -3,7 +3,7 @@ title: Anabel Englund
 categories:
 - radio
 - digital
-- press
+- artist
 tags:
 - artist
 position: 30

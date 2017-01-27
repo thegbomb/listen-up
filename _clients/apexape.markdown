@@ -3,7 +3,7 @@ title: Apexape
 categories:
 - radio
 - digital
-- press
+- artist
 tags:
 - artist
 position: 34

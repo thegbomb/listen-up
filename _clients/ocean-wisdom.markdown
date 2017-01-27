@@ -3,7 +3,7 @@ title: Ocean Wisdom
 categories:
 - radio
 - digital
-- press
+- artist
 tags:
 - artist
 position: 142

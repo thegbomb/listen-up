@@ -3,7 +3,7 @@ title: Low Steppa
 categories:
 - radio
 - digital
-- press
+- artist
 tags:
 - artist
 position: 103

@@ -3,7 +3,7 @@ title: OWSLA
 categories:
 - radio
 - digital
-- press
+- artist
 tags:
 - label
 position: 116

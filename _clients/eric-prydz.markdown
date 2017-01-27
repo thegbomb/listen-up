@@ -3,7 +3,7 @@ title: Eric Prydz
 categories:
 - radio
 - digital
-- press
+- artist
 tags:
 - artist
 position: 22

@@ -3,7 +3,7 @@ title: Deadmau5
 categories:
 - radio
 - digital
-- press
+- artist
 tags:
 - artist
 position: 8

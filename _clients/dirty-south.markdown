@@ -3,7 +3,7 @@ title: Dirty South
 categories:
 - radio
 - digital
-- press
+- artist
 tags:
 - artist
 position: 10

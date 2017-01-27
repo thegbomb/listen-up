@@ -3,7 +3,7 @@ title: Fabich
 categories:
 - radio
 - digital
-- press
+- artist
 tags:
 - artist
 position: 26

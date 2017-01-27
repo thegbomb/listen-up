@@ -1839,6 +1839,18 @@
 		"oAP": "\/_layouts\/team.html",
 		"oF": 0
 		},
+	"\/_services\/artist.markdown": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_services\/artist.markdown",
+		"oF": 0
+		},
+	"\/_services\/club.markdown": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_services\/club.markdown",
+		"oF": 0
+		},
 	"\/_services\/digital.markdown": {
 		"ft": 8192,
 		"oA": 2,
@@ -1849,12 +1861,6 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_services\/events.markdown",
-		"oF": 0
-		},
-	"\/_services\/press.markdown": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_services\/press.markdown",
 		"oF": 0
 		},
 	"\/_services\/radio.markdown": {
@@ -2289,6 +2295,40 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/assets\/css\/app_old.css.map",
+		"oF": 0
+		},
+	"\/assets\/fonts\/BasisGrotesque-Bold.eot": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/fonts\/BasisGrotesque-Bold.eot",
+		"oF": 0
+		},
+	"\/assets\/fonts\/BasisGrotesque-Bold.otf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/fonts\/BasisGrotesque-Bold.otf",
+		"oF": 0
+		},
+	"\/assets\/fonts\/BasisGrotesque-Bold.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/assets\/fonts\/BasisGrotesque-Bold.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/assets\/fonts\/BasisGrotesque-Bold.ttf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/fonts\/BasisGrotesque-Bold.ttf",
+		"oF": 0
+		},
+	"\/assets\/fonts\/BasisGrotesque-Bold.woff": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/fonts\/BasisGrotesque-Bold.woff",
 		"oF": 0
 		},
 	"\/assets\/fonts\/BasisGrotesque.eot": {

@@ -3,7 +3,7 @@ title: Otto Knows
 categories:
 - radio
 - digital
-- press
+- artist
 tags:
 - artist
 position: 136

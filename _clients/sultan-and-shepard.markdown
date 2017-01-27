@@ -4,7 +4,7 @@ categories:
 - events
 - radio
 - digital
-- press
+- artist
 tags:
 - artist
 position: 231

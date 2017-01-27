@@ -3,7 +3,7 @@ title: Tommy Trash
 categories:
 - radio
 - digital
-- press
+- artist
 tags:
 - artist
 position: 252

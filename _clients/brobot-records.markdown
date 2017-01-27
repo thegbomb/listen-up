@@ -3,7 +3,7 @@ title: Brobot Records
 categories:
 - radio
 - digital
-- press
+- artist
 tags:
 - label
 position: 64

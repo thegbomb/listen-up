@@ -3,7 +3,7 @@ title: mau5trap
 categories:
 - radio
 - digital
-- press
+- artist
 tags:
 - artist
 position: 101

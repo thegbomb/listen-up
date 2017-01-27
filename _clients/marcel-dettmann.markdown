@@ -3,7 +3,7 @@ title: Marcel Dettmann
 categories:
 - radio
 - digital
-- press
+- artist
 tags:
 - artist
 position: 108

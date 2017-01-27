@@ -3,7 +3,7 @@ title: Kokiri
 categories:
 - radio
 - digital
-- press
+- artist
 tags:
 - artist
 position: 187

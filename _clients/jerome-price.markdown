@@ -3,7 +3,7 @@ title: Jerome Price
 categories:
 - radio
 - digital
-- press
+- artist
 tags:
 - artist
 position: 174

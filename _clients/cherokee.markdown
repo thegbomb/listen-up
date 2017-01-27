@@ -3,7 +3,7 @@ title: Cherokee
 categories:
 - radio
 - digital
-- press
+- artist
 tags:
 - artist
 position: 73

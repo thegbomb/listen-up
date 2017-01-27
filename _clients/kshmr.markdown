@@ -3,7 +3,7 @@ title: KSHMR
 categories:
 - radio
 - digital
-- press
+- artist
 tags:
 - artist
 position: 117

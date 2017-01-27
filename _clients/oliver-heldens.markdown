@@ -3,7 +3,7 @@ title: Oliver Heldens
 categories:
 - radio
 - digital
-- press
+- artist
 tags:
 - artist
 position: 17

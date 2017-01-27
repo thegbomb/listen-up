@@ -3,7 +3,7 @@ title: Astronomar
 categories:
 - radio
 - digital
-- press
+- artist
 tags:
 - artist
 position: 35

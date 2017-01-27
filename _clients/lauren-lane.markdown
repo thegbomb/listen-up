@@ -3,7 +3,7 @@ title: Lauren Lane
 categories:
 - radio
 - digital
-- press
+- artist
 tags:
 - artist
 position: 140

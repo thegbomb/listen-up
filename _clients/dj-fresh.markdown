@@ -3,7 +3,7 @@ title: DJ Fresh
 categories:
 - radio
 - digital
-- press
+- artist
 tags:
 - label
 position: 82

@@ -3,7 +3,7 @@ title: Musical Freedom
 categories:
 - radio
 - digital
-- press
+- artist
 tags:
 - label
 position: 131

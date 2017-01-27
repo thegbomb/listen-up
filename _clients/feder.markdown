@@ -3,7 +3,7 @@ title: Feder
 categories:
 - radio
 - digital
-- press
+- artist
 tags:
 - artist
 position: 149

@@ -3,7 +3,7 @@ title: We Are FSTVL
 categories:
 - radio
 - digital
-- press
+- artist
 tags:
 - festival
 position: 50

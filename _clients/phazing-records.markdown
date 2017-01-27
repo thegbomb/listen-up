@@ -3,7 +3,7 @@ title: Phazing Records
 categories:
 - radio
 - digital
-- press
+- artist
 tags:
 - label
 position: 194

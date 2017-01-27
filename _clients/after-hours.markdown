@@ -3,7 +3,7 @@ title: AFTR HRS
 categories:
 - radio
 - digital
-- press
+- artist
 tags:
 - label
 position: 28

@@ -3,7 +3,7 @@ title: Island Records
 categories:
 - radio
 - digital
-- press
+- artist
 tags:
 - label
 position: 170

@@ -3,7 +3,7 @@ title: Culoe De Song
 categories:
 - radio
 - digital
-- press
+- artist
 tags:
 - artist
 position: 14

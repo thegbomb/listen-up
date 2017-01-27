@@ -3,7 +3,7 @@ title: Mike Perry
 categories:
 - radio
 - digital
-- press
+- artist
 tags:
 - artist
 position: 84

@@ -3,7 +3,7 @@ title: Jesse Calosso
 categories:
 - radio
 - digital
-- press
+- artist
 tags:
 - artist
 position: 175

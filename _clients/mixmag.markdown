@@ -3,7 +3,7 @@ title: Mixmag
 categories:
 - radio
 - digital
-- press
+- artist
 tags:
 - publication
 position: 189

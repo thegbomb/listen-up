@@ -3,7 +3,7 @@ title: Axwell Λ Ingrosso
 categories:
 - radio
 - digital
-- press
+- artist
 tags:
 - artist
 position: 39

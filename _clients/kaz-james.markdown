@@ -3,7 +3,7 @@ title: Kaz James
 categories:
 - radio
 - digital
-- press
+- artist
 tags:
 - artist
 position: 181

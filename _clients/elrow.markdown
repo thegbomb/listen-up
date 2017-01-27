@@ -3,7 +3,7 @@ title: Elrow
 categories:
 - radio
 - digital
-- press
+- artist
 tags:
 - festival
 position: 21

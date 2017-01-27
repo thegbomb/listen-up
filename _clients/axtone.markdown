@@ -3,7 +3,7 @@ title: Axtone
 categories:
 - radio
 - digital
-- press
+- artist
 tags:
 - label
 position: 38

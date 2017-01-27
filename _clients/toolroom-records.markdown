@@ -3,7 +3,7 @@ title: Toolroom Records
 categories:
 - radio
 - digital
-- press
+- artist
 tags:
 - artist
 position: 254

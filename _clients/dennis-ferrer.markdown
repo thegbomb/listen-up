@@ -3,7 +3,7 @@ title: Dennis Ferrer
 categories:
 - radio
 - digital
-- press
+- artist
 tags:
 - artist
 position: 5

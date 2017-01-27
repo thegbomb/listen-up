@@ -3,7 +3,7 @@ title: Big Beat
 categories:
 - radio
 - digital
-- press
+- artist
 tags:
 - label
 position: 55

@@ -3,7 +3,7 @@ title: Elderbrook
 categories:
 - radio
 - digital
-- press
+- artist
 tags:
 - artist
 position: 146

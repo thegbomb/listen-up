@@ -3,7 +3,7 @@ title: David Guetta
 categories:
 - radio
 - digital
-- press
+- artist
 tags:
 - artist
 position: 12

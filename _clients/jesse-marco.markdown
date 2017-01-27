@@ -3,7 +3,7 @@ title: Jesse Marco
 categories:
 - radio
 - digital
-- press
+- artist
 tags:
 - artist
 position: 176

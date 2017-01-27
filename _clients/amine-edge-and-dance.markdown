@@ -3,7 +3,7 @@ title: Amine Edge & DANCE
 categories:
 - radio
 - digital
-- press
+- artist
 tags:
 - artist
 position: 27

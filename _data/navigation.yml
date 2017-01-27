@@ -7,8 +7,10 @@
       url: /services/radio/
     - title: Digital
       url: /services/digital/
-    - title: Press
-      url: /services/press/
+    - title: Artist
+      url: /services/artist/
+    - title: Club
+      url: /services/club/
       
 - title: Clients
   url: /clients/

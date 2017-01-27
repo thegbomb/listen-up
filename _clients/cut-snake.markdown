@@ -3,7 +3,7 @@ title: Cut Snake
 categories:
 - radio
 - digital
-- press
+- artist
 tags:
 - artist
 position: 51

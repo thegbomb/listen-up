@@ -3,7 +3,7 @@ title: Bobby Green
 categories:
 - radio
 - digital
-- press
+- artist
 tags:
 - artist
 position: 61

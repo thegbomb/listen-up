@@ -3,7 +3,7 @@ title: Bob Moses
 categories:
 - radio
 - digital
-- press
+- artist
 tags:
 - artist
 position: 60

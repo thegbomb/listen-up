@@ -3,7 +3,7 @@ title: Nocturnal Sunshine
 categories:
 - radio
 - digital
-- press
+- artist
 tags:
 - artist
 position: 124

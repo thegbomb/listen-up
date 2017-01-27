@@ -3,7 +3,7 @@ title: Jolan
 categories:
 - radio
 - digital
-- press
+- artist
 tags:
 - artist
 position: 177

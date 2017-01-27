@@ -3,7 +3,7 @@ title: My Digital Enemy
 categories:
 - radio
 - digital
-- press
+- artist
 tags:
 - label
 position: 132

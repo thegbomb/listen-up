@@ -3,7 +3,7 @@ title: Martin Buttrich
 categories:
 - radio
 - digital
-- press
+- artist
 tags:
 - artist
 position: 100

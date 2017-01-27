@@ -3,7 +3,8 @@ title: Alesso
 categories:
 - radio
 - digital
-- press
+- artist
+- club
 tags:
 - artist
 position: 47

@@ -3,7 +3,7 @@ title: Hervé
 categories:
 - radio
 - digital
-- press
+- artist
 tags:
 - artist
 position: 162

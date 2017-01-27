@@ -3,7 +3,7 @@ title: MAKJ
 categories:
 - radio
 - digital
-- press
+- artist
 tags:
 - artist
 position: 105

@@ -3,7 +3,7 @@ title: Tom Shorterz
 categories:
 - radio
 - digital
-- press
+- artist
 tags:
 - artist
 position: 251

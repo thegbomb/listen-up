@@ -3,7 +3,7 @@ title: Cedric Gervais
 categories:
 - radio
 - digital
-- press
+- artist
 tags:
 - artist
 position: 70

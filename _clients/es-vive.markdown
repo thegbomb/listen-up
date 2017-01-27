@@ -3,7 +3,7 @@ title: Es Vive
 categories:
 - radio
 - digital
-- press
+- artist
 tags:
 - artist
 position: 24

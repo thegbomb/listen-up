@@ -3,7 +3,7 @@ title: Barli
 categories:
 - radio
 - digital
-- press
+- artist
 tags:
 - label
 position: 40

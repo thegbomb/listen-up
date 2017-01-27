@@ -3,7 +3,7 @@ title: Neon Records
 categories:
 - radio
 - digital
-- press
+- artist
 tags:
 - label
 position: 119

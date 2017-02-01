@@ -2,14 +2,10 @@
 title: Black Sun Empire
 categories:
 - radio
-- digital
 - artist
 tags:
 - artist
 position: 58
-image: 
-is-featured: 
-is-front: 
 website: http://www.blacksunempire.com
 facebook: https://www.facebook.com/blacksunempire/
 twitter: https://twitter.com/_blacksunempire

@@ -2,12 +2,8 @@
 title: Fabric
 categories:
 - events
-tags:
-- festival
 position: 273
 image: "/uploads/venue.jpg"
-is-featured: 
-is-front: 
 layout: client
 ---
 

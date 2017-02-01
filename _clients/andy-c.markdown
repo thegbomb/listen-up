@@ -2,14 +2,10 @@
 title: Andy C
 categories:
 - radio
-- digital
 - artist
 tags:
 - artist
 position: 33
-image: 
-is-featured: 
-is-front: 
 website: https://andyc.cc
 facebook: https://www.facebook.com/andyc/
 twitter: https://twitter.com/ANDYC_ram

@@ -2,14 +2,10 @@
 title: Anjunabeats
 categories:
 - radio
-- digital
 - artist
 tags:
 - label
 position: 34
-image: 
-is-featured: 
-is-front: 
 website: https://www.anjunabeats.com/
 facebook: https://www.facebook.com/anjunabeats
 twitter: https://twitter.com/anjunabeats

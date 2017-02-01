@@ -2,19 +2,14 @@
 title: Apexape
 categories:
 - radio
-- digital
 - artist
 tags:
 - artist
 position: 35
-image: 
-is-featured: 
-is-front: 
 website: http://apexape.com
 facebook: https://www.facebook.com/apexaperecords
 twitter: https://www.twitter.com/apexapeLDN
 instagram: https://instagram.com/apexapemusic/
-spotify: 
 soundcloud: https://www.soundcloud.com/apexape
 youtube: https://www.youtube.com/channel/UCbaJabAvibZtL18jHq6BpEw
 apple: https://itunes.apple.com/gb/artist/apexape/id812629565

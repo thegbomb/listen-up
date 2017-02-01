@@ -2,15 +2,10 @@
 title: Amine Edge & DANCE
 categories:
 - radio
-- digital
 - artist
 tags:
 - artist
 position: 28
-image: 
-is-featured: 
-is-front: 
-website: 
 facebook: https://www.facebook.com/amineedgeanddance
 twitter: https://twitter.com/amineedge
 instagram: https://www.instagram.com/amineedge

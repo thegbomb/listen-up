@@ -2,14 +2,10 @@
 title: Ducksauce
 categories:
 - radio
-- digital
 - artist
 tags:
 - artist
 position: 83
-image: 
-is-featured: 
-is-front: 
 website: http://quackisback.com
 facebook: https://www.facebook.com/ducksaucenyc
 twitter: https://twitter.com/ducksaucenyc

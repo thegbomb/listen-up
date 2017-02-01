@@ -1,8 +1,7 @@
 ---
 title: Savannah Ibiza
 categories:
-- radio
-- artist
+- events
 tags:
 - venue
 position: 206

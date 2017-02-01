@@ -2,14 +2,10 @@
 title: Eats Everything
 categories:
 - radio
-- digital
 - artist
 tags:
 - artist
 position: 145
-image: 
-is-featured: 
-is-front: 
 website: https://eatseverything.com
 facebook: https://www.facebook.com/MrEatsEverything
 twitter: https://twitter.com/eats_everything

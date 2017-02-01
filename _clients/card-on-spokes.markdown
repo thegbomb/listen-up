@@ -2,15 +2,10 @@
 title: Card on Spokes
 categories:
 - radio
-- digital
 - artist
 tags:
 - artist
 position: 67
-image: 
-is-featured: 
-is-front: 
-website: 
 facebook: https://www.facebook.com/cardonspokes
 twitter: https://twitter.com/cardonspokes
 instagram: http://instagram.com/cardonspokes

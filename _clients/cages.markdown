@@ -2,15 +2,10 @@
 title: Cages
 categories:
 - radio
-- digital
 - artist
 tags:
 - artist
 position: 65
-image: 
-is-featured: 
-is-front: 
-website: 
 facebook: https://www.facebook.com/iamcages/
 twitter: https://twitter.com/iamcages
 instagram: https://www.instagram.com/iamcages/

@@ -2,14 +2,10 @@
 title: Branchez
 categories:
 - radio
-- digital
 - artist
 tags:
 - artist
 position: 63
-image: 
-is-featured: 
-is-front: 
 website: http://www.branchez.com
 facebook: https://www.facebook.com/BranchezMusic/
 twitter: https://twitter.com/branchez

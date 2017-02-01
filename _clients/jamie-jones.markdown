@@ -8,7 +8,7 @@ tags:
 - artist
 position: 0
 image: "/uploads/jamie-jones.jpg"
-is-featured: 
+is-featured: true
 is-front: true
 website: http://hotcreations.com
 facebook: https://www.facebook.com/jamiejonesmusic/

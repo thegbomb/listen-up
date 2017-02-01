@@ -2,20 +2,15 @@
 title: Alan Walker
 categories:
 - radio
-- digital
 - artist
 tags:
 - artist
 position: 46
-image: 
-is-featured: 
-is-front: 
 website: http://alanwalker.no
 facebook: https://www.facebook.com/alanwalkermusic/
 twitter: https://twitter.com/IAmAlanWalker
 instagram: http://www.instagram.com/alanwalkermusic
 spotify: https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN
-soundcloud: 
 youtube: https://www.youtube.com/user/DjWalkzz
 apple: https://itunes.apple.com/gb/artist/alan-walker/id1062085272
 layout: client

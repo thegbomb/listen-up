@@ -2,14 +2,10 @@
 title: Billy Kenny
 categories:
 - radio
-- digital
 - artist
 tags:
 - artist
 position: 45
-image: 
-is-featured: 
-is-front: 
 website: http://www.billykennymusic.com
 facebook: http://www.facebook.com/billykennymusic
 twitter: http://www.twitter.com/billykennymusic

@@ -2,21 +2,15 @@
 title: Dennis Ferrer
 categories:
 - radio
-- digital
 - artist
 tags:
 - artist
 position: 7
-image: 
-is-featured: 
-is-front: 
-website: 
 facebook: https://www.facebook.com/dennisferrerobj
 twitter: http://twitter.com/dennisferrer
 instagram: https://www.instagram.com/dennisferrerofficial/
 spotify: https://open.spotify.com/artist/0MGTHZpAGf7isSfw8yMIoi
 soundcloud: https://soundcloud.com/dennis-ferrer
-youtube: 
 apple: https://itunes.apple.com/gb/artist/dennis-ferrer/id5355855
 layout: client
 ---

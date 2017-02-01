@@ -2,14 +2,10 @@
 title: Destructo
 categories:
 - radio
-- digital
 - artist
 tags:
 - artist
 position: 8
-image: 
-is-featured: 
-is-front: 
 website: http://www.djdestructo.com
 facebook: https://www.facebook.com/destructohard
 twitter: https://twitter.com/DestructoHARD

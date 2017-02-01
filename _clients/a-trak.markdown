@@ -7,9 +7,8 @@ categories:
 tags:
 - artist
 position: 0
-image: 
-is-featured: 
-is-front: 
+image: "/uploads/atrak-1ff26f.jpg"
+is-front: true
 website: http://atrak.com
 facebook: https://www.facebook.com/atrak
 twitter: https://twitter.com/atrak

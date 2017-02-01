@@ -2,14 +2,10 @@
 title: Adriatique
 categories:
 - radio
-- digital
 - artist
 tags:
 - artist
 position: 49
-image: 
-is-featured: 
-is-front: 
 website: http://www.adriatique.ch
 facebook: http://www.facebook.com/adriatiqueofficial
 twitter: http://www.twitter.com/adriatiquemusic

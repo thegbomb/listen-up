@@ -2,7 +2,6 @@
 title: Steve Lawler
 categories:
 - radio
-- digital
 - artist
 tags:
 - artist

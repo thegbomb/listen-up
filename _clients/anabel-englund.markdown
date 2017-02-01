@@ -2,21 +2,15 @@
 title: Anabel Englund
 categories:
 - radio
-- digital
 - artist
 tags:
 - artist
 position: 31
-image: 
-is-featured: 
-is-front: 
-website: 
 facebook: https://www.facebook.com/anabelenglundofficial/
 twitter: https://twitter.com/anabelenglundz
 instagram: https://www.instagram.com/anabelenglund
 spotify: https://open.spotify.com/artist/3ky8xBRraNNzxzXEw6Ga0c
 soundcloud: https://soundcloud.com/anabelenglund
-youtube: 
 apple: https://itunes.apple.com/us/artist/anabel-englund/id463022867
 layout: client
 ---

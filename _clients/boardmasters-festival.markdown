@@ -5,7 +5,7 @@ categories:
 - digital
 tags:
 - festival
-image: "/uploads/boardmasters-dbf760.jpg"
+image: "/uploads/boardmasters2.jpg"
 is-featured: true
 website: http://www.boardmasters.co.uk/
 ---

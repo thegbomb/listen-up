@@ -1,16 +1,10 @@
 ---
 title: Circoloco
 categories:
-- radio
-- digital
-- artist
-- club
+- events
 tags:
 - venue
 position: 77
-image: 
-is-featured: 
-is-front: 
 website: http://www.circolocoibiza.com
 facebook: https://www.facebook.com/circolocoibiza/
 twitter: https://twitter.com/circolocoibiza

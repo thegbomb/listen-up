@@ -2,15 +2,10 @@
 title: Barli
 categories:
 - radio
-- digital
 - artist
 tags:
 - label
 position: 41
-image: 
-is-featured: 
-is-front: 
-website: 
 facebook: https://www.facebook.com/iamBarli/
 twitter: https://twitter.com/iambarli
 instagram: https://www.instagram.com/iambarli/

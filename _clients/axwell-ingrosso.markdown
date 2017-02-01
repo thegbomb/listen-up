@@ -2,14 +2,10 @@
 title: Axwell Λ Ingrosso
 categories:
 - radio
-- digital
 - artist
 tags:
 - artist
 position: 40
-image: 
-is-featured: 
-is-front: 
 website: https://axwellingrosso.com
 facebook: https://www.facebook.com/axwellingrosso/
 twitter: http://twitter.com/axtone

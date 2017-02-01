@@ -2,15 +2,10 @@
 title: Bearcubs
 categories:
 - radio
-- digital
 - artist
 tags:
 - artist
 position: 42
-image: 
-is-featured: 
-is-front: 
-website: 
 facebook: https://www.facebook.com/bearcubsmusic/
 twitter: https://twitter.com/bearcubsmusic
 instagram: https://www.instagram.com/bearcubsmusic/

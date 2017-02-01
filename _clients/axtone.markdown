@@ -2,14 +2,10 @@
 title: Axtone
 categories:
 - radio
-- digital
 - artist
 tags:
 - label
 position: 39
-image: 
-is-featured: 
-is-front: 
 website: http://axtone.com
 facebook: https://www.facebook.com/axtone
 twitter: http://twitter.com/axtone

@@ -3,6 +3,7 @@ title: Jamie Jones
 categories:
 - radio
 - artist
+- digital
 tags:
 - artist
 position: 0

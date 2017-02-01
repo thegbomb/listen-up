@@ -2,14 +2,10 @@
 title: Booka Shade
 categories:
 - radio
-- digital
 - artist
 tags:
 - artist
 position: 62
-image: 
-is-featured: 
-is-front: 
 website: https://www.bookashade.com
 facebook: https://facebook.com/bookashade
 twitter: https://twitter.com/bookashade

@@ -2,14 +2,10 @@
 title: Dimension
 categories:
 - radio
-- digital
 - artist
 tags:
 - artist
 position: 10
-image: 
-is-featured: 
-is-front: 
 website: http://thisisdimension.com
 facebook: https://www.facebook.com/Dimension/
 twitter: https://twitter.com/dimension_uk

@@ -2,7 +2,6 @@
 title: A-Trak
 categories:
 - radio
-- digital
 - artist
 tags:
 - artist

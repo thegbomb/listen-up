@@ -1,7 +1,8 @@
 ---
 title: Digital
-subtitle: Pellentesque Ornare Fusce
+subtitle: Our digital marketing team provides services from top level strategic campaign
+  planning down to social channel management, digital production, creative support,
+  and everything in between.
 layout: service
 ---
 
-Donec id elit non mi porta gravida at eget metus. Nulla vitae elit libero, a pharetra augue. Aenean lacinia bibendum nulla sed consectetur. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Nullam quis risus eget urna mollis.

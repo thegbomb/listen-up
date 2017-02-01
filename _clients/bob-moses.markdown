@@ -2,14 +2,10 @@
 title: Bob Moses
 categories:
 - radio
-- digital
 - artist
 tags:
 - artist
 position: 60
-image: 
-is-featured: 
-is-front: 
 website: http://bobmosesmusic.com
 facebook: https://www.facebook.com/bobmosesmusic
 twitter: https://twitter.com/bobmosesmusic

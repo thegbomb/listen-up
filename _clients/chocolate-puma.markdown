@@ -2,14 +2,10 @@
 title: Chocolate Puma
 categories:
 - radio
-- digital
 - artist
 tags:
 - artist
 position: 74
-image: 
-is-featured: 
-is-front: 
 website: http://www.chocolatepuma.com
 facebook: https://www.facebook.com/ChocolatePumaOfficial
 twitter: http://www.twitter.com/chocolatepuma

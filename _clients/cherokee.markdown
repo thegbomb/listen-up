@@ -2,14 +2,10 @@
 title: Cherokee
 categories:
 - radio
-- digital
 - artist
 tags:
 - artist
 position: 73
-image: 
-is-featured: 
-is-front: 
 website: http://www.cherokee-musique.com/
 facebook: https://www.facebook.com/cherokee.music
 twitter: https://twitter.com/cherokee_music

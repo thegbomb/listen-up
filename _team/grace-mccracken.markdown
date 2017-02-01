@@ -1,6 +1,6 @@
 ---
 title: Grace McCracken
-position: 5
+position: 7
 image: "/uploads/team-004.jpg"
 job-title: Joint Head of Press
 is-featured: false

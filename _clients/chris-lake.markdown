@@ -2,14 +2,10 @@
 title: Chris Lake
 categories:
 - radio
-- digital
 - artist
 tags:
 - artist
 position: 75
-image: 
-is-featured: 
-is-front: 
 website: http://www.chris-lake.com
 facebook: https://www.facebook.com/chrislake
 twitter: https://twitter.com/chrislake

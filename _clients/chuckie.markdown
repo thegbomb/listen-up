@@ -2,14 +2,10 @@
 title: Chuckie
 categories:
 - radio
-- digital
 - artist
 tags:
 - artist
 position: 76
-image: 
-is-featured: 
-is-front: 
 website: http://djchuckie.com
 facebook: https://facebook.com/djchuckie
 twitter: https://twitter.com/djchuckie

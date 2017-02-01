@@ -5,6 +5,7 @@ categories:
 - digital
 tags:
 - festival
+image: "/uploads/nass.jpg"
 is-featured: true
 website: http://www.nassfestival.com/
 ---

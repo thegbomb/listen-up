@@ -5,6 +5,7 @@ categories:
 - digital
 tags:
 - festival
+image: "/uploads/noisily.jpg"
 is-featured: true
 website: http://noisilyfestival.com
 ---

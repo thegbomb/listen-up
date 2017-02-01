@@ -4,6 +4,7 @@ categories:
 - radio
 - digital
 - artist
+- club
 tags:
 - artist
 position: 88

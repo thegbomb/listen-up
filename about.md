@@ -1,5 +1,6 @@
 ---
 title: About
+position: 1
 clients-text: |-
   Advertising: Tom Ford, Revlon, Wella, Roger & Gallet, D&G, Burberry, Gucci, Pantene, Nike, Aquascutum, Hugo Boss, Swarovski, H&M, St Tropez, Puma, La Prairie, Joop, Agent Provocateur, Paul Smith, YSL, Boots, Volkswagen, Kit Kat, Yellow Pages
 
@@ -11,6 +12,3 @@ clients-text: |-
 layout: about
 ---
 
-Dragonfly Scenery is a London-based set design, prop and art direction studio. Working alongside the industry's leading photographers, directors and creatives to create exquisite sets for stills, commercials and events.
-
-Known in the industry for it’s luxurious and graphic fashion builds, that stem’s from hands-on craftsmanship. Equally adept at large technical builds as well as smaller simple ones, special effects and propping for still life, attention to detail sets the company apart from contemporaries.

@@ -6,7 +6,7 @@ categories:
 - artist
 tags:
 - festival
-position: 21
+position: 22
 image: 
 is-featured: 
 is-front: 

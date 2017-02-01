@@ -7,7 +7,7 @@ categories:
 - artist
 tags:
 - label
-position: 18
+position: 19
 image: 
 is-featured: 
 is-front: 

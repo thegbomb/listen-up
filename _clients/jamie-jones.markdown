@@ -6,7 +6,7 @@ categories:
 - artist
 tags:
 - artist
-position: 45
+position: 1
 image: "/uploads/jamie-jones.jpg"
 is-featured: 
 is-front: true

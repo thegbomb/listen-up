@@ -6,7 +6,7 @@ categories:
 - artist
 tags:
 - artist
-position: 35
+position: 36
 image: 
 is-featured: 
 is-front: 

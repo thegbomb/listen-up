@@ -1,24 +1,11 @@
 ---
 title: Sultan + Shepard
 categories:
-- events
-- radio
-- digital
 - artist
 tags:
 - artist
 position: 231
-image: 
-is-featured: 
-is-front: 
-website: 
 facebook: https://www.facebook.com/sultanshepard
-twitter: 
-instagram: 
-spotify: 
-soundcloud: 
-youtube: 
-apple: 
 layout: client
 ---
 

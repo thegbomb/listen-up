@@ -1,24 +1,12 @@
 ---
 title: Strictly Rhythm
 categories:
-- events
 - radio
-- digital
 - artist
 tags:
 - label
 position: 228
-image: 
-is-featured: 
-is-front: 
-website: 
 facebook: https://www.facebook.com/strictlyrhythm
-twitter: 
-instagram: 
-spotify: 
-soundcloud: 
-youtube: 
-apple: 
 layout: client
 ---
 

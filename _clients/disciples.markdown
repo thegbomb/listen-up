@@ -2,14 +2,10 @@
 title: Disciples
 categories:
 - radio
-- digital
 - artist
 tags:
 - artist
 position: 12
-image: 
-is-featured: 
-is-front: 
 website: http://disciplesldn.com
 facebook: https://www.facebook.com/DisciplesLDN
 twitter: https://twitter.com/Disciples

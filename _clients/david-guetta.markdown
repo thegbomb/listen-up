@@ -2,14 +2,10 @@
 title: David Guetta
 categories:
 - radio
-- digital
 - artist
 tags:
 - artist
 position: 13
-image: 
-is-featured: 
-is-front: 
 website: https://www.davidguetta.com/en/gb
 facebook: https://www.facebook.com/DavidGuetta
 twitter: https://twitter.com/davidguetta

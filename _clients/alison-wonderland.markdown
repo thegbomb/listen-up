@@ -2,14 +2,10 @@
 title: Alison Wonderland
 categories:
 - radio
-- digital
 - artist
 tags:
 - artist
 position: 53
-image: 
-is-featured: 
-is-front: 
 website: http://www.alisonwonderland.com.au
 facebook: https://www.facebook.com/awonderdj
 twitter: https://twitter.com/awonderdj

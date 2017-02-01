@@ -2,14 +2,10 @@
 title: Amtrac
 categories:
 - radio
-- digital
 - artist
 tags:
 - artist
 position: 54
-image: 
-is-featured: 
-is-front: 
 website: http://www.amtracmusic.com
 facebook: http://www.facebook.com/amtrac
 twitter: https://twitter.com/AMTRAC

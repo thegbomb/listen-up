@@ -2,22 +2,13 @@
 title: Abode
 categories:
 - radio
-- digital
 - artist
 tags:
 - label
 position: 269
-image: 
-is-featured: 
-is-front: 
 website: http://www.aboderecords.com
 facebook: https://www.facebook.com/ABODErecords/
 twitter: https://twitter.com/aboderecords
-instagram: 
-spotify: 
-soundcloud: 
-youtube: 
-apple: 
 layout: client
 ---
 

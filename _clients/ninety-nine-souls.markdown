@@ -2,14 +2,10 @@
 title: 99 Souls
 categories:
 - radio
-- digital
 - artist
 tags:
 - artist
 position: 270
-image: 
-is-featured: 
-is-front: 
 facebook: 99SoulsOfficial
 twitter: 99SoulsOfficial
 instagram: 99soulsofficial

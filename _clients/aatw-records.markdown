@@ -2,22 +2,15 @@
 title: AATW Records
 categories:
 - radio
-- digital
 - artist
 tags:
 - label
 position: 268
-image: 
-is-featured: 
-is-front: 
 website: https://www.aatw.com
 facebook: http://www.facebook.com/aatwofficial
 twitter: http://twitter.com/aatwofficial
-instagram: 
-spotify: 
 soundcloud: http://www.soundcloud.com/aatwofficial
 youtube: https://www.youtube.com/user/SteveAATW
-apple: 
 layout: client
 ---
 

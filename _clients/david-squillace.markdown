@@ -2,15 +2,10 @@
 title: David Squillace
 categories:
 - radio
-- digital
 - artist
 tags:
 - artist
 position: 17
-image: 
-is-featured: 
-is-front: 
-website: 
 facebook: https://www.facebook.com/davidesquillace
 twitter: https://twitter.com/DavideSquillace
 instagram: https://www.instagram.com/davidesquillace/

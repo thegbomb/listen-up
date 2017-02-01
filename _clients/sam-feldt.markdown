@@ -2,7 +2,6 @@
 title: Sam Feldt
 categories:
 - radio
-- digital
 - artist
 tags:
 - artist

@@ -2,13 +2,11 @@
 title: Jonas Blue
 categories:
 - radio
-- digital
 - artist
 tags:
 - artist
 position: 87
 image: "/uploads/jonas-blue.jpg"
-is-featured: 
 is-front: true
 website: http://www.jonasbluemusic.com
 facebook: http://facebook.com/jonasbluemusic

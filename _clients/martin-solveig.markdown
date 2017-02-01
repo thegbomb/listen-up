@@ -2,9 +2,7 @@
 title: Martin Solveig
 categories:
 - radio
-- digital
 - artist
-- club
 tags:
 - artist
 position: 88

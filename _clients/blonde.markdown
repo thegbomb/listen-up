@@ -2,14 +2,10 @@
 title: Blonde
 categories:
 - radio
-- digital
 - artist
 tags:
 - artist
 position: 59
-image: 
-is-featured: 
-is-front: 
 website: http://blondesound.com
 facebook: http://facebook.com/blondesound
 twitter: http://twitter.com/blondesound

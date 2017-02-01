@@ -2,22 +2,16 @@
 title: Diynamic
 categories:
 - radio
-- digital
 - artist
 tags:
 - label
 position: 81
-image: 
-is-featured: 
-is-front: 
 website: http://www.diynamic.com
 facebook: https://www.facebook.com/DiynamicMusic/
 twitter: https://twitter.com/diynamic_music
 instagram: https://www.instagram.com/diynamicmusic/
-spotify: 
 soundcloud: https://soundcloud.com/diynamic-music
 youtube: https://www.youtube.com/user/diynamicmusic
-apple: 
 layout: client
 ---
 

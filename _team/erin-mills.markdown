@@ -1,9 +1,8 @@
 ---
 title: Erin Mills
 position: 6
-image: 
 job-title: Joint Head of Press
-is-featured: false
+is-featured: true
 email: erin.mills@listen-up.biz
 ---
 

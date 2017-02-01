@@ -2,21 +2,15 @@
 title: Chaim
 categories:
 - radio
-- digital
 - artist
 tags:
 - artist
 position: 71
-image: 
-is-featured: 
-is-front: 
-website: 
 facebook: https://www.facebook.com/Chaim-107243096306/
 twitter: https://twitter.com/chaimavital
 instagram: https://www.instagram.com/chaimavital/
 spotify: https://open.spotify.com/artist/2XMpXAQ0B1J95en60YGE3V
 soundcloud: https://soundcloud.com/chaim_avital
-youtube: 
 apple: https://itunes.apple.com/us/artist/chaim/id160756054
 layout: client
 ---

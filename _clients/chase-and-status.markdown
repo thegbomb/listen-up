@@ -2,15 +2,10 @@
 title: Chase and Status
 categories:
 - radio
-- digital
 - artist
 tags:
 - artist
 position: 72
-image: 
-is-featured: 
-is-front: 
-website: 
 facebook: http://www.facebook.com/chaseandstatus
 twitter: http://twitter.com/#!/chaseandstatus
 instagram: https://www.instagram.com/chaseandstatus/

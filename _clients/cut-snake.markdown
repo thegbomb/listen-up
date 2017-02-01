@@ -2,14 +2,10 @@
 title: Cut Snake
 categories:
 - radio
-- digital
 - artist
 tags:
 - artist
 position: 51
-image: 
-is-featured: 
-is-front: 
 website: http://www.cutsnake.com/
 facebook: http://facebook.com/cutsnakemusic
 twitter: http://twitter.com/cutsnake

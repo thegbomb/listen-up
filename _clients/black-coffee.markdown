@@ -2,14 +2,10 @@
 title: Black Coffee
 categories:
 - radio
-- digital
 - artist
 tags:
 - artist
 position: 52
-image: 
-is-featured: 
-is-front: 
 website: http://www.blackcoffee.dj
 facebook: https://www.facebook.com/realblackcoffee
 twitter: https://twitter.com/RealBlackCoffee

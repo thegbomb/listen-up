@@ -2,14 +2,10 @@
 title: Cedric Gervais
 categories:
 - radio
-- digital
 - artist
 tags:
 - artist
 position: 70
-image: 
-is-featured: 
-is-front: 
 website: http://cedricgervais.com
 facebook: http://www.facebook.com/cedgerv/
 twitter: http://twitter.com/CedricGervais

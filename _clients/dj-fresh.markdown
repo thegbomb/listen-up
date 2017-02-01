@@ -2,14 +2,10 @@
 title: DJ Fresh
 categories:
 - radio
-- digital
 - artist
 tags:
 - label
 position: 82
-image: 
-is-featured: 
-is-front: 
 website: http://thedjfresh.com
 facebook: http://www.facebook.com/djfresh
 twitter: http://www.twitter.com/djfreshuk

@@ -2,15 +2,10 @@
 title: Astronomar
 categories:
 - radio
-- digital
 - artist
 tags:
 - artist
 position: 36
-image: 
-is-featured: 
-is-front: 
-website: 
 facebook: https://www.facebook.com/astronomar/
 twitter: https://twitter.com/astronomar
 instagram: https://instagram.com/astronomar/

@@ -2,14 +2,10 @@
 title: Attlas
 categories:
 - radio
-- digital
 - artist
 tags:
 - artist
 position: 37
-image: 
-is-featured: 
-is-front: 
 website: http://attlasmusic.com
 facebook: https://www.facebook.com/attlasmusic
 twitter: https://twitter.com/attlas

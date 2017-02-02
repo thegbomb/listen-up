@@ -1,11 +1,12 @@
 ---
 title: Paradise
 categories:
-- radio
 - artist
+- digital
 tags:
 - venue
 position: 126
+image: "/uploads/paradise.jpg"
 facebook: https://www.facebook.com/ParadiseInParadise/app/208195102528120/
 layout: client
 ---

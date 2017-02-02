@@ -2,15 +2,10 @@
 title: Bobby Green
 categories:
 - radio
-- digital
 - artist
 tags:
 - artist
 position: 61
-image: 
-is-featured: 
-is-front: 
-website: 
 facebook: https://www.facebook.com/bobbygreenmusic/
 twitter: https://twitter.com/bobbygreenmusic
 instagram: https://www.instagram.com/bobbyisgreen/

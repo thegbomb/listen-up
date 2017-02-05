@@ -1,13 +1,12 @@
 ---
 title: Ministry of Sound
 categories:
-- events
+- artist
 tags:
 - label
 position: 274
-image: "/uploads/team-006.jpg"
-is-featured: 
-is-front: 
+image: "/uploads/minjistry.jpg"
+is-featured: true
 layout: client
 ---
 

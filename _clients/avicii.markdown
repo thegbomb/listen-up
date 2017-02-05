@@ -6,6 +6,8 @@ categories:
 tags:
 - artist
 position: 38
+image: "/uploads/aviici.jpg"
+is-featured: true
 website: http://www.avicii.com
 facebook: https://www.facebook.com/avicii/
 twitter: https://twitter.com/avicii

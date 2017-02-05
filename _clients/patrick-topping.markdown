@@ -6,8 +6,8 @@ tags:
 - artist
 position: 271
 image: "/uploads/patrick-topping.jpg"
-is-featured: true
-is-front: true
+is-featured: false
+is-front: false
 facebook: https://www.facebook.com/patricktoppingdj/
 twitter: https://twitter.com/Patrick_Topping
 instagram: https://www.instagram.com/patricktopping/

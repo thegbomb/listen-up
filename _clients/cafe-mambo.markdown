@@ -5,6 +5,8 @@ categories:
 tags:
 - venue
 position: 48
+image: "/uploads/cafemambo.jpg"
+is-featured: true
 website: http://www.cafemamboibiza.com
 facebook: https://www.facebook.com/mamboibiza
 twitter: https://twitter.com/Mamboibiza

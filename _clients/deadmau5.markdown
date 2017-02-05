@@ -1,11 +1,12 @@
 ---
 title: Deadmau5
 categories:
-- radio
 - artist
 tags:
 - artist
 position: 1
+image: "/uploads/deadmau5.jpg"
+is-featured: true
 website: http://live.deadmau5.com
 facebook: https://www.facebook.com/deadmau5
 twitter: https://twitter.com/deadmau5

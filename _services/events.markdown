@@ -1,7 +1,8 @@
 ---
 title: Events
-subtitle: Dapibus Mollis Dolor
+subtitle: Having launched in 2013, the Listen Up Festivals & Events Department has
+  continued to go from strength to strength.
 layout: service
 ---
 
-Using our expertise in both UK National and Global Specialist radio, we have developed long-standing relationships with the key Heads of Music, producers and DJs in all territories including North America, who will help break your record over the airwaves.
+Our standing in the industry, combined with strong press relationships and intimate understanding of the global media landscape, has enabled us to offer a bespoke, 360-degree events promotional service to our clients - from fledging club nights to large scale, world-renowned festivals.

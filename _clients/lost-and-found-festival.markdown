@@ -5,6 +5,8 @@ categories:
 tags:
 - festival
 position: 57
+image: "/uploads/lostfound.jpg"
+is-featured: true
 website: http://www.lostandfoundfestival.com
 facebook: https://www.facebook.com/lostandfoundfestival/
 twitter: https://twitter.com/AMPlostandfound

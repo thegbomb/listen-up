@@ -10,6 +10,5 @@ is-featured: true
 is-front: false
 is-digital-featured: true
 website: http://www.nassfestival.com/
-facebook: http://www.facebook.com/
 ---
 

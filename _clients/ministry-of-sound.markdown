@@ -5,7 +5,7 @@ categories:
 tags:
 - label
 position: 274
-image: "/uploads/minjistry.jpg"
+image: "/uploads/ministry.jpg"
 is-featured: true
 layout: client
 ---

@@ -7,7 +7,7 @@ collections:
     output: false
   posts:
     title: Posts
-    output: true
+    output: false
   services:
     title: Services
     output: true
@@ -23,14 +23,6 @@ defaults:
     type: pages
   values:
     layout: page
-- scope:
-    path: ''
-    type: posts
-  values:
-    permalink: "/blog/:title/"
-    layout: post
-    image: 
-    description: 
 - scope:
     path: ''
     type: services
@@ -61,11 +53,21 @@ defaults:
     job-title: 
     is-featured: 
     email: 
-url: http://listen-up.biz
-description: Listen Up provides a bespoke 360 promotional service offering radio,
-  club, online and print campaigns in the UK and worldwide.
+url: http://listen-up.com
+description: Listen Up provides a bespoke 360 promotional service offering radio, club, online and print campaigns in the UK and worldwide.
 permalink: pretty
-exclude: 
+exclude:
+- Gemfile
+- Gemfile.lock
+- bower.json
+- package.json
+- config.codekit3
+- README*
+- LICENSE*
+- CHANGELOG*
+- node_modules
+- ".gitignore"
+- bower_components
 gems:
 - jekyll-seo-tag
 - jekyll-sitemap
@@ -76,9 +78,9 @@ kramdown:
   hard_wrap: false
 highlighter: rouge
 company: Listen Up Online Promotions Ltd
-email: hello@listen-up.biz
-google_site_verification: 
-analytics: 
+email: hello@listen-up.com
+google_site_verification: Kx8OEQISNl9almmvWKiQXaeKUy4594ZKTdBHw3mYoy8
+analytics: UA-91478170-1
 logo: "/assets/img/logo.svg"
 per_page: 12
 date_format: "%b %d, %Y"

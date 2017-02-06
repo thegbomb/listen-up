@@ -7,7 +7,7 @@ layout: default
   <div class="index__hero__cell" data-wow-delay="1s" id="hero" data-vide-bg="assets/videos/video" data-vide-options="posterType: jpg, loop: true, muted: true, position: 50% 50%">
       <div class="row index__hero__cell__text align-middle">
           <div class="small-10 small-offset-1 medium-8 medium-offset-0 large-6 columns">
-            <h1>Without promotion nothing happens</h1>
+            <h1>{{page.hero}}</h1>
           </div>
        </div> 
   </div>
@@ -19,7 +19,7 @@ layout: default
 <section class="index__intro">
     <div class="row">
       <div class="small-10 small-offset-1 medium-9 medium-offset-0 columns">
-        <h3>Listen Up is a promotion and communications agency specialising in music and events, consistently delivering results to clients in a diverse range of genres</h3>
+        <h3>{{page.content}}</h3>
       </div>
     </div>
 </section>
@@ -51,7 +51,7 @@ layout: default
 <div class="index__services__section">
 <h4>{{ service.title }}</h4>
 <h5>{{ service.subtitle }}</h5>
-<p>{{ service.content }}</p>
+<p>{{ service.excerpt }}</p>
 <div class="index__more">
   <a href="services/{{ service.title | downcase }}" class="plus">More</a>
 </div>

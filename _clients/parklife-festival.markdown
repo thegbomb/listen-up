@@ -6,7 +6,7 @@ categories:
 tags:
 - festival
 position: 127
-image: "/uploads/parklifve.jpg"
+image: "/uploads/parklife.jpg"
 is-featured: true
 facebook: https://www.facebook.com/parklifefestival
 layout: client

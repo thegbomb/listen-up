@@ -37,10 +37,10 @@ defaults:
     is-featured: 
     is-front: 
     is-events-featured: 
-    is-radio-featured:
-    is-digital-featured:
-    is-artist-featured:
-    is-club-featured:
+    is-radio-featured: 
+    is-digital-featured: 
+    is-artist-featured: 
+    is-club-featured: 
     website: 
     facebook: 
     twitter: 

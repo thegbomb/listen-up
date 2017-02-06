@@ -13,19 +13,18 @@ layout: default
     </div>
 </section>
 <!-- End Service Intro -->
+  
 
 {% assign category = page.title | downcase %}
 {% if category == 'artist' %}
 <section class="service__clients__featured">
   <div class="row collapse small-up-1 medium-up-3">
-
-    {% for client in site.clients %}     
-      {% if client.is-artist-featured == true %}
+    
+    {% assign clients = site.clients | sort: 'position' | where: "is-artist-featured", "true" %}
+    {% for client in clients %}     
       <div class="columns">
        {% include client-excerpt.html %}
       </div>
-      {% endif %} 
-      
     {% endfor %}  
   </div>
 </section>
@@ -33,13 +32,11 @@ layout: default
 <section class="service__clients__featured">
   <div class="row collapse small-up-1 medium-up-3">
 
-    {% for client in site.clients %}     
-      {% if client.is-events-featured == true %}
+    {% assign clients = site.clients | sort: 'position' | where: "is-events-featured", "true" %}
+    {% for client in clients %}  
       <div class="columns">
        {% include client-excerpt.html %}
-      </div>
-      {% endif %} 
-      
+      </div> 
     {% endfor %}  
   </div>
 </section>
@@ -47,13 +44,11 @@ layout: default
 <section class="service__clients__featured">
   <div class="row collapse small-up-1 medium-up-3">
 
-    {% for client in site.clients %}     
-      {% if client.is-radio-featured == true %}
+    {% assign clients = site.clients | sort: 'position' | where: "is-radio-featured", "true" %}
+    {% for client in clients %}     
       <div class="columns">
        {% include client-excerpt.html %}
       </div>
-      {% endif %} 
-      
     {% endfor %}  
   </div>
 </section>
@@ -61,13 +56,11 @@ layout: default
 <section class="service__clients__featured">
   <div class="row collapse small-up-1 medium-up-3">
 
-    {% for client in site.clients %}     
-      {% if client.is-digital-featured == true %}
+    {% assign clients = site.clients | sort: 'position' | where: "is-digital-featured", "true" %}
+    {% for client in clients %}    
       <div class="columns">
        {% include client-excerpt.html %}
-      </div>
-      {% endif %} 
-      
+      </div>     
     {% endfor %}  
   </div>
 </section>
@@ -75,13 +68,11 @@ layout: default
 <section class="service__clients__featured">
   <div class="row collapse small-up-1 medium-up-3">
 
-    {% for client in site.clients %}     
-      {% if client.is-club-featured == true %}
+    {% assign clients = site.clients | sort: 'position' | where: "is-club-featured", "true" %}
+    {% for client in clients %}       
       <div class="columns">
        {% include client-excerpt.html %}
-      </div>
-      {% endif %} 
-      
+      </div> 
     {% endfor %}  
   </div>
 </section>

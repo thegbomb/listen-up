@@ -2137,7 +2137,7 @@
 		"oA": 0,
 		"oAP": "\/_uploads\/cafe-mambo.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"\/_uploads\/cafemambo.jpg": {
 		"ft": 16384,
@@ -2185,7 +2185,7 @@
 		"oA": 0,
 		"oAP": "\/_uploads\/fstvl.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"\/_uploads\/jamie-jones.jpg": {
 		"ft": 16384,
@@ -2225,7 +2225,7 @@
 		"oA": 0,
 		"oAP": "\/_uploads\/ministry.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"\/_uploads\/mk.jpg": {
 		"ft": 16384,
@@ -2257,7 +2257,7 @@
 		"oA": 0,
 		"oAP": "\/_uploads\/paradise.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"\/_uploads\/parklife.jpg": {
 		"ft": 16384,
@@ -2265,7 +2265,7 @@
 		"oA": 0,
 		"oAP": "\/_uploads\/parklife.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"\/_uploads\/patrick-topping.jpg": {
 		"ft": 16384,
@@ -2329,7 +2329,7 @@
 		"oA": 0,
 		"oAP": "\/_uploads\/universal.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"\/_uploads\/virgin.jpg": {
 		"ft": 16384,
@@ -2337,7 +2337,7 @@
 		"oA": 0,
 		"oAP": "\/_uploads\/virgin.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"\/_uploads\/wiley.jpg": {
 		"ft": 16384,

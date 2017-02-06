@@ -5,7 +5,7 @@ categories:
 tags:
 - venue
 position: 48
-image: "/uploads/cafemambo.jpg"
+image: "/uploads/cafe-mambo.jpg"
 is-featured: true
 is-events-featured: true
 website: http://www.cafemamboibiza.com

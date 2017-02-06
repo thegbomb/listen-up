@@ -6,7 +6,6 @@ tags:
 - artist
 position: 47
 image: "/uploads/alesso.jpg"
-is-featured: true
 is-front: true
 website: http://www.alessoworld.com
 facebook: https://www.facebook.com/AlessoOfficial/

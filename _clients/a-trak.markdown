@@ -5,7 +5,7 @@ categories:
 - artist
 tags:
 - artist
-position: 7
+position: 2
 image: "/uploads/atrak.jpg"
 is-front: true
 website: http://atrak.com

@@ -1,0 +1,64 @@
+---
+layout: default
+---
+
+<!-- Hero -->
+<section class="index__hero">
+  <div class="index__hero__cell" data-wow-delay="1s" id="hero" data-vide-bg="assets/videos/video" data-vide-options="posterType: jpg, loop: true, muted: true, position: 50% 50%">
+      <div class="row index__hero__cell__text align-middle">
+          <div class="small-10 small-offset-1 medium-8 medium-offset-0 large-6 columns">
+            <h1>{{page.hero}}</h1>
+          </div>
+       </div> 
+  </div>
+</section>
+<!-- End Hero -->
+
+
+<!-- Intro -->
+<section class="index__intro">
+    <div class="row">
+      <div class="small-10 small-offset-1 medium-9 medium-offset-0 columns">
+        <h3>{{page.content}}</h3>
+      </div>
+    </div>
+</section>
+<!-- End Intro -->
+
+<!-- Clients -->
+<section class="index__clients">
+<div class="row collapse small-up-1 medium-up-2 large-up-3">
+  {% assign clients = site.clients | sort: 'position' | where: "is-front", "true" %}
+  {% for client in clients %}
+    <div class="columns">
+    {% include client-excerpt.html %}
+    </div>
+  {% endfor %}
+</div>
+</section>
+<!-- End Clients -->
+
+<!-- Services -->
+<section class="index__services">
+<div class="row">
+  
+<div class="small-10 small-offset-1 medium-3 medium-offset-0 columns index__section__title">
+<h4>Services</h4>
+</div>
+
+<div class="small-10 small-offset-1 medium-9 medium-offset-0 columns index__services__sections">
+{% for service in site.services %}
+<div class="index__services__section">
+<h4>{{ service.title }}</h4>
+<h5>{{ service.subtitle }}</h5>
+<p>{{ service.excerpt }}</p>
+<div class="index__more">
+  <a href="services/{{ service.title | downcase }}" class="plus">More</a>
+</div>
+</div>
+{% endfor %}
+</div>
+
+</div>
+</section>
+<!-- End Services -->

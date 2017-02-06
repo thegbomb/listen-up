@@ -1,0 +1,189 @@
+---
+layout: default
+---
+
+<!-- Service Intro -->
+<section class="service__intro">
+    <div class="row">
+      <div class="small-10 small-offset-1 medium-9 medium-offset-0 columns">
+        <h1>{{ page.title }}</h1>
+        <h3>{{ page.subtitle }}</h3>
+        {{ page.content }}
+      </div>
+    </div>
+</section>
+<!-- End Service Intro -->
+  
+
+{% assign category = page.title | downcase %}
+{% if category == 'artist' %}
+<section class="service__clients__featured">
+  <div class="row collapse small-up-1 medium-up-3">
+    
+    {% assign clients = site.clients | sort: 'position' | where: "is-artist-featured", "true" %}
+    {% for client in clients %}     
+      <div class="columns">
+       {% include client-excerpt.html %}
+      </div>
+    {% endfor %}  
+  </div>
+</section>
+{% elsif category == 'events' %}
+<section class="service__clients__featured">
+  <div class="row collapse small-up-1 medium-up-3">
+
+    {% assign clients = site.clients | sort: 'position' | where: "is-events-featured", "true" %}
+    {% for client in clients %}  
+      <div class="columns">
+       {% include client-excerpt.html %}
+      </div> 
+    {% endfor %}  
+  </div>
+</section>
+{% elsif category == 'radio' %}
+<section class="service__clients__featured">
+  <div class="row collapse small-up-1 medium-up-3">
+
+    {% assign clients = site.clients | sort: 'position' | where: "is-radio-featured", "true" %}
+    {% for client in clients %}     
+      <div class="columns">
+       {% include client-excerpt.html %}
+      </div>
+    {% endfor %}  
+  </div>
+</section>
+{% elsif category == 'digital' %}
+<section class="service__clients__featured">
+  <div class="row collapse small-up-1 medium-up-3">
+
+    {% assign clients = site.clients | sort: 'position' | where: "is-digital-featured", "true" %}
+    {% for client in clients %}    
+      <div class="columns">
+       {% include client-excerpt.html %}
+      </div>     
+    {% endfor %}  
+  </div>
+</section>
+{% elsif category == 'club' %}
+<section class="service__clients__featured">
+  <div class="row collapse small-up-1 medium-up-3">
+
+    {% assign clients = site.clients | sort: 'position' | where: "is-club-featured", "true" %}
+    {% for client in clients %}       
+      <div class="columns">
+       {% include client-excerpt.html %}
+      </div> 
+    {% endfor %}  
+  </div>
+</section>
+{% endif %}
+
+
+
+<!-- Clients List -->
+<section class="service__list">
+  <!-- Clients Category - Labels -->
+    <div class="row service__category">
+      
+      <div class="small-10 small-offset-1 medium-3 medium-offset-0 columns service__category__title">
+        <h4>Labels</h4>
+      </div>
+      
+      <div class="small-10 small-offset-1 medium-9 medium-offset-0 columns service__category__list">
+        <div class="row small-up-1 medium-up-3"> 
+      {% assign category = page.title | downcase %}
+      {% for client in site.clients %}
+        {% if client.categories contains category %}    
+          {% if client.tags contains 'label' %}
+          <div class="small-12 columns">
+          
+          
+{% if client.website %}<a href="{{ client.website }}" target="_blank">{% elsif client.facebook %}<a href="{{ client.facebook }}" target="_blank">{% else %}<a href="{{ client.twitter }}" target="_blank">{% endif %}{{client.title}}</a>
+          
+          
+          </div>
+          {% endif %}
+        {% endif %}
+      {% endfor %} 
+        </div>
+      </div>
+    
+    </div>
+  <!-- End Clients Category - Labels -->
+  
+  <!-- Clients Category - Artists -->
+    <div class="row service__category">
+      
+      <div class="small-10 small-offset-1 medium-3 medium-offset-0 columns service__category__title">
+        <h4>Artists</h4>
+      </div>
+      
+      <div class="small-10 small-offset-1 medium-9 medium-offset-0 columns service__category__list">
+        <div class="row small-up-1 medium-up-3"> 
+          {% assign category = page.title | downcase %}
+          {% for client in site.clients %}
+          {% if client.categories contains category %}    
+            {% if client.tags contains 'artist' %}
+            <div class="small-12 columns">
+{% if client.website %}<a href="{{ client.website }}" target="_blank">{% elsif client.facebook %}<a href="{{ client.facebook }}" target="_blank">{% else %}<a href="{{ client.twitter }}" target="_blank">{% endif %}{{client.title}}</a>
+            </div>
+            {% endif %}
+          {% endif %}
+          {% endfor %} 
+        </div>
+      </div>
+    
+    </div>
+  <!-- End Clients Category - Artists -->
+  
+  <!-- Clients Category - Festivals -->
+    <div class="row service__category">
+      
+      <div class="small-10 small-offset-1 medium-3 medium-offset-0 columns service__category__title">
+        <h4>Festivals</h4>
+      </div>
+      
+      <div class="small-10 small-offset-1 medium-9 medium-offset-0 columns service__category__list">
+        <div class="row small-up-1 medium-up-3"> 
+          {% assign category = page.title | downcase %}
+          {% for client in site.clients %}
+          {% if client.categories contains category %}    
+            {% if client.tags contains 'festival' %}
+            <div class="small-12 columns">
+{% if client.website %}<a href="{{ client.website }}" target="_blank">{% elsif client.facebook %}<a href="{{ client.facebook }}" target="_blank">{% else %}<a href="{{ client.twitter }}" target="_blank">{% endif %}{{client.title}}</a>
+            </div>
+            {% endif %}
+          {% endif %}
+          {% endfor %} 
+        </div>
+      </div>
+    
+    </div>
+  <!-- End Clients Category - Festivals -->
+  
+  <!-- Clients Category - Venues -->
+    <div class="row service__category">
+      
+      <div class="small-10 small-offset-1 medium-3 medium-offset-0 columns service__category__title">
+        <h4>Venues</h4>
+      </div>
+      
+      <div class="small-10 small-offset-1 medium-9 medium-offset-0 columns service__category__list">
+        <div class="row small-up-1 medium-up-3"> 
+          {% assign category = page.title | downcase %}
+          {% for client in site.clients %}
+          {% if client.categories contains category %}    
+            {% if client.tags contains 'venue' %}
+            <div class="small-12 columns">
+{% if client.website %}<a href="{{ client.website }}" target="_blank">{% elsif client.facebook %}<a href="{{ client.facebook }}" target="_blank">{% else %}<a href="{{ client.twitter }}" target="_blank">{% endif %}{{client.title}}</a>
+            </div>
+            {% endif %}
+          {% endif %}
+          {% endfor %} 
+        </div>
+      </div>
+    
+    </div>
+  <!-- End Clients Category - Venues -->
+</section>
+<!-- End Clients List -->

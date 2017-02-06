@@ -1,0 +1,57 @@
+---
+layout: default
+---
+
+<!-- Intro -->
+<section class="team__intro">
+    <div class="row">
+      <div class="small-10 small-offset-1 medium-9 medium-offset-0 columns">
+        <h3>{{page.intro}}</h3>
+      </div>
+    </div>
+</section>
+<!-- End Intro -->
+
+<!-- Featured People -->
+<section class="team__featured__people">
+  <div class="row team__excerpt">  
+    {% assign teams = site.team | sort: 'position' | where: "is-featured", "true" %}
+    {% for team in teams %}  
+    <div class="small-10 small-offset-1 medium-6 medium-offset-0 columns team__people__person">
+    <h4>{{team.title}}</h4>
+    <h5>{{team.job-title}}</h5>
+    {{team.content}}
+    </div>
+    {% endfor %}
+  </div>
+</section>
+<!-- End Featured People -->
+
+<!-- People -->
+<section class="team__people">
+  
+  <div class="row team__excerpt">  
+    {% assign teams = site.team | sort: 'position' | where: "is-featured", "false" %}
+  {% for team in teams %}  
+    <div class="small-10 small-offset-1 medium-6 medium-offset-0 large-4 columns team__people__person">
+    <h4>{{team.title}}</h4>
+    <h5>{{team.job-title}}</h5>
+    </div>
+    {% endfor %}
+  </div>
+  
+</section>
+<!-- End People -->
+
+
+<!-- Contact -->
+<section class="team__contact">
+  
+  <div class="row">  
+    <div class="small-10 columns">
+      <h3><a href="/contact/">Contact Us</a></h3>
+    </div>
+  </div>
+  
+</section>
+<!-- End People -->

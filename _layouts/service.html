@@ -14,25 +14,80 @@ layout: default
 </section>
 <!-- End Service Intro -->
 
-<!-- Featured Service Clients -->
+{% assign category = page.title | downcase %}
+{% if category == 'artist' %}
 <section class="service__clients__featured">
   <div class="row collapse small-up-1 medium-up-3">
-    {% assign category = page.title | downcase %}
-    {% for client in site.clients %}
-      {% if client.categories contains category %}
-      
-      {% if client.is-featured %}
+
+    {% for client in site.clients %}     
+      {% if client.is-artist-featured == true %}
       <div class="columns">
        {% include client-excerpt.html %}
       </div>
       {% endif %} 
       
-      {% endif %}
-    {% endfor %}
-  
+    {% endfor %}  
   </div>
 </section>
-<!-- End Service Clients -->
+{% elsif category == 'events' %}
+<section class="service__clients__featured">
+  <div class="row collapse small-up-1 medium-up-3">
+
+    {% for client in site.clients %}     
+      {% if client.is-events-featured == true %}
+      <div class="columns">
+       {% include client-excerpt.html %}
+      </div>
+      {% endif %} 
+      
+    {% endfor %}  
+  </div>
+</section>
+{% elsif category == 'radio' %}
+<section class="service__clients__featured">
+  <div class="row collapse small-up-1 medium-up-3">
+
+    {% for client in site.clients %}     
+      {% if client.is-radio-featured == true %}
+      <div class="columns">
+       {% include client-excerpt.html %}
+      </div>
+      {% endif %} 
+      
+    {% endfor %}  
+  </div>
+</section>
+{% elsif category == 'digital' %}
+<section class="service__clients__featured">
+  <div class="row collapse small-up-1 medium-up-3">
+
+    {% for client in site.clients %}     
+      {% if client.is-digital-featured == true %}
+      <div class="columns">
+       {% include client-excerpt.html %}
+      </div>
+      {% endif %} 
+      
+    {% endfor %}  
+  </div>
+</section>
+{% elsif category == 'club' %}
+<section class="service__clients__featured">
+  <div class="row collapse small-up-1 medium-up-3">
+
+    {% for client in site.clients %}     
+      {% if client.is-club-featured == true %}
+      <div class="columns">
+       {% include client-excerpt.html %}
+      </div>
+      {% endif %} 
+      
+    {% endfor %}  
+  </div>
+</section>
+{% endif %}
+
+
 
 <!-- Clients List -->
 <section class="service__list">

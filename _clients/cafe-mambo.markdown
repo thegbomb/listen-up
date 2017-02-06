@@ -7,6 +7,7 @@ tags:
 position: 48
 image: "/uploads/cafemambo.jpg"
 is-featured: true
+is-events-featured: true
 website: http://www.cafemamboibiza.com
 facebook: https://www.facebook.com/mamboibiza
 twitter: https://twitter.com/Mamboibiza

@@ -10,6 +10,8 @@ position: 0
 image: "/uploads/jamie-jones.jpg"
 is-featured: true
 is-front: true
+is-artist-featured: true
+is-digital-featured: true
 website: http://hotcreations.com
 facebook: https://www.facebook.com/jamiejonesmusic/
 twitter: https://twitter.com/JamieJonesMusic

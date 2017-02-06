@@ -7,6 +7,7 @@ tags:
 position: 77
 image: "/uploads/circoloco.jpg"
 is-featured: true
+is-events-featured: true
 website: http://www.circolocoibiza.com
 facebook: https://www.facebook.com/circolocoibiza/
 twitter: https://twitter.com/circolocoibiza

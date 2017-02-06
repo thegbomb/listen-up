@@ -7,6 +7,7 @@ tags:
 position: 191
 image: "/uploads/mk.jpg"
 is-featured: true
+is-artist-featured: true
 facebook: https://www.facebook.com/theofficialMK
 layout: client
 ---

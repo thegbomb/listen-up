@@ -7,6 +7,7 @@ tags:
 position: 274
 image: "/uploads/ministry.jpg"
 is-featured: true
+is-artist-featured: true
 layout: client
 ---
 

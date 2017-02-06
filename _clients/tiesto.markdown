@@ -7,6 +7,7 @@ tags:
 position: 246
 image: "/uploads/tiesto.jpg"
 is-featured: true
+is-artist-featured: true
 facebook: https://www.facebook.com/tiesto/
 layout: client
 ---

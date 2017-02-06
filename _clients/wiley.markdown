@@ -7,5 +7,6 @@ tags:
 - artist
 image: "/uploads/wiley.jpg"
 is-featured: true
+is-artist-featured: true
 ---
 

@@ -7,6 +7,7 @@ tags:
 - festival
 image: "/uploads/noisily.jpg"
 is-featured: true
+is-digital-featured: true
 website: http://noisilyfestival.com
 ---
 

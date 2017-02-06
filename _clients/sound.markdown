@@ -7,6 +7,8 @@ tags:
 - venue
 image: "/uploads/sound.jpg"
 is-featured: true
+is-digital-featured: true
+is-events-featured: true
 website: http://soundnightclub.com/
 ---
 

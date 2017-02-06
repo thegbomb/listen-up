@@ -7,6 +7,7 @@ tags:
 - festival
 image: "/uploads/boardmasters2.jpg"
 is-featured: true
+is-digital-featured: true
 website: http://www.boardmasters.co.uk/
 ---
 

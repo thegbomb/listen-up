@@ -8,6 +8,7 @@ tags:
 position: 22
 image: "/uploads/elrow.jpg"
 is-featured: true
+is-events-featured: true
 facebook: https://www.facebook.com/ElrowSunday/
 layout: client
 ---

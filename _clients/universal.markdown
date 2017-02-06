@@ -6,8 +6,6 @@ categories:
 tags:
 - label
 image: "/uploads/universal.jpg"
-is-featured: true
-service: Artist
 is-artist-featured: true
 ---
 

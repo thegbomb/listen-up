@@ -8,5 +8,6 @@ tags:
 image: "/uploads/universal.jpg"
 is-featured: true
 is-artist-featured: true
+service: Artist
 ---
 

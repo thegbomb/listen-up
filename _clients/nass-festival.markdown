@@ -7,6 +7,7 @@ tags:
 - festival
 image: "/uploads/nass.jpg"
 is-featured: true
+is-front: true
 is-digital-featured: true
 website: http://www.nassfestival.com/
 ---

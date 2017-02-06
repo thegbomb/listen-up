@@ -5,7 +5,7 @@ categories:
 - artist
 tags:
 - artist
-image: "/uploads/wiley-5eb6ed.jpg"
+image: "/uploads/wiley-1657e3.jpg"
 is-featured: true
 ---
 

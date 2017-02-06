@@ -5,7 +5,7 @@ categories:
 - artist
 tags:
 - artist
-position: 103
+position: 109
 facebook: https://www.facebook.com/LOWSTEPPA
 layout: client
 ---

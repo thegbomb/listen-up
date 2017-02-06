@@ -4,7 +4,7 @@ categories:
 - events
 tags:
 - venue
-position: 206
+position: 212
 facebook: https://www.facebook.com/savannahibiza
 layout: client
 ---

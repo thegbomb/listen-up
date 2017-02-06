@@ -5,7 +5,7 @@ categories:
 - artist
 tags:
 - artist
-position: 201
+position: 207
 website: http://www.renelavice.com/
 layout: client
 ---

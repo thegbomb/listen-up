@@ -5,7 +5,7 @@ categories:
 - artist
 tags:
 - artist
-position: 5
+position: 11
 facebook: https://www.facebook.com/porterrobinsonmusic
 layout: client
 ---

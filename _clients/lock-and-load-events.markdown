@@ -5,7 +5,7 @@ categories:
 - artist
 tags:
 - festival
-position: 110
+position: 116
 website: http://www.locknloadevents.com/
 layout: client
 ---

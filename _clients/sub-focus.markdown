@@ -4,7 +4,7 @@ categories:
 - radio
 tags:
 - artist
-position: 272
+position: 278
 image: "/uploads/subfocus.jpg"
 is-featured: true
 is-front: true

@@ -6,7 +6,7 @@ categories:
 - digital
 tags:
 - artist
-position: 0
+position: 6
 image: "/uploads/jamie-jones.jpg"
 is-featured: true
 is-front: true

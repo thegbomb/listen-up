@@ -5,7 +5,7 @@ categories:
 - artist
 tags:
 - artist
-position: 11
+position: 17
 website: http://dirtysouth.com
 facebook: http://facebook.com/dirtysouth
 twitter: http://twitter.com/dirtysouth

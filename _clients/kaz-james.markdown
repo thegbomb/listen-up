@@ -5,7 +5,7 @@ categories:
 - artist
 tags:
 - artist
-position: 181
+position: 187
 facebook: https://www.facebook.com/kazjames
 layout: client
 ---

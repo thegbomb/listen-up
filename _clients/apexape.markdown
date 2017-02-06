@@ -5,7 +5,7 @@ categories:
 - artist
 tags:
 - artist
-position: 35
+position: 41
 website: http://apexape.com
 facebook: https://www.facebook.com/apexaperecords
 twitter: https://www.twitter.com/apexapeLDN

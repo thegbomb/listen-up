@@ -5,7 +5,7 @@ categories:
 - artist
 tags:
 - artist
-position: 6
+position: 12
 facebook: https://www.facebook.com/nvoysound/
 layout: client
 ---

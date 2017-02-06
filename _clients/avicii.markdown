@@ -5,7 +5,7 @@ categories:
 - artist
 tags:
 - artist
-position: 38
+position: 44
 image: "/uploads/aviici.jpg"
 is-featured: true
 is-artist-featured: true

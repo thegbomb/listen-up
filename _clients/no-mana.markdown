@@ -5,7 +5,7 @@ categories:
 - artist
 tags:
 - artist
-position: 123
+position: 129
 facebook: https://www.facebook.com/ihavenomanas/
 layout: client
 ---

@@ -5,7 +5,7 @@ categories:
 - artist
 tags:
 - label
-position: 262
+position: 268
 facebook: https://www.facebook.com/WarnerBrosRecords
 layout: client
 ---

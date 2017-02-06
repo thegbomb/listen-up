@@ -5,7 +5,7 @@ categories:
 - artist
 tags:
 - artist
-position: 195
+position: 201
 facebook: https://www.facebook.com/philipgeorgeuk/
 layout: client
 ---

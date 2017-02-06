@@ -5,7 +5,7 @@ categories:
 - artist
 tags:
 - artist
-position: 179
+position: 185
 facebook: https://www.facebook.com/Junolarc/
 layout: client
 ---

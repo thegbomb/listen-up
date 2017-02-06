@@ -5,7 +5,7 @@ categories:
 - artist
 tags:
 - artist
-position: 252
+position: 258
 facebook: https://www.facebook.com/DJTommyTrash/
 layout: client
 ---

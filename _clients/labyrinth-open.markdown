@@ -5,7 +5,7 @@ categories:
 - artist
 tags:
 - festival
-position: 138
+position: 144
 facebook: https://www.facebook.com/labyrinthopen/
 layout: client
 ---

@@ -5,7 +5,7 @@ categories:
 - artist
 tags:
 - label
-position: 225
+position: 231
 facebook: https://www.facebook.com/SpinninRecords
 layout: client
 ---

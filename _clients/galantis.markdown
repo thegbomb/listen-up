@@ -5,7 +5,7 @@ categories:
 - artist
 tags:
 - artist
-position: 155
+position: 161
 facebook: https://www.facebook.com/wearegalantis/
 layout: client
 ---

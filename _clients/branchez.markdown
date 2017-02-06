@@ -5,7 +5,7 @@ categories:
 - artist
 tags:
 - artist
-position: 63
+position: 69
 website: http://www.branchez.com
 facebook: https://www.facebook.com/BranchezMusic/
 twitter: https://twitter.com/branchez

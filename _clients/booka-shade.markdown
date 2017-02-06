@@ -5,7 +5,7 @@ categories:
 - artist
 tags:
 - artist
-position: 62
+position: 68
 website: https://www.bookashade.com
 facebook: https://facebook.com/bookashade
 twitter: https://twitter.com/bookashade

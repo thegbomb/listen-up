@@ -5,7 +5,7 @@ categories:
 - artist
 tags:
 - artist
-position: 253
+position: 259
 facebook: https://www.facebook.com/tonyblaizemusic/
 layout: client
 ---

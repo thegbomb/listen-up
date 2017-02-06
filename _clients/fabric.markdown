@@ -2,7 +2,7 @@
 title: Fabric
 categories:
 - events
-position: 273
+position: 279
 image: "/uploads/venue.jpg"
 layout: client
 ---

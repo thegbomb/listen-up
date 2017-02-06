@@ -5,7 +5,7 @@ categories:
 - artist
 tags:
 - artist
-position: 161
+position: 167
 facebook: https://www.facebook.com/guygerber
 layout: client
 ---

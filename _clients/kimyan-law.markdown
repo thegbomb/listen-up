@@ -5,7 +5,7 @@ categories:
 - artist
 tags:
 - artist
-position: 184
+position: 190
 facebook: https://www.facebook.com/kimyanlawmusic/
 layout: client
 ---

@@ -5,7 +5,7 @@ categories:
 - artist
 tags:
 - artist
-position: 125
+position: 131
 facebook: https://www.facebook.com/NoMBeMusic/
 layout: client
 ---

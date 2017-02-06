@@ -5,7 +5,7 @@ categories:
 - artist
 tags:
 - artist
-position: 60
+position: 66
 website: http://bobmosesmusic.com
 facebook: https://www.facebook.com/bobmosesmusic
 twitter: https://twitter.com/bobmosesmusic

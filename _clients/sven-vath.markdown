@@ -5,7 +5,7 @@ categories:
 - artist
 tags:
 - artist
-position: 233
+position: 239
 facebook: https://www.facebook.com/SvenVaethOfficial/
 layout: client
 ---

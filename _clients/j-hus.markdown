@@ -5,7 +5,7 @@ categories:
 - artist
 tags:
 - artist
-position: 171
+position: 177
 facebook: https://www.facebook.com/Jhusmusic/
 layout: client
 ---

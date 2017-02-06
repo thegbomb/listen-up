@@ -5,7 +5,7 @@ categories:
 - artist
 tags:
 - artist
-position: 8
+position: 14
 website: http://www.djdestructo.com
 facebook: https://www.facebook.com/destructohard
 twitter: https://twitter.com/DestructoHARD

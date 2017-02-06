@@ -5,7 +5,7 @@ categories:
 - artist
 tags:
 - label
-position: 81
+position: 87
 website: http://www.diynamic.com
 facebook: https://www.facebook.com/DiynamicMusic/
 twitter: https://twitter.com/diynamic_music

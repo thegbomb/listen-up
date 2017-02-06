@@ -5,7 +5,7 @@ categories:
 - artist
 tags:
 - artist
-position: 266
+position: 272
 facebook: https://www.facebook.com/yottomusic/
 layout: client
 ---

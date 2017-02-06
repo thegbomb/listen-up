@@ -5,7 +5,7 @@ categories:
 - artist
 tags:
 - artist
-position: 106
+position: 112
 facebook: https://www.facebook.com/hernameismalika
 layout: client
 ---

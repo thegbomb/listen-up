@@ -5,7 +5,7 @@ categories:
 - artist
 tags:
 - artist
-position: 256
+position: 262
 facebook: https://www.facebook.com/Tritonal
 layout: client
 ---

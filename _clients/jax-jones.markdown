@@ -5,7 +5,7 @@ categories:
 - artist
 tags:
 - artist
-position: 173
+position: 179
 facebook: https://www.facebook.com/OnMyJaxJones/
 layout: client
 ---

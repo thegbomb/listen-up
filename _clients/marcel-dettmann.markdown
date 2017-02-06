@@ -5,7 +5,7 @@ categories:
 - artist
 tags:
 - artist
-position: 108
+position: 114
 facebook: https://www.facebook.com/marceldettmannofficial
 layout: client
 ---

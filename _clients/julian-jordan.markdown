@@ -5,7 +5,7 @@ categories:
 - artist
 tags:
 - artist
-position: 178
+position: 184
 facebook: https://www.facebook.com/itsjulianjordan
 layout: client
 ---

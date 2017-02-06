@@ -5,7 +5,7 @@ categories:
 - artist
 tags:
 - artist
-position: 88
+position: 94
 image: "/uploads/martin-solveig.jpg"
 is-front: true
 website: http://www.martinsolveig.com

@@ -5,7 +5,7 @@ categories:
 - artist
 tags:
 - festival
-position: 168
+position: 174
 website: http://illuminationslondon.com/
 layout: client
 ---

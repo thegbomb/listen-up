@@ -5,7 +5,7 @@ categories:
 - artist
 tags:
 - artist
-position: 260
+position: 266
 facebook: https://www.facebook.com/VicetoneOfficial/
 layout: client
 ---

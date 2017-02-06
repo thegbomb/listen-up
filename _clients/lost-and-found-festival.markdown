@@ -4,7 +4,7 @@ categories:
 - events
 tags:
 - festival
-position: 57
+position: 63
 image: "/uploads/lostfound.jpg"
 is-featured: true
 is-events-featured: true

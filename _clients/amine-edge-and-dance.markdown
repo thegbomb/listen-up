@@ -5,7 +5,7 @@ categories:
 - artist
 tags:
 - artist
-position: 28
+position: 34
 facebook: https://www.facebook.com/amineedgeanddance
 twitter: https://twitter.com/amineedge
 instagram: https://www.instagram.com/amineedge

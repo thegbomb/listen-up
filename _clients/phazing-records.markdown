@@ -5,7 +5,7 @@ categories:
 - artist
 tags:
 - label
-position: 194
+position: 200
 facebook: https://www.facebook.com/phazingrecords
 layout: client
 ---

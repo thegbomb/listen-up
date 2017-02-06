@@ -5,7 +5,7 @@ categories:
 - artist
 tags:
 - artist
-position: 174
+position: 180
 facebook: https://www.facebook.com/JeromePriceUK
 layout: client
 ---

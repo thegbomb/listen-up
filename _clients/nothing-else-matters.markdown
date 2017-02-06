@@ -5,7 +5,7 @@ categories:
 - artist
 tags:
 - artist
-position: 115
+position: 121
 facebook: https://www.facebook.com/nothingelsemattersNEM/
 layout: client
 ---

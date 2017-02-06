@@ -5,7 +5,7 @@ categories:
 - artist
 tags:
 - artist
-position: 86
+position: 92
 website: https://www.facebook.com/mindagainst/
 layout: client
 ---

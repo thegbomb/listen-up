@@ -5,7 +5,7 @@ categories:
 - artist
 tags:
 - artist
-position: 157
+position: 163
 facebook: https://www.facebook.com/GeorgeFitzGeraldOfficial/
 layout: client
 ---

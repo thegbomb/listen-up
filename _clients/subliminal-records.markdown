@@ -4,7 +4,7 @@ categories:
 - artist
 tags:
 - label
-position: 230
+position: 236
 facebook: https://www.facebook.com/subliminalrecords
 layout: client
 ---

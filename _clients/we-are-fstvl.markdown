@@ -5,7 +5,7 @@ categories:
 - events
 tags:
 - festival
-position: 50
+position: 56
 image: "/uploads/fstvl.jpg"
 is-featured: true
 is-events-featured: true

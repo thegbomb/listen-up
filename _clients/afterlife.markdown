@@ -5,7 +5,7 @@ categories:
 - artist
 tags:
 - label
-position: 30
+position: 36
 website: http://after.life
 facebook: https://www.facebook.com/Afterlifeofc/
 twitter: https://twitter.com/afterlife_ofc

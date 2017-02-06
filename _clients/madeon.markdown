@@ -5,7 +5,7 @@ categories:
 - artist
 tags:
 - artist
-position: 104
+position: 110
 facebook: https://www.facebook.com/itsmadeon/
 layout: client
 ---

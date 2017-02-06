@@ -4,7 +4,7 @@ categories:
 - artist
 tags:
 - artist
-position: 191
+position: 197
 image: "/uploads/mk.jpg"
 is-featured: true
 is-artist-featured: true

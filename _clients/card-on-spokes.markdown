@@ -5,7 +5,7 @@ categories:
 - artist
 tags:
 - artist
-position: 67
+position: 73
 facebook: https://www.facebook.com/cardonspokes
 twitter: https://twitter.com/cardonspokes
 instagram: http://instagram.com/cardonspokes

@@ -5,7 +5,7 @@ categories:
 - artist
 tags:
 - artist
-position: 100
+position: 106
 facebook: https://www.facebook.com/martinbuttrich/
 layout: client
 ---

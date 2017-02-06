@@ -5,7 +5,7 @@ categories:
 - artist
 tags:
 - artist
-position: 78
+position: 84
 website: http://www.clmdmusic.com
 facebook: https://www.facebook.com/CLMDMusic/
 twitter: https://twitter.com/clmdmusic

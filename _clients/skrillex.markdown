@@ -4,7 +4,7 @@ categories:
 - artist
 tags:
 - artist
-position: 219
+position: 225
 facebook: https://www.facebook.com/skrillex
 layout: client
 ---

@@ -5,7 +5,7 @@ categories:
 - artist
 tags:
 - artist
-position: 180
+position: 186
 facebook: https://www.facebook.com/kaskade/
 layout: client
 ---

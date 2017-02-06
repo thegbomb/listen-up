@@ -5,7 +5,7 @@ categories:
 - artist
 tags:
 - artist
-position: 172
+position: 178
 facebook: https://www.facebook.com/jasperjames8/
 layout: client
 ---

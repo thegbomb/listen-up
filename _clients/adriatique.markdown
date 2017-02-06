@@ -5,7 +5,7 @@ categories:
 - artist
 tags:
 - artist
-position: 49
+position: 55
 website: http://www.adriatique.ch
 facebook: http://www.facebook.com/adriatiqueofficial
 twitter: http://www.twitter.com/adriatiquemusic

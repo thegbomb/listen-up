@@ -5,7 +5,7 @@ categories:
 - artist
 tags:
 - label
-position: 228
+position: 234
 facebook: https://www.facebook.com/strictlyrhythm
 layout: client
 ---

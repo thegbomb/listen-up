@@ -5,7 +5,7 @@ categories:
 - artist
 tags:
 - artist
-position: 52
+position: 58
 website: http://www.blackcoffee.dj
 facebook: https://www.facebook.com/realblackcoffee
 twitter: https://twitter.com/RealBlackCoffee

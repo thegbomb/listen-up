@@ -5,7 +5,7 @@ categories:
 - artist
 tags:
 - label
-position: 64
+position: 70
 website: http://www.brobotrecords.com
 facebook: https://www.facebook.com/brobotrecords/
 twitter: https://twitter.com/Brobot

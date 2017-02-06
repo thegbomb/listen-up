@@ -5,6 +5,7 @@ categories:
 - digital
 tags:
 - festival
+position: 5
 image: "/uploads/nass.jpg"
 is-featured: true
 is-front: false

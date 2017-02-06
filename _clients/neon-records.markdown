@@ -5,7 +5,7 @@ categories:
 - artist
 tags:
 - label
-position: 119
+position: 125
 facebook: https://www.facebook.com/neonrecords
 layout: client
 ---

@@ -5,7 +5,7 @@ categories:
 - artist
 tags:
 - label
-position: 131
+position: 137
 facebook: https://www.facebook.com/musicalfreedom
 layout: client
 ---

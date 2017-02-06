@@ -5,7 +5,7 @@ categories:
 - artist
 tags:
 - artist
-position: 45
+position: 51
 website: http://www.billykennymusic.com
 facebook: http://www.facebook.com/billykennymusic
 twitter: http://www.twitter.com/billykennymusic

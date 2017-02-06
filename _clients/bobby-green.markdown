@@ -5,7 +5,7 @@ categories:
 - artist
 tags:
 - artist
-position: 61
+position: 67
 facebook: https://www.facebook.com/bobbygreenmusic/
 twitter: https://twitter.com/bobbygreenmusic
 instagram: https://www.instagram.com/bobbyisgreen/

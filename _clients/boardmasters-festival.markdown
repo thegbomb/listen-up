@@ -5,6 +5,7 @@ categories:
 - digital
 tags:
 - festival
+position: 0
 image: "/uploads/boardmasters2.jpg"
 is-featured: true
 is-digital-featured: true

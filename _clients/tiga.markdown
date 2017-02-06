@@ -5,7 +5,7 @@ categories:
 - artist
 tags:
 - artist
-position: 247
+position: 253
 facebook: https://www.facebook.com/officialtiga/
 layout: client
 ---

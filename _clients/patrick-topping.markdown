@@ -4,7 +4,7 @@ categories:
 - events
 tags:
 - artist
-position: 271
+position: 277
 image: "/uploads/patrick-topping.jpg"
 is-featured: false
 is-front: false

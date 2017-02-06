@@ -6,7 +6,7 @@ categories:
 - artist
 tags:
 - festival
-position: 14
+position: 20
 website: http://dirty-dutch.com
 facebook: https://www.facebook.com/dirtydutchmusic
 twitter: https://twitter.com/dirtydutch

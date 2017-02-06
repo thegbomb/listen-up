@@ -5,7 +5,7 @@ categories:
 - artist
 tags:
 - artist
-position: 140
+position: 146
 facebook: https://www.facebook.com/laurenlanemusic/
 layout: client
 ---

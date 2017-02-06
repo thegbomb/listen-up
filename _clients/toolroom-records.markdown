@@ -5,7 +5,7 @@ categories:
 - artist
 tags:
 - artist
-position: 254
+position: 260
 facebook: https://www.facebook.com/toolroomrecords/
 layout: client
 ---

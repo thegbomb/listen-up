@@ -5,7 +5,7 @@ categories:
 - artist
 tags:
 - artist
-position: 72
+position: 78
 facebook: http://www.facebook.com/chaseandstatus
 twitter: http://twitter.com/#!/chaseandstatus
 instagram: https://www.instagram.com/chaseandstatus/

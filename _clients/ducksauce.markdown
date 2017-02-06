@@ -5,7 +5,7 @@ categories:
 - artist
 tags:
 - artist
-position: 83
+position: 89
 website: http://quackisback.com
 facebook: https://www.facebook.com/ducksaucenyc
 twitter: https://twitter.com/ducksaucenyc

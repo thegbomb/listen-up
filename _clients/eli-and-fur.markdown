@@ -5,7 +5,7 @@ categories:
 - artist
 tags:
 - artist
-position: 21
+position: 27
 facebook: https://www.facebook.com/eliandfur
 layout: client
 ---

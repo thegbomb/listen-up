@@ -5,7 +5,7 @@ categories:
 - artist
 tags:
 - artist
-position: 74
+position: 80
 website: http://www.chocolatepuma.com
 facebook: https://www.facebook.com/ChocolatePumaOfficial
 twitter: http://www.twitter.com/chocolatepuma

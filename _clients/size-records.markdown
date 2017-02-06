@@ -5,7 +5,7 @@ categories:
 - artist
 tags:
 - label
-position: 217
+position: 223
 facebook: https://www.facebook.com/sizerecords/
 layout: client
 ---

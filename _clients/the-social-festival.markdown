@@ -5,7 +5,7 @@ categories:
 - radio
 tags:
 - festival
-position: 244
+position: 250
 facebook: https://www.facebook.com/thesocialfestival/
 layout: client
 ---

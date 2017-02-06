@@ -5,7 +5,7 @@ categories:
 - artist
 tags:
 - artist
-position: 44
+position: 50
 website: http://www.benpearcemusic.com
 facebook: https://www.facebook.com/benpearcemusic
 twitter: https://twitter.com/BenPearceDJ

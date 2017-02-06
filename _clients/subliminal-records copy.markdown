@@ -5,7 +5,7 @@ categories:
 - artist
 tags:
 - artist
-position: 229
+position: 235
 facebook: https://www.facebook.com/sultanshepard
 layout: client
 ---

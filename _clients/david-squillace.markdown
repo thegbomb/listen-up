@@ -5,7 +5,7 @@ categories:
 - artist
 tags:
 - artist
-position: 17
+position: 23
 facebook: https://www.facebook.com/davidesquillace
 twitter: https://twitter.com/DavideSquillace
 instagram: https://www.instagram.com/davidesquillace/

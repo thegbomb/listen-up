@@ -5,7 +5,7 @@ categories:
 - artist
 tags:
 - label
-position: 95
+position: 101
 twitter: https://twitter.com/PrydaRecordings
 layout: client
 ---

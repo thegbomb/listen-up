@@ -5,7 +5,7 @@ categories:
 - artist
 tags:
 - artist
-position: 24
+position: 30
 facebook: https://www.facebook.com/ErickMorilloOfficial
 layout: client
 ---

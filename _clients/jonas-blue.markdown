@@ -5,7 +5,7 @@ categories:
 - artist
 tags:
 - artist
-position: 87
+position: 93
 image: "/uploads/jonas-blue.jpg"
 is-front: true
 website: http://www.jonasbluemusic.com

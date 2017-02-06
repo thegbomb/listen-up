@@ -4,7 +4,7 @@ categories:
 - events
 tags:
 - venue
-position: 48
+position: 54
 image: "/uploads/cafe-mambo.jpg"
 is-featured: true
 is-events-featured: true

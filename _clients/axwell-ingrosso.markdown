@@ -5,7 +5,7 @@ categories:
 - artist
 tags:
 - artist
-position: 40
+position: 46
 website: https://axwellingrosso.com
 facebook: https://www.facebook.com/axwellingrosso/
 twitter: http://twitter.com/axtone

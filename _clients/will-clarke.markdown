@@ -5,7 +5,7 @@ categories:
 - artist
 tags:
 - artist
-position: 263
+position: 269
 facebook: https://www.facebook.com/willclarkedj
 layout: client
 ---

@@ -5,7 +5,7 @@ categories:
 - artist
 tags:
 - artist
-position: 270
+position: 276
 facebook: 99SoulsOfficial
 twitter: 99SoulsOfficial
 instagram: 99soulsofficial

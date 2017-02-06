@@ -5,7 +5,7 @@ categories:
 - artist
 tags:
 - label
-position: 128
+position: 134
 facebook: https://www.facebook.com/parlophone
 layout: client
 ---

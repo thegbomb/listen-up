@@ -5,7 +5,7 @@ categories:
 - artist
 tags:
 - artist
-position: 102
+position: 108
 facebook: https://www.facebook.com/LOUDPVCK/
 layout: client
 ---

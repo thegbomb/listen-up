@@ -5,7 +5,7 @@ categories:
 - artist
 tags:
 - label
-position: 152
+position: 158
 website: http://ffrrecords.com
 layout: client
 ---

@@ -5,7 +5,7 @@ categories:
 - artist
 tags:
 - artist
-position: 16
+position: 22
 facebook: https://www.facebook.com/dalehowardmusic
 twitter: https://twitter.com/Dale_Howard
 instagram: https://www.instagram.com/dale_howard/

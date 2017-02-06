@@ -5,7 +5,7 @@ categories:
 - artist
 tags:
 - artist
-position: 59
+position: 65
 website: http://blondesound.com
 facebook: http://facebook.com/blondesound
 twitter: http://twitter.com/blondesound

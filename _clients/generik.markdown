@@ -5,7 +5,7 @@ categories:
 - artist
 tags:
 - artist
-position: 156
+position: 162
 facebook: https://www.facebook.com/generik.tourofcool/
 layout: client
 ---

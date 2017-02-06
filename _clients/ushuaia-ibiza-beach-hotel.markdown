@@ -4,7 +4,7 @@ categories:
 - radio
 tags:
 - venue
-position: 259
+position: 265
 facebook: https://www.facebook.com/ushuaiaibiza/
 layout: client
 ---

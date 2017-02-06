@@ -5,7 +5,7 @@ categories:
 - artist
 tags:
 - artist
-position: 36
+position: 42
 facebook: https://www.facebook.com/astronomar/
 twitter: https://twitter.com/astronomar
 instagram: https://instagram.com/astronomar/

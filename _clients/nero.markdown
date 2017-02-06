@@ -5,7 +5,7 @@ categories:
 - artist
 tags:
 - artist
-position: 120
+position: 126
 facebook: https://www.facebook.com/nero
 layout: client
 ---

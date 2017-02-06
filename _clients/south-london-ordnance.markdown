@@ -5,7 +5,7 @@ categories:
 - artist
 tags:
 - artist
-position: 223
+position: 229
 facebook: https://www.facebook.com/southlondonordnance/
 layout: client
 ---

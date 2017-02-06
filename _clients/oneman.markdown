@@ -5,7 +5,7 @@ categories:
 - artist
 tags:
 - artist
-position: 134
+position: 140
 facebook: https://www.facebook.com/thedjoneman
 layout: client
 ---

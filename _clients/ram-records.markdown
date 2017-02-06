@@ -5,7 +5,7 @@ categories:
 - artist
 tags:
 - label
-position: 144
+position: 150
 facebook: https://www.facebook.com/RAMrecordsltd
 layout: client
 ---

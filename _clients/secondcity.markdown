@@ -5,7 +5,7 @@ categories:
 - artist
 tags:
 - artist
-position: 209
+position: 215
 facebook: https://www.facebook.com/secondcityuk/
 layout: client
 ---

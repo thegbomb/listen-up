@@ -5,7 +5,7 @@ categories:
 - artist
 tags:
 - artist
-position: 42
+position: 48
 facebook: https://www.facebook.com/bearcubsmusic/
 twitter: https://twitter.com/bearcubsmusic
 instagram: https://www.instagram.com/bearcubsmusic/

@@ -5,7 +5,7 @@ categories:
 - artist
 tags:
 - artist
-position: 222
+position: 228
 facebook: https://www.facebook.com/SonnyAlven/
 layout: client
 ---

@@ -5,7 +5,7 @@ categories:
 - artist
 tags:
 - artist
-position: 46
+position: 52
 website: http://alanwalker.no
 facebook: https://www.facebook.com/alanwalkermusic/
 twitter: https://twitter.com/IAmAlanWalker

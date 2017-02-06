@@ -5,7 +5,7 @@ categories:
 - artist
 tags:
 - label
-position: 141
+position: 147
 facebook: https://www.facebook.com/PositivaRecords
 layout: client
 ---

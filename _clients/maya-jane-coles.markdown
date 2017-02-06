@@ -5,7 +5,7 @@ categories:
 - artist
 tags:
 - artist
-position: 96
+position: 102
 facebook: https://www.facebook.com/mjcofficial
 layout: client
 ---

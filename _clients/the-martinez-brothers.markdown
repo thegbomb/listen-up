@@ -5,7 +5,7 @@ categories:
 - artist
 tags:
 - artist
-position: 241
+position: 247
 facebook: https://www.facebook.com/themartinezbrothers/
 layout: client
 ---

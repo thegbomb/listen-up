@@ -5,7 +5,7 @@ categories:
 - artist
 tags:
 - artist
-position: 220
+position: 226
 facebook: https://www.facebook.com/Snakehipsuk
 layout: client
 ---

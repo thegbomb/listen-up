@@ -5,7 +5,7 @@ categories:
 - artist
 tags:
 - artist
-position: 210
+position: 216
 facebook: https://www.facebook.com/seeb
 layout: client
 ---

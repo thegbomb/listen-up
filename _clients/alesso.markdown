@@ -4,7 +4,7 @@ categories:
 - artist
 tags:
 - artist
-position: 47
+position: 53
 image: "/uploads/alesso.jpg"
 is-front: true
 website: http://www.alessoworld.com

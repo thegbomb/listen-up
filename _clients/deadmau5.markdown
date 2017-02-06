@@ -4,7 +4,7 @@ categories:
 - artist
 tags:
 - artist
-position: 1
+position: 8
 image: "/uploads/deadmau5.jpg"
 is-featured: true
 is-artist-featured: true

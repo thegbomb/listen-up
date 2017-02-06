@@ -5,7 +5,7 @@ categories:
 - artist
 tags:
 - venue
-position: 69
+position: 75
 website: http://cavoparadiso.gr
 facebook: https://www.facebook.com/cavoparadiso
 twitter: https://twitter.com/Cavo_Paradiso

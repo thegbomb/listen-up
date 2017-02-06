@@ -4,7 +4,7 @@ categories:
 - events
 tags:
 - venue
-position: 213
+position: 219
 facebook: https://www.facebook.com/LondonWarehouseevents/
 layout: client
 ---

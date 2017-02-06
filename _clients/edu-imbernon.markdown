@@ -5,7 +5,7 @@ categories:
 - artist
 tags:
 - artist
-position: 4
+position: 10
 website: http://imbernonmusic.com
 facebook: https://www.facebook.com/imbernonmusic/?fref=ts
 twitter: https://twitter.com/eduimbernon?lang=es

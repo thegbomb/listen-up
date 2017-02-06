@@ -5,7 +5,7 @@ categories:
 - artist
 tags:
 - label
-position: 169
+position: 175
 facebook: https://www.facebook.com/InsomniacRecords
 layout: client
 ---

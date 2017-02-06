@@ -5,7 +5,7 @@ categories:
 - artist
 tags:
 - artist
-position: 267
+position: 273
 facebook: https://www.facebook.com/Zedd
 layout: client
 ---

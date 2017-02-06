@@ -5,7 +5,7 @@ categories:
 - artist
 tags:
 - label
-position: 170
+position: 176
 facebook: https://www.facebook.com/IslandRecords
 layout: client
 ---

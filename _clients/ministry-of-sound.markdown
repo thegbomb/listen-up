@@ -4,7 +4,7 @@ categories:
 - artist
 tags:
 - label
-position: 274
+position: 280
 image: "/uploads/ministry.jpg"
 is-featured: true
 is-artist-featured: true

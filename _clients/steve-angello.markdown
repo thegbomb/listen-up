@@ -5,7 +5,7 @@ categories:
 - artist
 tags:
 - artist
-position: 226
+position: 232
 facebook: https://www.facebook.com/steveangello
 layout: client
 ---

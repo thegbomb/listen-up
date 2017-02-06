@@ -5,7 +5,7 @@ categories:
 - artist
 tags:
 - artist
-position: 214
+position: 220
 facebook: https://www.facebook.com/sigalamusic
 layout: client
 ---

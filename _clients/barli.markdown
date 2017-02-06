@@ -5,7 +5,7 @@ categories:
 - artist
 tags:
 - label
-position: 41
+position: 47
 facebook: https://www.facebook.com/iamBarli/
 twitter: https://twitter.com/iambarli
 instagram: https://www.instagram.com/iambarli/

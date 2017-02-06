@@ -4,7 +4,7 @@ categories:
 - events
 tags:
 - festival
-position: 211
+position: 217
 facebook: https://www.facebook.com/shipsomnia/
 layout: client
 ---

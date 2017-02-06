@@ -5,7 +5,7 @@ categories:
 - artist
 tags:
 - artist
-position: 186
+position: 192
 facebook: https://www.facebook.com/knifeparty
 layout: client
 ---

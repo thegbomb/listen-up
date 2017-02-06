@@ -5,7 +5,7 @@ categories:
 - artist
 tags:
 - artist
-position: 183
+position: 189
 facebook: https://www.facebook.com/kevinsaunderson.fanpage
 layout: client
 ---

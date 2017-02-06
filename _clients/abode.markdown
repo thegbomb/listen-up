@@ -5,7 +5,7 @@ categories:
 - artist
 tags:
 - label
-position: 269
+position: 275
 website: http://www.aboderecords.com
 facebook: https://www.facebook.com/ABODErecords/
 twitter: https://twitter.com/aboderecords

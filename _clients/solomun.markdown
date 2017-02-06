@@ -5,7 +5,7 @@ categories:
 - artist
 tags:
 - artist
-position: 221
+position: 227
 facebook: https://www.facebook.com/SolomunMusic/
 layout: client
 ---

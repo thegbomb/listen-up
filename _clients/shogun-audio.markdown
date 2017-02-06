@@ -5,7 +5,7 @@ categories:
 - artist
 tags:
 - label
-position: 212
+position: 218
 facebook: https://www.facebook.com/shogunaudio
 layout: client
 ---

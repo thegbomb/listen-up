@@ -5,6 +5,7 @@ categories:
 - artist
 tags:
 - label
+position: 3
 image: "/uploads/universal.jpg"
 is-artist-featured: true
 ---

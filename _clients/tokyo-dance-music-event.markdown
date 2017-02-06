@@ -5,7 +5,7 @@ categories:
 - artist
 tags:
 - festival
-position: 250
+position: 256
 facebook: https://www.facebook.com/TokyoDanceMusicEvent/
 layout: client
 ---

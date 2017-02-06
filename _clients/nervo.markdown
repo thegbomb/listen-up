@@ -5,7 +5,7 @@ categories:
 - artist
 tags:
 - artist
-position: 121
+position: 127
 facebook: http://www.facebook.com/NERVOmusic
 layout: client
 ---

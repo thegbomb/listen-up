@@ -5,7 +5,7 @@ categories:
 - artist
 tags:
 - artist
-position: 176
+position: 182
 facebook: https://www.facebook.com/JesseMarco/
 layout: client
 ---

@@ -4,7 +4,7 @@ categories:
 - events
 tags:
 - venue
-position: 77
+position: 83
 image: "/uploads/circoloco.jpg"
 is-featured: true
 is-events-featured: true

@@ -5,7 +5,7 @@ categories:
 - artist
 tags:
 - venue
-position: 264
+position: 270
 facebook: https://www.facebook.com/worldclubdome/
 layout: client
 ---

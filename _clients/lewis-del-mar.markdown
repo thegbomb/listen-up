@@ -5,7 +5,7 @@ categories:
 - artist
 tags:
 - artist
-position: 113
+position: 119
 facebook: https://www.facebook.com/lewisdelmar/
 layout: client
 ---

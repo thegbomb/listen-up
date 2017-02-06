@@ -5,7 +5,7 @@ categories:
 - artist
 tags:
 - artist
-position: 3
+position: 9
 website: http://eelkekleijn.nl
 facebook: https://www.facebook.com/eelkekleijn
 twitter: https://twitter.com/eelkekleijn

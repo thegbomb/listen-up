@@ -5,7 +5,7 @@ categories:
 - artist
 tags:
 - artist
-position: 118
+position: 124
 facebook: https://www.facebook.com/nathan.barato.fanpage/
 layout: client
 ---

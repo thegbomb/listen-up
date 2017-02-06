@@ -6,7 +6,7 @@ categories:
 - artist
 tags:
 - label
-position: 94
+position: 100
 facebook: https://www.facebook.com/prmdmusic
 layout: client
 ---

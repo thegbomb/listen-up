@@ -5,7 +5,7 @@ categories:
 - artist
 tags:
 - artist
-position: 265
+position: 271
 facebook: https://www.facebook.com/yolandabecool/
 layout: client
 ---

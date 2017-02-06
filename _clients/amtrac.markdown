@@ -5,7 +5,7 @@ categories:
 - artist
 tags:
 - artist
-position: 54
+position: 60
 website: http://www.amtracmusic.com
 facebook: http://www.facebook.com/amtrac
 twitter: https://twitter.com/AMTRAC

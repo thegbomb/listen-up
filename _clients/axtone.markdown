@@ -5,7 +5,7 @@ categories:
 - artist
 tags:
 - label
-position: 39
+position: 45
 website: http://axtone.com
 facebook: https://www.facebook.com/axtone
 twitter: http://twitter.com/axtone

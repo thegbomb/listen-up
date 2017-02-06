@@ -5,6 +5,7 @@ categories:
 - digital
 tags:
 - festival
+position: 2
 image: "/uploads/noisily.jpg"
 is-featured: true
 is-digital-featured: true

@@ -5,7 +5,7 @@ categories:
 - digital
 tags:
 - venue
-position: 126
+position: 132
 image: "/uploads/paradise.jpg"
 is-featured: true
 is-digital-featured: true

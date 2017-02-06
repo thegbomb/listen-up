@@ -5,7 +5,7 @@ categories:
 - artist
 tags:
 - artist
-position: 154
+position: 160
 facebook: https://www.facebook.com/FrankyRizardo/
 layout: client
 ---

@@ -5,7 +5,7 @@ categories:
 - artist
 tags:
 - artist
-position: 25
+position: 31
 facebook: https://www.facebook.com/esvive
 layout: client
 ---

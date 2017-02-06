@@ -5,7 +5,7 @@ categories:
 - artist
 tags:
 - artist
-position: 90
+position: 96
 image: "/uploads/steve-lawler.jpg"
 is-featured: true
 is-front: true

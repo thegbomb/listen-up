@@ -5,7 +5,7 @@ categories:
 - artist
 tags:
 - label
-position: 55
+position: 61
 website: http://www.wearebigbeat.com
 facebook: https://www.facebook.com/wearebigbeat
 twitter: https://twitter.com/wearebigbeat

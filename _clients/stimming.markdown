@@ -5,7 +5,7 @@ categories:
 - artist
 tags:
 - artist
-position: 227
+position: 233
 facebook: https://www.facebook.com/stimming
 layout: client
 ---

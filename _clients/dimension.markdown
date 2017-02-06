@@ -5,7 +5,7 @@ categories:
 - artist
 tags:
 - artist
-position: 10
+position: 16
 website: http://thisisdimension.com
 facebook: https://www.facebook.com/Dimension/
 twitter: https://twitter.com/dimension_uk

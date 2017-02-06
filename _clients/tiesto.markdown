@@ -4,7 +4,7 @@ categories:
 - artist
 tags:
 - artist
-position: 246
+position: 252
 image: "/uploads/tiesto.jpg"
 is-featured: true
 is-front: true

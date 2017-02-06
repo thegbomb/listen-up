@@ -5,7 +5,7 @@ categories:
 - artist
 tags:
 - artist
-position: 51
+position: 57
 website: http://www.cutsnake.com/
 facebook: http://facebook.com/cutsnakemusic
 twitter: http://twitter.com/cutsnake

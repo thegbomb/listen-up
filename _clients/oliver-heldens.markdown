@@ -5,7 +5,7 @@ categories:
 - artist
 tags:
 - artist
-position: 18
+position: 24
 facebook: https://www.facebook.com/OliverHeldens/
 layout: client
 ---

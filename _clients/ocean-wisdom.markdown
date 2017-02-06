@@ -5,7 +5,7 @@ categories:
 - artist
 tags:
 - artist
-position: 142
+position: 148
 facebook: https://www.facebook.com/oceanspitzwisdom/
 layout: client
 ---

@@ -5,7 +5,7 @@ categories:
 - artist
 tags:
 - artist
-position: 65
+position: 71
 facebook: https://www.facebook.com/iamcages/
 twitter: https://twitter.com/iamcages
 instagram: https://www.instagram.com/iamcages/

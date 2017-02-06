@@ -5,7 +5,7 @@ categories:
 - artist
 tags:
 - artist
-position: 79
+position: 85
 website: http://www.diversionla.com
 facebook: https://www.facebook.com/DiversionLA/
 twitter: https://twitter.com/diversionca

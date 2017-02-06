@@ -5,7 +5,7 @@ categories:
 - artist
 tags:
 - label
-position: 82
+position: 88
 website: http://thedjfresh.com
 facebook: http://www.facebook.com/djfresh
 twitter: http://www.twitter.com/djfreshuk

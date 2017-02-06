@@ -5,7 +5,7 @@ categories:
 - artist
 tags:
 - artist
-position: 101
+position: 107
 facebook: https://www.facebook.com/mau5trap/
 layout: client
 ---

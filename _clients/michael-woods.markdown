@@ -5,7 +5,7 @@ categories:
 - artist
 tags:
 - artist
-position: 97
+position: 103
 facebook: https://www.facebook.com/michaelwoodsonline/
 layout: client
 ---

@@ -5,7 +5,7 @@ categories:
 - artist
 tags:
 - label
-position: 80
+position: 86
 website: http://www.dreambeach.es
 facebook: https://www.facebook.com/DreambeachFestVillaricos
 twitter: https://twitter.com/DreambeachFest

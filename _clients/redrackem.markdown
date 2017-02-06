@@ -5,7 +5,7 @@ categories:
 - artist
 tags:
 - artist
-position: 199
+position: 205
 facebook: https://www.facebook.com/redrackem/
 layout: client
 ---

@@ -4,7 +4,7 @@ categories:
 - events
 tags:
 - venue
-position: 56
+position: 62
 website: http://bluemarlinibiza-uae.com
 facebook: https://www.facebook.com/BMIUAE/
 twitter: https://twitter.com/bluemarlinuae

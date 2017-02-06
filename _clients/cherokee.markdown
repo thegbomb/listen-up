@@ -5,7 +5,7 @@ categories:
 - artist
 tags:
 - artist
-position: 73
+position: 79
 website: http://www.cherokee-musique.com/
 facebook: https://www.facebook.com/cherokee.music
 twitter: https://twitter.com/cherokee_music

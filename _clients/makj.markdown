@@ -5,7 +5,7 @@ categories:
 - artist
 tags:
 - artist
-position: 105
+position: 111
 facebook: https://www.facebook.com/MAKJOfficial
 layout: client
 ---

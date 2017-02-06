@@ -5,7 +5,7 @@ categories:
 - artist
 tags:
 - artist
-position: 13
+position: 19
 website: https://www.davidguetta.com/en/gb
 facebook: https://www.facebook.com/DavidGuetta
 twitter: https://twitter.com/davidguetta

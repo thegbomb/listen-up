@@ -5,7 +5,7 @@ categories:
 - artist
 tags:
 - artist
-position: 114
+position: 120
 facebook: https://www.facebook.com/Lewisjimenezmusic/
 layout: client
 ---

@@ -5,7 +5,7 @@ categories:
 - artist
 tags:
 - artist
-position: 239
+position: 245
 facebook: https://www.facebook.com/thisisthefatrat/
 layout: client
 ---

@@ -5,7 +5,7 @@ categories:
 - artist
 tags:
 - artist
-position: 92
+position: 98
 facebook: https://www.facebook.com/weareltric
 layout: client
 ---

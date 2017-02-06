@@ -5,7 +5,7 @@ categories:
 - artist
 tags:
 - artist
-position: 99
+position: 105
 facebook: https://www.facebook.com/marcofaraonedj/
 layout: client
 ---

@@ -5,7 +5,7 @@ categories:
 - artist
 tags:
 - artist
-position: 188
+position: 194
 facebook: https://www.facebook.com/kolschofficial
 layout: client
 ---

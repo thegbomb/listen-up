@@ -5,7 +5,7 @@ categories:
 - artist
 tags:
 - artist
-position: 98
+position: 104
 website: http://www.miguelcampbellofficial.com/
 layout: client
 ---

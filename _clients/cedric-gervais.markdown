@@ -5,7 +5,7 @@ categories:
 - artist
 tags:
 - artist
-position: 70
+position: 76
 website: http://cedricgervais.com
 facebook: http://www.facebook.com/cedgerv/
 twitter: http://twitter.com/CedricGervais

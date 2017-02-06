@@ -5,7 +5,7 @@ categories:
 - artist
 tags:
 - artist
-position: 175
+position: 181
 facebook: https://www.facebook.com/JessCalosso/
 layout: client
 ---

@@ -5,7 +5,7 @@ categories:
 - artist
 tags:
 - festival
-position: 26
+position: 32
 facebook: https://www.facebook.com/ExtremaOutdoor.Belgium/
 layout: client
 ---

@@ -5,7 +5,7 @@ categories:
 - artist
 tags:
 - festival
-position: 147
+position: 153
 facebook: https://www.facebook.com/electricparadise
 layout: client
 ---

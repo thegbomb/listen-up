@@ -5,7 +5,7 @@ categories:
 - artist
 tags:
 - artist
-position: 71
+position: 77
 facebook: https://www.facebook.com/Chaim-107243096306/
 twitter: https://twitter.com/chaimavital
 instagram: https://www.instagram.com/chaimavital/

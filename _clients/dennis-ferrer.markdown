@@ -5,7 +5,7 @@ categories:
 - artist
 tags:
 - artist
-position: 7
+position: 13
 facebook: https://www.facebook.com/dennisferrerobj
 twitter: http://twitter.com/dennisferrer
 instagram: https://www.instagram.com/dennisferrerofficial/

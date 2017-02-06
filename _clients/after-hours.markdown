@@ -5,7 +5,7 @@ categories:
 - artist
 tags:
 - label
-position: 29
+position: 35
 website: http://aftrhrsrecords.com
 facebook: https://www.facebook.com/AFTRHRSrecords/
 twitter: https://twitter.com/aftrhrsrecords

@@ -5,7 +5,7 @@ categories:
 - artist
 tags:
 - artist
-position: 117
+position: 123
 facebook: https://www.facebook.com/KSHMRmusic
 layout: client
 ---

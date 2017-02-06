@@ -5,7 +5,7 @@ categories:
 - artist
 tags:
 - artist
-position: 43
+position: 49
 facebook: https://www.facebook.com/bearsonmusic/
 twitter: https://twitter.com/BearsonMusic
 instagram: https://www.instagram.com/bearsonmusic

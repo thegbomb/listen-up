@@ -5,7 +5,7 @@ categories:
 - artist
 tags:
 - artist
-position: 68
+position: 74
 website: http://www.carolapisaturo.com
 facebook: https://www.facebook.com/Carola-Pisaturo-135686275854/
 twitter: https://twitter.com/carolapisaturo

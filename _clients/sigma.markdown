@@ -5,7 +5,7 @@ categories:
 - artist
 tags:
 - artist
-position: 215
+position: 221
 facebook: https://www.facebook.com/sigma/
 layout: client
 ---

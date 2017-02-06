@@ -5,7 +5,7 @@ categories:
 - artist
 tags:
 - artist
-position: 185
+position: 191
 facebook: https://www.facebook.com/Klingande/
 layout: client
 ---

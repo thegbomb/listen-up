@@ -5,7 +5,7 @@ categories:
 - artist
 tags:
 - artist
-position: 76
+position: 82
 website: http://djchuckie.com
 facebook: https://facebook.com/djchuckie
 twitter: https://twitter.com/djchuckie

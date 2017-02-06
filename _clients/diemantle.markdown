@@ -5,7 +5,7 @@ categories:
 - artist
 tags:
 - artist
-position: 9
+position: 15
 facebook: https://www.facebook.com/DieMantle/
 twitter: https://twitter.com/DieMantle
 instagram: https://www.instagram.com/diemantle/

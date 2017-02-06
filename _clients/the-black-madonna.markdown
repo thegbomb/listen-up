@@ -5,7 +5,7 @@ categories:
 - artist
 tags:
 - artist
-position: 238
+position: 244
 facebook: https://www.facebook.com/theblackmadonnachi/
 layout: client
 ---

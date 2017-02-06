@@ -5,7 +5,7 @@ categories:
 - artist
 tags:
 - artist
-position: 89
+position: 95
 image: "/uploads/sam-feldt.jpg"
 is-featured: true
 is-front: true

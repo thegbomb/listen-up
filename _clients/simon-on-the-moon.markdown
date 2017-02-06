@@ -5,7 +5,7 @@ categories:
 - artist
 tags:
 - artist
-position: 216
+position: 222
 facebook: https://www.facebook.com/SimonOnTheMoon/
 layout: client
 ---

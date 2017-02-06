@@ -5,7 +5,7 @@ categories:
 - artist
 tags:
 - artist
-position: 136
+position: 142
 facebook: https://www.facebook.com/OttoKnows
 layout: client
 ---

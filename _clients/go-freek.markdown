@@ -5,7 +5,7 @@ categories:
 - artist
 tags:
 - artist
-position: 158
+position: 164
 facebook: https://www.facebook.com/gofreek/
 layout: client
 ---

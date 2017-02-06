@@ -5,6 +5,7 @@ categories:
 - digital
 tags:
 - venue
+position: 1
 image: "/uploads/sound.jpg"
 is-featured: true
 is-digital-featured: true

@@ -5,7 +5,7 @@ categories:
 - artist
 tags:
 - artist
-position: 23
+position: 29
 facebook: https://www.facebook.com/EricPrydzOfficial
 layout: client
 ---

@@ -5,7 +5,7 @@ categories:
 - artist
 tags:
 - artist
-position: 12
+position: 18
 website: http://disciplesldn.com
 facebook: https://www.facebook.com/DisciplesLDN
 twitter: https://twitter.com/Disciples

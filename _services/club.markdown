@@ -2,7 +2,8 @@
 title: Specialist Radio and Club
 subtitle: 
 layout: service
-excerpt: Here at Listen up we work very closely with all specialist radio presenters and producers across the globe from our UK office.
+excerpt: Here at Listen up we work very closely with all specialist radio presenters
+  and producers across the globe from our UK office.
 ---
 
 #### Rest of World Specialist Radio

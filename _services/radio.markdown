@@ -3,7 +3,7 @@ title: Daytime Radio
 subtitle: The National Radio department covers radio servicing across the UK, plugging
   to all key shows on BBC Radio 1, 1Xtra and 6 Music, both Capital FM and Kiss FM
   networks, as well as an extensive reach across regional specialist.
-excerpt:
+excerpt: 
 layout: service
 ---
 

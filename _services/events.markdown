@@ -3,7 +3,7 @@ title: Events
 subtitle: From underground club nights and world-renowned festivals, through to high-end
   venues, restaurants and hotels, the events team are well versed in generating positive
   and exciting media coverage for all clients.
-excerpt:
+excerpt: 
 layout: service
 ---
 

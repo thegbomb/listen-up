@@ -15,7 +15,7 @@ layout: default
 <!-- End Service Intro -->
   
 
-{% assign category = page.title | downcase %}
+{% assign category = page.url | replace: 'services', '' | remove: "/" %}
 {% if category == 'artist' %}
 <section class="service__clients__featured">
   <div class="row collapse small-up-1 medium-up-3">
@@ -71,7 +71,7 @@ layout: default
     {% assign clients = site.clients | sort: 'position' | where: "is-club-featured", "true" %}
     {% for client in clients %}       
       <div class="columns">
-       {% include client-excerpt.html %}
+       {% include client-excerpt.html %}  
       </div> 
     {% endfor %}  
   </div>
@@ -91,7 +91,8 @@ layout: default
       
       <div class="small-10 small-offset-1 medium-9 medium-offset-0 columns service__category__list">
         <div class="row small-up-1 medium-up-3"> 
-      {% assign category = page.title | downcase %}
+      {% assign category = page.url | replace: 'services', '' | remove: "/" %}
+      
       {% for client in site.clients %}
         {% if client.categories contains category %}    
           {% if client.tags contains 'label' %}
@@ -120,7 +121,7 @@ layout: default
       
       <div class="small-10 small-offset-1 medium-9 medium-offset-0 columns service__category__list">
         <div class="row small-up-1 medium-up-3"> 
-          {% assign category = page.title | downcase %}
+          {% assign category = page.url | replace: 'services', '' | remove: "/" %}
           {% for client in site.clients %}
           {% if client.categories contains category %}    
             {% if client.tags contains 'artist' %}
@@ -145,7 +146,7 @@ layout: default
       
       <div class="small-10 small-offset-1 medium-9 medium-offset-0 columns service__category__list">
         <div class="row small-up-1 medium-up-3"> 
-          {% assign category = page.title | downcase %}
+          {% assign category = page.url | replace: 'services', '' | remove: "/" %}
           {% for client in site.clients %}
           {% if client.categories contains category %}    
             {% if client.tags contains 'festival' %}
@@ -170,7 +171,7 @@ layout: default
       
       <div class="small-10 small-offset-1 medium-9 medium-offset-0 columns service__category__list">
         <div class="row small-up-1 medium-up-3"> 
-          {% assign category = page.title | downcase %}
+          {% assign category = page.url | replace: 'services', '' | remove: "/" %}
           {% for client in site.clients %}
           {% if client.categories contains category %}    
             {% if client.tags contains 'venue' %}

@@ -2,6 +2,7 @@
 title: Artist
 subtitle: 'Listen Up’s artist and label press department consists of a large team
   with extensive experience across print and online world wide campaigns. '
+excerpt:
 layout: service
 ---
 

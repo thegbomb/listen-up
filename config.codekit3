@@ -2489,32 +2489,38 @@
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/assets\/fonts\/BasisGrotesque-Bold.eot": {
+	"\/assets\/fonts\/AtlasGrotesk-Regular.eot": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/assets\/fonts\/BasisGrotesque-Bold.eot",
+		"oAP": "\/assets\/fonts\/AtlasGrotesk-Regular.eot",
 		"oF": 0
 		},
-	"\/assets\/fonts\/BasisGrotesque-Bold.svg": {
+	"\/assets\/fonts\/AtlasGrotesk-Regular.otf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/fonts\/AtlasGrotesk-Regular.otf",
+		"oF": 0
+		},
+	"\/assets\/fonts\/AtlasGrotesk-Regular.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/assets\/fonts\/BasisGrotesque-Bold.svg",
+		"oAP": "\/assets\/fonts\/AtlasGrotesk-Regular.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/assets\/fonts\/BasisGrotesque-Bold.ttf": {
+	"\/assets\/fonts\/AtlasGrotesk-Regular.ttf": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/assets\/fonts\/BasisGrotesque-Bold.ttf",
+		"oAP": "\/assets\/fonts\/AtlasGrotesk-Regular.ttf",
 		"oF": 0
 		},
-	"\/assets\/fonts\/BasisGrotesque-Bold.woff": {
+	"\/assets\/fonts\/AtlasGrotesk-Regular.woff": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/assets\/fonts\/BasisGrotesque-Bold.woff",
+		"oAP": "\/assets\/fonts\/AtlasGrotesk-Regular.woff",
 		"oF": 0
 		},
 	"\/assets\/fonts\/BasisGrotesque.eot": {
@@ -2543,6 +2549,40 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/assets\/fonts\/BasisGrotesque.woff",
+		"oF": 0
+		},
+	"\/assets\/fonts\/FuturaStd-ExtraBoldOblique.eot": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/fonts\/FuturaStd-ExtraBoldOblique.eot",
+		"oF": 0
+		},
+	"\/assets\/fonts\/FuturaStd-ExtraBoldOblique.otf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/fonts\/FuturaStd-ExtraBoldOblique.otf",
+		"oF": 0
+		},
+	"\/assets\/fonts\/FuturaStd-ExtraBoldOblique.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/assets\/fonts\/FuturaStd-ExtraBoldOblique.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/assets\/fonts\/FuturaStd-ExtraBoldOblique.ttf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/fonts\/FuturaStd-ExtraBoldOblique.ttf",
+		"oF": 0
+		},
+	"\/assets\/fonts\/FuturaStd-ExtraBoldOblique.woff": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/fonts\/FuturaStd-ExtraBoldOblique.woff",
 		"oF": 0
 		},
 	"\/assets\/icons\/symbol-defs.svg": {

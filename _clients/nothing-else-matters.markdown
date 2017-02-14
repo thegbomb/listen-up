@@ -1,10 +1,9 @@
 ---
 title: Nothing Else Matters
 categories:
-- radio
 - artist
 tags:
-- artist
+- labels
 position: 121
 facebook: https://www.facebook.com/nothingelsemattersNEM/
 layout: client

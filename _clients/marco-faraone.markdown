@@ -1,7 +1,6 @@
 ---
 title: Marco Faraone
 categories:
-- radio
 - artist
 tags:
 - artist

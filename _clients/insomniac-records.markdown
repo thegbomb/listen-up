@@ -1,8 +1,5 @@
 ---
 title: Insomniac Records
-categories:
-- radio
-- artist
 tags:
 - label
 position: 175

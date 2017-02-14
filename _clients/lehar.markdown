@@ -1,7 +1,6 @@
 ---
 title: Lehar
 categories:
-- radio
 - artist
 tags:
 - artist

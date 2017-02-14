@@ -2,6 +2,7 @@
 title: The Martinez Brothers
 categories:
 - artist
+- club
 tags:
 - artist
 position: 247

@@ -1,8 +1,7 @@
 ---
 title: Abode
 categories:
-- radio
-- artist
+- events
 tags:
 - label
 position: 275

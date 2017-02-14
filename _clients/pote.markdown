@@ -1,7 +1,6 @@
 ---
 title: Poté
 categories:
-- events
 - radio
 - artist
 tags:

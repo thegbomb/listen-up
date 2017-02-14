@@ -1,7 +1,7 @@
 ---
 title: Contact
 position: 4
-intro: Test intro
+intro: 'Please find details to get in touch with the relevant team below:'
 enquiries:
 - title: New Business
   text: We always enjoy meeting new people and building new relationships. At the
@@ -9,27 +9,18 @@ enquiries:
     approach is just as important as being creative. If you would like to know more
     about working with Listen Up or wish to find out more about our approach, please
     contact Tom on the email below.
-  contact: tom@listen-up.com
+  contact: info@listen-up.com
 - title: Careers
-  text: We’re growing and winning new clients. We want to hear from confident and
-    pro-active individuals with a passion for music and promotion. Duis mollis, est
-    non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit.
-    Integer posuere erat a ante venenatis dapibus posuere velit aliquet.
-  contact: careers@listen-up.com
-- title: Internships
-  text: 'Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac
-    cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet
-    risus. Nullam quis risus eget urna mollis ornare vel eu leo. Vivamus sagittis
-    lacus vel augue laoreet rutrum faucibus dolor auctor. Vestibulum id ligula porta
-    felis euismod semper. '
-  contact: hello@listen-up.com
-- title: Partnerships
-  text: Aenean lacinia bibendum nulla sed consectetur. Nullam quis risus eget urna
-    mollis ornare vel eu leo. Maecenas faucibus mollis interdum. Maecenas faucibus
-    mollis interdum. Aenean lacinia bibendum nulla sed consectetur. Nulla vitae elit
-    libero, a pharetra augue. Aenean eu leo quam. Pellentesque ornare sem lacinia
-    quam venenatis vestibulum.
-  contact: partners@listen-up.com
+  text: 'We’re growing and winning new clients. We want to hear from confident and
+    pro-active individuals with a passion for music and promotion. '
+  contact: recruitment@listen–up.biz
+- title: Operations
+  text: Our Operations department are the backbone of our business, providing essential
+    support and structure to all departments, allowing each team to get down to the
+    real business. Ranging from Human Resources to Finance, Executive support to Office
+    Management, our team provides a 360 internal support service that keep the cogs
+    turning.
+  contact: katherine@listen-up.biz
 layout: contact
 ---
 

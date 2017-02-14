@@ -1,7 +1,6 @@
 ---
 title: Jolan
 categories:
-- radio
 - artist
 tags:
 - artist

@@ -1,6 +1,6 @@
 ---
 title: Charlotte Wilson
-position: 12
+position: 11
 job-title: Senior Press Manager
 is-featured: true
 email: charlotte.wilson@listen-up.biz

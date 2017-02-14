@@ -2,6 +2,7 @@
 title: Alesso
 categories:
 - artist
+- radio
 tags:
 - artist
 position: 53

@@ -1,7 +1,6 @@
 ---
 title: Alison Wonderland
 categories:
-- radio
 - artist
 tags:
 - artist

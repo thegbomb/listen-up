@@ -1,6 +1,6 @@
 ---
 title: Dujon Fairweather
-position: 14
+position: 13
 job-title: Press Manager
 is-featured: true
 email: dujon.fairweather@listen-up.biz

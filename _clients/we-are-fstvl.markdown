@@ -1,8 +1,8 @@
 ---
 title: We Are FSTVL
 categories:
-- radio
 - events
+- radio
 tags:
 - festival
 position: 56

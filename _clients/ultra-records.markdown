@@ -1,8 +1,8 @@
 ---
 title: Ultra Records
 categories:
-- radio
 - artist
+- radio
 tags:
 - label
 position: 264

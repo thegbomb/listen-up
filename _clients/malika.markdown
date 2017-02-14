@@ -1,7 +1,6 @@
 ---
 title: Malika
 categories:
-- radio
 - artist
 tags:
 - artist

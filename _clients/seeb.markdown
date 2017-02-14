@@ -1,7 +1,6 @@
 ---
 title: Seeb
 categories:
-- radio
 - artist
 tags:
 - artist

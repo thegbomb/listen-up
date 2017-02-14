@@ -1,7 +1,6 @@
 ---
 title: Musical Freedom
 categories:
-- radio
 - artist
 tags:
 - label

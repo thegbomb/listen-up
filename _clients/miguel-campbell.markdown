@@ -1,7 +1,6 @@
 ---
 title: Miguel Campbell
 categories:
-- radio
 - artist
 tags:
 - artist

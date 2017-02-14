@@ -3,7 +3,7 @@ title: Grace McCracken
 position: 7
 image: "/uploads/team-004.jpg"
 job-title: Joint Head of Press
-is-featured: false
+is-featured: true
 email: grace.mccracken@listen-up.biz
 ---
 

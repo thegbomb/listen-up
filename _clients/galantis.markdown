@@ -1,7 +1,6 @@
 ---
 title: Galantis
 categories:
-- radio
 - artist
 tags:
 - artist

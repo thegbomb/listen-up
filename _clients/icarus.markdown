@@ -1,8 +1,8 @@
 ---
 title: Icarus
 categories:
-- radio
 - artist
+- club
 tags:
 - label
 position: 172

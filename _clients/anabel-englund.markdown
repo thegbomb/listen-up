@@ -1,7 +1,6 @@
 ---
 title: Anabel Englund
 categories:
-- radio
 - artist
 tags:
 - artist

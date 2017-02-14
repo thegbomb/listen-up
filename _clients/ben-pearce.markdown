@@ -1,7 +1,6 @@
 ---
 title: Ben Pearce
 categories:
-- radio
 - artist
 tags:
 - artist

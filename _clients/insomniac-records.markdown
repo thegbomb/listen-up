@@ -1,7 +1,6 @@
 ---
 title: Insomniac Records
 categories:
-- radio
 - artist
 tags:
 - label

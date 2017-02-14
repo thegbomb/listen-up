@@ -1,7 +1,6 @@
 ---
 title: Nathan Barato
 categories:
-- radio
 - artist
 tags:
 - artist

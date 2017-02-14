@@ -1,7 +1,6 @@
 ---
 title: CLMD
 categories:
-- radio
 - artist
 tags:
 - artist

@@ -1,7 +1,6 @@
 ---
 title: Diynamic
 categories:
-- radio
 - artist
 tags:
 - label

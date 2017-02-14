@@ -1,8 +1,8 @@
 ---
 title: The Martinez Brothers
 categories:
-- radio
 - artist
+- club
 tags:
 - artist
 position: 247

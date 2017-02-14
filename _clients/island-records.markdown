@@ -1,7 +1,6 @@
 ---
 title: Island Records
 categories:
-- radio
 - artist
 tags:
 - label

@@ -1,8 +1,5 @@
 ---
 title: AFTR HRS
-categories:
-- radio
-- artist
 tags:
 - label
 position: 35

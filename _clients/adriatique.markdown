@@ -1,7 +1,6 @@
 ---
 title: Adriatique
 categories:
-- radio
 - artist
 tags:
 - artist

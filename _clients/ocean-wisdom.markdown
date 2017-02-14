@@ -1,7 +1,6 @@
 ---
 title: Ocean Wisdom
 categories:
-- radio
 - artist
 tags:
 - artist

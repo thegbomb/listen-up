@@ -1,12 +1,11 @@
 ---
 title: Avicii
 categories:
-- radio
 - artist
 tags:
 - artist
 position: 44
-image: "/uploads/aviici.jpg"
+image: "/uploads/avicii.jpg"
 is-featured: true
 is-artist-featured: true
 website: http://www.avicii.com

@@ -1,7 +1,6 @@
 ---
 title: Porter Robinson
 categories:
-- radio
 - artist
 tags:
 - artist

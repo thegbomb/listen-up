@@ -2,7 +2,6 @@
 title: Warner Bros Records
 categories:
 - radio
-- artist
 tags:
 - label
 position: 268

@@ -1,7 +1,6 @@
 ---
 title: Black Coffee
 categories:
-- radio
 - artist
 tags:
 - artist

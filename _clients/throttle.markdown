@@ -1,10 +1,9 @@
 ---
 title: Throttle
 categories:
-- radio
 - artist
 tags:
-- festival
+- artist
 position: 251
 facebook: https://www.facebook.com/throttleofficial/
 layout: client

@@ -1,8 +1,6 @@
 ---
 title: PRMD Music
 categories:
-- events
-- radio
 - artist
 tags:
 - label

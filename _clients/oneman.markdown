@@ -1,7 +1,6 @@
 ---
 title: Oneman
 categories:
-- radio
 - artist
 tags:
 - artist

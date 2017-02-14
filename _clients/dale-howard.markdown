@@ -1,8 +1,8 @@
 ---
 title: Dale Howard
 categories:
-- radio
 - artist
+- club
 tags:
 - artist
 position: 22

@@ -1,7 +1,6 @@
 ---
 title: Cedric Gervais
 categories:
-- radio
 - artist
 tags:
 - artist

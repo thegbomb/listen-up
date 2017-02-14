@@ -1,7 +1,6 @@
 ---
 title: Axwell Λ Ingrosso
 categories:
-- radio
 - artist
 tags:
 - artist

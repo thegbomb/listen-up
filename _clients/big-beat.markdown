@@ -1,7 +1,6 @@
 ---
 title: Big Beat
 categories:
-- radio
 - artist
 tags:
 - label

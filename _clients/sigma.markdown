@@ -1,7 +1,6 @@
 ---
 title: Sigma
 categories:
-- radio
 - artist
 tags:
 - artist

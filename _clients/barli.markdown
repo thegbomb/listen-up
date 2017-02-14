@@ -1,10 +1,5 @@
 ---
 title: Barli
-categories:
-- radio
-- artist
-tags:
-- label
 position: 47
 facebook: https://www.facebook.com/iamBarli/
 twitter: https://twitter.com/iambarli

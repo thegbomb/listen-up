@@ -4,7 +4,7 @@ categories:
 - radio
 - artist
 tags:
-- label
+- artist
 position: 138
 facebook: https://www.facebook.com/mydigitalenemyofficial
 layout: client

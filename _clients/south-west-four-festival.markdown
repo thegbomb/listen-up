@@ -1,10 +1,9 @@
 ---
 title: South West Four Festival
 categories:
-- events
 - radio
 tags:
-- artist
+- festival
 position: 230
 image: "/uploads/sw4.jpg"
 is-featured: true

@@ -1,7 +1,6 @@
 ---
 title: The Magician
 categories:
-- radio
 - artist
 tags:
 - artist

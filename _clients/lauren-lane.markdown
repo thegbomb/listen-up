@@ -1,7 +1,6 @@
 ---
 title: Lauren Lane
 categories:
-- radio
 - artist
 tags:
 - artist

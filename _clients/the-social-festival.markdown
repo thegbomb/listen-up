@@ -2,7 +2,6 @@
 title: The Social Festival
 categories:
 - events
-- radio
 tags:
 - festival
 position: 250

@@ -1,7 +1,6 @@
 ---
 title: Kaz James
 categories:
-- radio
 - artist
 tags:
 - artist

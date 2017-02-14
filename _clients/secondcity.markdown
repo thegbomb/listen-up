@@ -1,7 +1,6 @@
 ---
 title: Secondcity
 categories:
-- radio
 - artist
 tags:
 - artist

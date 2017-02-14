@@ -1,9 +1,8 @@
 ---
 title: Emily Balkind
-position: 20
-image: 
+position: 17
 job-title: Press Manager, North America
-is-featured: false
+is-featured: true
 email: emily.balkind@listen-up.biz
 ---
 

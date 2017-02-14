@@ -1,7 +1,6 @@
 ---
 title: Shogun Audio
 categories:
-- radio
 - artist
 tags:
 - label

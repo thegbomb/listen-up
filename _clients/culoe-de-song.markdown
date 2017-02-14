@@ -1,7 +1,6 @@
 ---
 title: Culoe De Song
 categories:
-- radio
 - artist
 tags:
 - artist

@@ -1,7 +1,6 @@
 ---
 title: Generik
 categories:
-- radio
 - artist
 tags:
 - artist

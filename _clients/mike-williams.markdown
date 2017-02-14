@@ -1,7 +1,6 @@
 ---
 title: Mike Williams
 categories:
-- radio
 - artist
 tags:
 - artist

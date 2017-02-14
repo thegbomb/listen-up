@@ -1,9 +1,8 @@
 ---
 title: Joanna Gardner
 position: 9
-image: 
 job-title: Senior Press Manager
-is-featured: false
+is-featured: true
 email: joanna.gardner@listen-up.biz
 ---
 

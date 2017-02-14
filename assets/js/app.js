@@ -1,5 +1,6 @@
 $(document).foundation();
 
+/*
 $(document).ready(function() {
   $(".animsition").animsition({
     inClass: 'fade-in',
@@ -24,6 +25,7 @@ $(document).ready(function() {
     transition: function(url){ window.location.href = url; }
   });
 });
+*/
 
 $(function() {
   $('a[href*="#"]:not([href="#"])').click(function() {

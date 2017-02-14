@@ -1,7 +1,6 @@
 ---
 title: Philip George
 categories:
-- radio
 - artist
 tags:
 - artist

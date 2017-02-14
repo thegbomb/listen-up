@@ -1,7 +1,6 @@
 ---
 title: Attlas
 categories:
-- radio
 - artist
 tags:
 - artist

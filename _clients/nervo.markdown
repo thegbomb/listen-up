@@ -1,7 +1,6 @@
 ---
 title: Nervo
 categories:
-- radio
 - artist
 tags:
 - artist

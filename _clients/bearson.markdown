@@ -1,7 +1,6 @@
 ---
 title: Bearson
 categories:
-- radio
 - artist
 tags:
 - artist

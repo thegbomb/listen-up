@@ -1,7 +1,6 @@
 ---
 title: Erick Morillo
 categories:
-- radio
 - artist
 tags:
 - artist

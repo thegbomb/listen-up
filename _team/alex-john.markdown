@@ -1,9 +1,8 @@
 ---
 title: Alex John
-position: 18
-image: 
+position: 20
 job-title: Press Manager, North America
-is-featured: false
+is-featured: true
 email: alex.john@listen-up.biz
 ---
 

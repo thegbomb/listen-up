@@ -1,7 +1,6 @@
 ---
 title: Steve Angello
 categories:
-- radio
 - artist
 tags:
 - artist

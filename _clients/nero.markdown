@@ -1,7 +1,6 @@
 ---
 title: Nero
 categories:
-- radio
 - artist
 tags:
 - artist

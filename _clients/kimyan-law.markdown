@@ -1,7 +1,6 @@
 ---
 title: Kimyan Law
 categories:
-- radio
 - artist
 tags:
 - artist

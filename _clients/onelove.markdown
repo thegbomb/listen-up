@@ -1,8 +1,6 @@
 ---
 title: Onelove
 categories:
-- events
-- radio
 - artist
 tags:
 - label

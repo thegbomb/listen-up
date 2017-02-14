@@ -1,7 +1,6 @@
 ---
 title: Cages
 categories:
-- radio
 - artist
 tags:
 - artist

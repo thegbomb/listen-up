@@ -1,7 +1,6 @@
 ---
 title: Sonny Alven
 categories:
-- radio
 - artist
 tags:
 - artist

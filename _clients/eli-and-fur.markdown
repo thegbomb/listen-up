@@ -1,8 +1,8 @@
 ---
 title: Eli and Fur
 categories:
-- radio
 - artist
+- club
 tags:
 - artist
 position: 27

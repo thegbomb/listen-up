@@ -1,7 +1,6 @@
 ---
 title: Elderbrook
 categories:
-- radio
 - artist
 tags:
 - artist

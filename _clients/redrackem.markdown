@@ -1,8 +1,8 @@
 ---
 title: Red Rack'em
 categories:
-- radio
 - artist
+- club
 tags:
 - artist
 position: 205

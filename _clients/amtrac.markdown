@@ -1,8 +1,8 @@
 ---
 title: Amtrac
 categories:
-- radio
 - artist
+- club
 tags:
 - artist
 position: 60

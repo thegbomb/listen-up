@@ -1,13 +1,13 @@
 ---
 title: A-Trak
 categories:
-- radio
 - artist
 tags:
 - artist
 position: 2
 image: "/uploads/atrak.jpg"
-is-front: true
+is-featured: false
+is-front: false
 website: http://atrak.com
 facebook: https://www.facebook.com/atrak
 twitter: https://twitter.com/atrak

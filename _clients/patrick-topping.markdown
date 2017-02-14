@@ -1,7 +1,7 @@
 ---
 title: Patrick Topping
 categories:
-- events
+- artist
 tags:
 - artist
 position: 277

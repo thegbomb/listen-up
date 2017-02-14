@@ -1,10 +1,9 @@
 ---
 title: DJ Fresh
 categories:
-- radio
 - artist
 tags:
-- label
+- artist
 position: 88
 website: http://thedjfresh.com
 facebook: http://www.facebook.com/djfresh

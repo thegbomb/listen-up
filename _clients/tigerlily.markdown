@@ -1,7 +1,6 @@
 ---
 title: Tigerlily
 categories:
-- radio
 - artist
 tags:
 - artist

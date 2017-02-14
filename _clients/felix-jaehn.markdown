@@ -1,7 +1,6 @@
 ---
 title: Felix Jaehn
 categories:
-- radio
 - artist
 tags:
 - artist

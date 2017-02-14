@@ -1,9 +1,8 @@
 ---
 title: Cecilia Doreng-Stearns
 position: 4
-image: 
 job-title: Head of Press, North America
-is-featured: false
+is-featured: true
 email: alex.john@listen-up.biz
 ---
 

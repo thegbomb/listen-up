@@ -1,7 +1,6 @@
 ---
 title: Petit Biscuit
 categories:
-- radio
 - artist
 tags:
 - artist

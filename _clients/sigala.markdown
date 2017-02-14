@@ -2,7 +2,6 @@
 title: Sigala
 categories:
 - radio
-- artist
 tags:
 - artist
 position: 220

@@ -1,7 +1,6 @@
 ---
 title: Zedd
 categories:
-- radio
 - artist
 tags:
 - artist

@@ -1,7 +1,6 @@
 ---
 title: Nicole Moudaber
 categories:
-- radio
 - artist
 tags:
 - artist

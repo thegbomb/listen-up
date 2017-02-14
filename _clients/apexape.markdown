@@ -1,7 +1,6 @@
 ---
 title: Apexape
 categories:
-- radio
 - artist
 tags:
 - artist

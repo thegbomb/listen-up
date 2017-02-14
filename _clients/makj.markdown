@@ -1,7 +1,6 @@
 ---
 title: MAKJ
 categories:
-- radio
 - artist
 tags:
 - artist

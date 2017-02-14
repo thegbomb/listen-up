@@ -7,6 +7,8 @@ tags:
 - label
 position: 4
 image: "/uploads/universal.jpg"
+is-featured: true
+is-front: true
 is-artist-featured: true
 ---
 

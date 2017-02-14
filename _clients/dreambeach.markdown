@@ -1,10 +1,9 @@
 ---
 title: Dreambeach
 categories:
-- radio
-- artist
+- events
 tags:
-- label
+- venue
 position: 86
 website: http://www.dreambeach.es
 facebook: https://www.facebook.com/DreambeachFestVillaricos

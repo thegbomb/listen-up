@@ -1,10 +1,9 @@
 ---
 title: Ilario Alicante
 categories:
-- radio
 - artist
 tags:
-- label
+- artist
 position: 173
 facebook: https://www.facebook.com/ILARIOALICANTEOFFICIAL/
 layout: client

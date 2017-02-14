@@ -1,7 +1,6 @@
 ---
 title: Loco Dice
 categories:
-- radio
 - artist
 tags:
 - artist

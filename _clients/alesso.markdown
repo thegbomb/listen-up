@@ -2,11 +2,13 @@
 title: Alesso
 categories:
 - artist
+- radio
 tags:
 - artist
 position: 53
 image: "/uploads/alesso.jpg"
-is-front: true
+is-featured: false
+is-front: false
 website: http://www.alessoworld.com
 facebook: https://www.facebook.com/AlessoOfficial/
 twitter: https://twitter.com/Alesso

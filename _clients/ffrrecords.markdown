@@ -1,7 +1,7 @@
 ---
 title: FFR Recordings
 categories:
-- radio
+- club
 - artist
 tags:
 - label

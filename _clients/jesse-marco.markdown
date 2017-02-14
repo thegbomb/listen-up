@@ -1,7 +1,6 @@
 ---
 title: Jesse Marco
 categories:
-- radio
 - artist
 tags:
 - artist

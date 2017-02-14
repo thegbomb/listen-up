@@ -1,7 +1,6 @@
 ---
 title: Bobby Green
 categories:
-- radio
 - artist
 tags:
 - artist

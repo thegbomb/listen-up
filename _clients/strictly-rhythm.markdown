@@ -1,8 +1,7 @@
 ---
 title: Strictly Rhythm
 categories:
-- radio
-- artist
+- club
 tags:
 - label
 position: 234

@@ -1,7 +1,7 @@
 ---
 title: Martin Buttrich
 categories:
-- radio
+- club
 - artist
 tags:
 - artist

@@ -1,8 +1,7 @@
 ---
 title: Elrow
 categories:
-- radio
-- artist
+- events
 tags:
 - festival
 position: 28

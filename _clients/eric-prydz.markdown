@@ -1,7 +1,6 @@
 ---
 title: Eric Prydz
 categories:
-- radio
 - artist
 tags:
 - artist

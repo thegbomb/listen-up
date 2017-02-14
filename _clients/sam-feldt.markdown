@@ -1,14 +1,13 @@
 ---
 title: Sam Feldt
 categories:
-- radio
 - artist
 tags:
 - artist
 position: 95
 image: "/uploads/sam-feldt.jpg"
 is-featured: true
-is-front: true
+is-front: false
 website: http://www.samfeldt.com
 facebook: https://www.facebook.com/officialsamfeldt
 twitter: http://www.twitter.com/samfeldtmusic

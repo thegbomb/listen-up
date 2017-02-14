@@ -1,7 +1,6 @@
 ---
 title: Route 94
 categories:
-- radio
 - artist
 tags:
 - artist

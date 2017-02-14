@@ -1,7 +1,6 @@
 ---
 title: Booka Shade
 categories:
-- radio
 - artist
 tags:
 - artist

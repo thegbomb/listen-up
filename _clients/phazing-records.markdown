@@ -1,7 +1,6 @@
 ---
 title: Phazing Records
 categories:
-- radio
 - artist
 tags:
 - label

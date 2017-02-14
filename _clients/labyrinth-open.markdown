@@ -2,7 +2,6 @@
 title: Labyrinth Open
 categories:
 - events
-- artist
 tags:
 - festival
 position: 144

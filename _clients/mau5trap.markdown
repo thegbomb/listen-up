@@ -1,10 +1,9 @@
 ---
 title: mau5trap
 categories:
-- radio
 - artist
 tags:
-- artist
+- label
 position: 107
 facebook: https://www.facebook.com/mau5trap/
 layout: client

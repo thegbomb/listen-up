@@ -1,7 +1,6 @@
 ---
 title: Steve Lawler
 categories:
-- radio
 - artist
 tags:
 - artist

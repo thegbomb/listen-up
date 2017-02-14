@@ -1,8 +1,8 @@
 ---
 title: Paradise
 categories:
-- artist
 - digital
+- events
 tags:
 - venue
 position: 132

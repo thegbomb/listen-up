@@ -1,8 +1,8 @@
 ---
 title: Positiva Records
 categories:
-- radio
 - artist
+- radio
 tags:
 - label
 position: 147

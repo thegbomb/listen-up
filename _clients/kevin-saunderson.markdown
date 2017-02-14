@@ -1,7 +1,6 @@
 ---
 title: Kevin Saunderson
 categories:
-- radio
 - artist
 tags:
 - artist

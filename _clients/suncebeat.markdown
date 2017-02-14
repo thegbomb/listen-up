@@ -3,7 +3,7 @@ title: SUNcéBeat
 categories:
 - events
 tags:
-- artist
+- festival
 position: 238
 website: http://suncebeat.com/
 layout: client

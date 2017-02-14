@@ -1,7 +1,6 @@
 ---
 title: Alan Walker
 categories:
-- radio
 - artist
 tags:
 - artist

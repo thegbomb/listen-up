@@ -1,7 +1,6 @@
 ---
 title: Spinnin' Records
 categories:
-- radio
 - artist
 tags:
 - label

@@ -1,8 +1,7 @@
 ---
 title: Illuminations Festival
 categories:
-- radio
-- artist
+- events
 tags:
 - festival
 position: 174

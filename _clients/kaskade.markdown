@@ -1,7 +1,6 @@
 ---
 title: Kaskade
 categories:
-- radio
 - artist
 tags:
 - artist

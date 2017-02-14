@@ -1,7 +1,6 @@
 ---
 title: Branchez
 categories:
-- radio
 - artist
 tags:
 - artist

@@ -1,8 +1,8 @@
 ---
 title: Guy Gerber
 categories:
-- radio
 - artist
+- club
 tags:
 - artist
 position: 167

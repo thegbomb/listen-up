@@ -1,7 +1,6 @@
 ---
 title: Pleasure State
 categories:
-- radio
 - artist
 tags:
 - artist

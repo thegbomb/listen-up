@@ -1,7 +1,6 @@
 ---
 title: The Black Madonna
 categories:
-- radio
 - artist
 tags:
 - artist

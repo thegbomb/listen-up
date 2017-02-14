@@ -1,7 +1,6 @@
 ---
 title: Klingande
 categories:
-- radio
 - artist
 tags:
 - artist

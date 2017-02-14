@@ -6,6 +6,9 @@ categories:
 tags:
 - artist
 position: 38
+image: "/uploads/andrea.jpg"
+is-front: true
+is-radio-featured: true
 website: https://www.andreaolivamusic.com
 facebook: http://www.facebook.com/andreaolivaofficial
 twitter: http://www.twitter.com/andreaoliva1

@@ -2,6 +2,7 @@
 title: Disciples
 categories:
 - artist
+- radio
 tags:
 - artist
 position: 18

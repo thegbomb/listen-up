@@ -1,7 +1,6 @@
 ---
 title: Refune
 categories:
-- radio
 - artist
 tags:
 - label

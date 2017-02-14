@@ -1,7 +1,6 @@
 ---
 title: Eelke Kleijn
 categories:
-- radio
 - artist
 tags:
 - artist

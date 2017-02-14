@@ -1,7 +1,6 @@
 ---
 title: Nastia
 categories:
-- radio
 - artist
 tags:
 - artist

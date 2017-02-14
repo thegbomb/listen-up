@@ -1,8 +1,7 @@
 ---
 title: FFR Recordings
 categories:
-- radio
-- artist
+- club
 tags:
 - label
 position: 158

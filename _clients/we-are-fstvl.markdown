@@ -10,7 +10,7 @@ image: "/uploads/fstvl.jpg"
 is-featured: true
 is-events-featured: true
 is-radio-featured: true
-is-artist-featured: true
+is-artist-featured: false
 facebook: https://www.facebook.com/wearefstvl
 layout: client
 ---

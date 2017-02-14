@@ -1,8 +1,7 @@
 ---
 title: Lock and Load Events
 categories:
-- radio
-- artist
+- events
 tags:
 - festival
 position: 116

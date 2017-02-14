@@ -1,7 +1,6 @@
 ---
 title: Knife Party
 categories:
-- radio
 - artist
 tags:
 - artist

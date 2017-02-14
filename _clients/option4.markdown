@@ -1,7 +1,6 @@
 ---
 title: option4
 categories:
-- radio
 - artist
 tags:
 - label

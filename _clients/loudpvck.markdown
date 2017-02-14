@@ -1,7 +1,6 @@
 ---
 title: LOUDPVCK
 categories:
-- radio
 - artist
 tags:
 - artist

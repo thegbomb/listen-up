@@ -1,7 +1,6 @@
 ---
 title: Sven Väth
 categories:
-- radio
 - artist
 tags:
 - artist

@@ -1,7 +1,6 @@
 ---
 title: René LaVice
 categories:
-- radio
 - artist
 tags:
 - artist

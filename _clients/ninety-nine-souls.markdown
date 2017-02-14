@@ -1,7 +1,6 @@
 ---
 title: 99 Souls
 categories:
-- radio
 - artist
 tags:
 - artist

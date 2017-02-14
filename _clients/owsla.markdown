@@ -1,7 +1,6 @@
 ---
 title: OWSLA
 categories:
-- radio
 - artist
 tags:
 - label

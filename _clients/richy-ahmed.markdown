@@ -1,7 +1,6 @@
 ---
 title: Richy Ahmed
 categories:
-- radio
 - artist
 tags:
 - artist

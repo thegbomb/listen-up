@@ -1,7 +1,6 @@
 ---
 title: Marc Romboy
 categories:
-- radio
 - artist
 tags:
 - artist

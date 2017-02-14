@@ -1,9 +1,8 @@
 ---
 title: Leanne Allen
-position: 19
-image: 
+position: 20
 job-title: Event Press Coordinator
-is-featured: false
+is-featured: true
 email: alex.john@listen-up.biz
 ---
 

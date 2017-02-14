@@ -1,9 +1,8 @@
 ---
 title: Jessica Goodchild
 position: 10
-image: 
 job-title: Senior Press Manager
-is-featured: false
+is-featured: true
 email: jessica.goodchild@listen-up.biz
 ---
 

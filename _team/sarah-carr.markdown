@@ -1,9 +1,8 @@
 ---
 title: Sarah Carr
 position: 29
-image: 
 job-title: HR & Accounts Assistant
-is-featured: false
+is-featured: true
 email: sarah.carr@listen-up.biz
 ---
 

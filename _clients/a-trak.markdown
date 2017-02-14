@@ -3,6 +3,7 @@ title: A-Trak
 categories:
 - radio
 - artist
+- club
 tags:
 - artist
 position: 2

@@ -1,9 +1,8 @@
 ---
 title: Joey Pettit
 position: 28
-image: 
 job-title: Executive Assistant
-is-featured: false
+is-featured: true
 email: joey.pettit@listen-up.biz
 ---
 

@@ -1,9 +1,8 @@
 ---
 title: Carina Low
 position: 12
-image: 
 job-title: Senior Events Press Manager
-is-featured: false
+is-featured: true
 email: carina.low@listen-up.biz
 ---
 

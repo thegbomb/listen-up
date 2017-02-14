@@ -1,9 +1,8 @@
 ---
 title: Abril Amélie
 position: 21
-image: 
 job-title: Press Coordinator, North America
-is-featured: false
+is-featured: true
 email: abril.amelie@listen-up.biz
 ---
 

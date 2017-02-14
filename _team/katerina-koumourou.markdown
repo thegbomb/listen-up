@@ -1,9 +1,8 @@
 ---
 title: Katerina Koumourou
-position: 16
-image: 
+position: 17
 job-title: Press Manager
-is-featured: false
+is-featured: true
 email: katerina.koumourou@listen-up.biz
 ---
 

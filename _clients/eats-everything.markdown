@@ -1,7 +1,6 @@
 ---
 title: Eats Everything
 categories:
-- radio
 - artist
 tags:
 - artist

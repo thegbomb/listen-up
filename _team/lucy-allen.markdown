@@ -1,9 +1,8 @@
 ---
 title: Lucy Allen
 position: 5
-image: 
 job-title: Head of Festival & Events Press
-is-featured: false
+is-featured: true
 email: lucy.allen@listen-up.biz
 ---
 

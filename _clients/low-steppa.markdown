@@ -1,7 +1,6 @@
 ---
 title: Low Steppa
 categories:
-- radio
 - artist
 tags:
 - artist

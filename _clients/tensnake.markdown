@@ -6,6 +6,7 @@ categories:
 tags:
 - artist
 image: "/uploads/tensnake.jpg"
+is-club-featured: true
 facebook: https://www.facebook.com/tensnake/
 ---
 

@@ -9,6 +9,7 @@ tags:
 position: 5
 image: "/uploads/wiley.jpg"
 is-featured: true
+is-front: true
 is-artist-featured: true
 ---
 

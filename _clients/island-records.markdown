@@ -1,8 +1,5 @@
 ---
 title: Island Records
-categories:
-- radio
-- artist
 tags:
 - label
 position: 176

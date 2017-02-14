@@ -1,10 +1,9 @@
 ---
 title: Housekeeping
 categories:
-- radio
-- artist
+- events
 tags:
-- artist
+- venue
 position: 170
 facebook: https://www.facebook.com/Housekeepinglondon/
 layout: client

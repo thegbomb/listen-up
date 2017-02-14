@@ -1,7 +1,6 @@
 ---
 title: Stimming
 categories:
-- radio
 - artist
 tags:
 - artist

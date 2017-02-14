@@ -1,10 +1,9 @@
 ---
 title: Es Vive
 categories:
-- radio
-- artist
+- events
 tags:
-- artist
+- venue
 position: 31
 facebook: https://www.facebook.com/esvive
 layout: client

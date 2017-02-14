@@ -1,7 +1,6 @@
 ---
 title: RAM Records
 categories:
-- radio
 - artist
 tags:
 - label

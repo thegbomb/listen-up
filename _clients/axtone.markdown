@@ -1,8 +1,5 @@
 ---
 title: Axtone
-categories:
-- radio
-- artist
 tags:
 - label
 position: 45

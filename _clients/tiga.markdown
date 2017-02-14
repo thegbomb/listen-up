@@ -2,7 +2,6 @@
 title: Tiga
 categories:
 - radio
-- artist
 tags:
 - artist
 position: 253

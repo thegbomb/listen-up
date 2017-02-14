@@ -1,7 +1,6 @@
 ---
 title: David Squillace
 categories:
-- radio
 - artist
 tags:
 - artist

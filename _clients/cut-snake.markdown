@@ -1,7 +1,6 @@
 ---
 title: Cut Snake
 categories:
-- radio
 - artist
 tags:
 - artist

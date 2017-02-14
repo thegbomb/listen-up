@@ -1,6 +1,6 @@
 ---
 title: Tommy Horner
-position: 23
+position: 24
 job-title: Events Project Coordinator
 is-featured: true
 email: tommy.horner@listen-up.biz

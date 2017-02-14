@@ -1,6 +1,6 @@
 ---
 title: James Paterson
-position: 8
+position: 9
 job-title: Head of National Radio
 is-featured: true
 email: james.paterson@listen-up.biz

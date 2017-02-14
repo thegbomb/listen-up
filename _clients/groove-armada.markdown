@@ -1,7 +1,6 @@
 ---
 title: Groove Armada
 categories:
-- radio
 - artist
 tags:
 - artist

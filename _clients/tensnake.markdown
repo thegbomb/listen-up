@@ -5,5 +5,7 @@ categories:
 - club
 tags:
 - artist
+image: "/uploads/tensnake.jpg"
+facebook: https://www.facebook.com/tensnake/
 ---
 

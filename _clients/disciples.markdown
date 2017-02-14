@@ -1,7 +1,6 @@
 ---
 title: Disciples
 categories:
-- radio
 - artist
 tags:
 - artist

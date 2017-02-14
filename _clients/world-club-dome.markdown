@@ -1,8 +1,7 @@
 ---
 title: World Club Dome
 categories:
-- radio
-- artist
+- events
 tags:
 - venue
 position: 270

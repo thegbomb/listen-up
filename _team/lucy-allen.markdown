@@ -1,6 +1,6 @@
 ---
 title: Lucy Allen
-position: 5
+position: 6
 image: 
 job-title: Head of Festival & Events Press
 is-featured: false

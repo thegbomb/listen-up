@@ -5,6 +5,8 @@ categories:
 tags:
 - artist
 position: 151
+image: "/uploads/eats.jpg"
+is-front: true
 website: https://eatseverything.com
 facebook: https://www.facebook.com/MrEatsEverything
 twitter: https://twitter.com/eats_everything

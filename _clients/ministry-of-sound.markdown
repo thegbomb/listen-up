@@ -4,6 +4,7 @@ categories:
 - club
 - radio
 - events
+- artist
 tags:
 - label
 position: 280

@@ -2,6 +2,7 @@
 title: MK
 categories:
 - artist
+- radio
 tags:
 - artist
 position: 197

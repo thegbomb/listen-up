@@ -1,5 +1,7 @@
 ---
 title: mau5trap
+categories:
+- artist
 tags:
 - label
 position: 107

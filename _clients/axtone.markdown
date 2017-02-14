@@ -1,5 +1,7 @@
 ---
 title: Axtone
+categories:
+- artist
 tags:
 - label
 position: 45

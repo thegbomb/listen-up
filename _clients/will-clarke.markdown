@@ -1,7 +1,6 @@
 ---
 title: Will Clarke
 categories:
-- radio
 - artist
 tags:
 - artist

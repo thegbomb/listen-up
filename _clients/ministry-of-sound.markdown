@@ -1,7 +1,9 @@
 ---
 title: Ministry of Sound
 categories:
-- artist
+- club
+- radio
+- events
 tags:
 - label
 position: 280

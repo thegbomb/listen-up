@@ -1,7 +1,6 @@
 ---
 title: Simon On The Moon
 categories:
-- radio
 - artist
 tags:
 - artist

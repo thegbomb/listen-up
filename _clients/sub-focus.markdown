@@ -1,7 +1,7 @@
 ---
 title: Subfocus
 categories:
-- radio
+- artist
 tags:
 - artist
 position: 278
@@ -9,12 +9,6 @@ image: "/uploads/subfocus.jpg"
 is-featured: true
 is-front: true
 facebook: https://www.facebook.com/subfocus/
-twitter: 
-instagram: 
-spotify: 
-soundcloud: 
-youtube: 
-apple: 
 deezer: 
 layout: client
 ---

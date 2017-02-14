@@ -1,7 +1,6 @@
 ---
 title: Dirty South
 categories:
-- radio
 - artist
 tags:
 - artist

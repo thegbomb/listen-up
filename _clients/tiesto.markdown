@@ -2,6 +2,7 @@
 title: Tiësto
 categories:
 - artist
+- radio
 tags:
 - artist
 position: 252

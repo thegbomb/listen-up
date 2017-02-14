@@ -1,7 +1,6 @@
 ---
 title: The Martinez Brothers
 categories:
-- radio
 - artist
 tags:
 - artist

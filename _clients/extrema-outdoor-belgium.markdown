@@ -1,8 +1,7 @@
 ---
 title: Extrema Outdoor Belgium
 categories:
-- radio
-- artist
+- events
 tags:
 - festival
 position: 32

@@ -1,7 +1,6 @@
 ---
 title: Kungs
 categories:
-- radio
 - artist
 tags:
 - artist

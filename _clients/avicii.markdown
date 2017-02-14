@@ -1,7 +1,6 @@
 ---
 title: Avicii
 categories:
-- radio
 - artist
 tags:
 - artist

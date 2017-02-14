@@ -1,7 +1,6 @@
 ---
 title: Bearcubs
 categories:
-- radio
 - artist
 tags:
 - artist

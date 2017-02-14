@@ -1,7 +1,6 @@
 ---
 title: Amine Edge & DANCE
 categories:
-- radio
 - artist
 tags:
 - artist

@@ -5,5 +5,6 @@ categories:
 - radio
 tags:
 - artist
+is-front: true
 ---
 

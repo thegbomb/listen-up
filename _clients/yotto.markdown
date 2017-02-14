@@ -1,7 +1,6 @@
 ---
 title: YOTTO
 categories:
-- radio
 - artist
 tags:
 - artist

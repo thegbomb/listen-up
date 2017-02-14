@@ -1,7 +1,6 @@
 ---
 title: Blonde
 categories:
-- radio
 - artist
 tags:
 - artist

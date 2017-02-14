@@ -1,7 +1,6 @@
 ---
-title: Ducksauce
+title: Duck Sauce
 categories:
-- radio
 - artist
 tags:
 - artist

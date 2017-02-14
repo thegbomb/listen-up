@@ -1,7 +1,6 @@
 ---
 title: Chocolate Puma
 categories:
-- radio
 - artist
 tags:
 - artist

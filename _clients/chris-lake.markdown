@@ -1,7 +1,6 @@
 ---
 title: Chris Lake
 categories:
-- radio
 - artist
 tags:
 - artist

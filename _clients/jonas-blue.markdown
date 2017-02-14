@@ -1,7 +1,6 @@
 ---
 title: Jonas Blue
 categories:
-- radio
 - artist
 tags:
 - artist

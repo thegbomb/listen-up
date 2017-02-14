@@ -1,7 +1,6 @@
 ---
 title: Snakehips
 categories:
-- radio
 - artist
 tags:
 - artist

@@ -1,7 +1,6 @@
 ---
 title: Size Records
 categories:
-- radio
 - artist
 tags:
 - label

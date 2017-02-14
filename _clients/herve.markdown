@@ -1,7 +1,6 @@
 ---
 title: Hervé
 categories:
-- radio
 - artist
 tags:
 - artist

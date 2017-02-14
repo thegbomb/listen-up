@@ -1,7 +1,6 @@
 ---
 title: Marcel Dettmann
 categories:
-- radio
 - artist
 tags:
 - artist

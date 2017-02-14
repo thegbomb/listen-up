@@ -1,7 +1,6 @@
 ---
 title: Lewis Del Mar
 categories:
-- radio
 - artist
 tags:
 - artist

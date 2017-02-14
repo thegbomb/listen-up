@@ -1,7 +1,6 @@
 ---
 title: Ilario Alicante
 categories:
-- radio
 - artist
 tags:
 - label

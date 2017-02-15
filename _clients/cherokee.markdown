@@ -1,7 +1,6 @@
 ---
 title: Cherokee
 categories:
-- radio
 - artist
 tags:
 - artist

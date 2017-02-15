@@ -1,7 +1,6 @@
 ---
 title: Kölsch
 categories:
-- radio
 - artist
 tags:
 - artist

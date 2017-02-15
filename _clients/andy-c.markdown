@@ -1,7 +1,6 @@
 ---
 title: Andy C
 categories:
-- radio
 - artist
 tags:
 - artist

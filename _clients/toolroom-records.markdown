@@ -1,7 +1,6 @@
 ---
 title: Toolroom Records
 categories:
-- radio
 - artist
 tags:
 - artist

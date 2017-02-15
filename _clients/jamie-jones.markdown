@@ -1,7 +1,6 @@
 ---
 title: Jamie Jones
 categories:
-- radio
 - artist
 - digital
 tags:
@@ -10,8 +9,8 @@ position: 7
 image: "/uploads/jamie-jones.jpg"
 is-featured: true
 is-front: true
-is-artist-featured: true
 is-digital-featured: true
+is-artist-featured: true
 website: http://hotcreations.com
 facebook: https://www.facebook.com/jamiejonesmusic/
 twitter: https://twitter.com/JamieJonesMusic

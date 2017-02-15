@@ -1,7 +1,6 @@
 ---
 title: Pezzner
 categories:
-- radio
 - artist
 tags:
 - artist

@@ -2,6 +2,7 @@
 title: Andrea Oliva
 categories:
 - artist
+- club
 tags:
 - artist
 position: 38

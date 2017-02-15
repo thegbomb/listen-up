@@ -27,11 +27,11 @@ layout: default
 
 <!-- Clients -->
 <section class="index__clients">
-  <div class="flexslider">
+  <div class="flexslider" data-item="3">
     <ul class="slides">
     {% assign clients = site.clients | sort: 'position' | where: "is-front", "true" %}
     {% for client in clients %}
-      <li>
+      <li class="item">
       {% include client-slide.html %}
       </li>
     {% endfor %}

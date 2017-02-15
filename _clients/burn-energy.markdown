@@ -7,5 +7,6 @@ tags:
 - venue
 image: "/uploads/burn.jpg"
 is-events-featured: true
+is-front: true
 ---
 

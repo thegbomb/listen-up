@@ -1,51 +1,35 @@
-  <link rel="stylesheet" href="/assets/flexslider/flexslider.css" type="text/css" media="screen" />
-  <!-- jQuery -->
-  <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js"></script>
-  <script>window.jQuery || document.write('<script src="js/libs/jquery-1.7.min.js">\x3C/script>')</script>
+<link rel="stylesheet" href="/assets/flexslider/flexslider.css" type="text/css" media="screen" />
+<!-- jQuery -->
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="js/libs/jquery-1.7.min.js">\x3C/script>')</script>
 
-  <!-- FlexSlider -->
-  <script defer src="/assets/flexslider/jquery.flexslider.js"></script>
-  <script type="text/javascript">
+<!-- FlexSlider -->
+<script defer src="/assets/flexslider/jquery.flexslider.js"></script>
+<script type="text/javascript">
+var fs = $('.flexslider'),
+    dataItem = fs.data('item'),
+    item = fs.find('.item');
 
-    (function() {
+// Wrap divs
+for (var i = 0; i < item.length; i+=dataItem) {
+  item.slice(i, i+dataItem).wrapAll('<div class="items"></div>');
+}
 
-      // store the slider in a local variable
-      var $window = $(window),
-          flexslider = { vars:{} };
-
-      // tiny helper function to add breakpoints
-      function getGridSize() {
-        return (window.innerWidth < 600) ? 1 :
-               (window.innerWidth < 900) ? 2 : 3;
-      }
-
-      $(function() {
-        SyntaxHighlighter.all();
-      });
-
-      $window.load(function() {
-        $('.flexslider').flexslider({
-          animation: "slide",
-          animationSpeed: 200,
-          animationLoop: true,
-          itemWidth: 210,
-          itemMargin: 5,
-          minItems: getGridSize(), // use function to pull in initial value
-          maxItems: getGridSize(), // use function to pull in initial value
-          start: function(slider){
-            $('body').removeClass('loading');
-            flexslider = slider;
-          }
-        });
-      });
-
-      // check grid size on resize event
-      $window.resize(function() {
-        var gridSize = getGridSize();
-
-        flexslider.vars.minItems = gridSize;
-        flexslider.vars.maxItems = gridSize;
-      });
-    }());
-
-  </script>
+// Initialize flexslider
+$(window).load(function() {
+  fs.flexslider({
+    selector: '.slides > .items',
+    animation: "slide",
+    animationSpeed: 200,
+    animationLoop: true,
+    controlNav: false,
+    directionNav: false,
+    smoothHeight: true,
+    itemMargin: 5,
+    itemWidth: 450,
+    minItems: 3,
+    maxItems: 3,
+    randomize: true,
+  });
+});
+</script>

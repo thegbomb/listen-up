@@ -8,6 +8,7 @@ position: 8
 image: "/uploads/deadmau5.jpg"
 is-featured: true
 is-artist-featured: true
+is-front: true
 website: http://live.deadmau5.com
 facebook: https://www.facebook.com/deadmau5
 twitter: https://twitter.com/deadmau5

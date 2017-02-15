@@ -11,6 +11,7 @@ position: 280
 image: "/uploads/ministry.jpg"
 is-featured: true
 is-artist-featured: true
+is-front: true
 layout: client
 ---
 

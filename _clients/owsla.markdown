@@ -2,6 +2,7 @@
 title: OWSLA
 categories:
 - artist
+- radio
 tags:
 - label
 position: 122

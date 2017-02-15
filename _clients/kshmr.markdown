@@ -1,7 +1,6 @@
 ---
 title: KSHMR
 categories:
-- radio
 - artist
 tags:
 - artist

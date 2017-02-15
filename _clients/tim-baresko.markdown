@@ -1,7 +1,6 @@
 ---
 title: Tim Baresko
 categories:
-- radio
 - artist
 tags:
 - artist

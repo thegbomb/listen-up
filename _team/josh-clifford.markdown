@@ -1,6 +1,6 @@
 ---
 title: Josh Clifford
-position: 23
+position: 22
 job-title: Radio Promotions Manager
 is-featured: true
 email: josh.clifford@listen-up.biz

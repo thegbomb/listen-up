@@ -1,7 +1,6 @@
 ---
 title: George FitzGerald
 categories:
-- radio
 - artist
 tags:
 - artist

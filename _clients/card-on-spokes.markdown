@@ -1,7 +1,6 @@
 ---
 title: Card on Spokes
 categories:
-- radio
 - artist
 tags:
 - artist

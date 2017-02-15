@@ -1,7 +1,6 @@
 ---
 title: Franky Rizardo
 categories:
-- radio
 - artist
 tags:
 - artist

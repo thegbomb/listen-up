@@ -1,7 +1,6 @@
 ---
 title: Lewis Jimenez
 categories:
-- radio
 - artist
 tags:
 - artist

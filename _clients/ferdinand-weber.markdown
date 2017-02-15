@@ -1,7 +1,6 @@
 ---
 title: Ferdinand Weber
 categories:
-- radio
 - artist
 tags:
 - artist

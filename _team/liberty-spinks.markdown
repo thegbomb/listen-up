@@ -1,6 +1,6 @@
 ---
 title: Liberty Spinks
-position: 18
+position: 17
 job-title: Events Press Manager
 is-featured: true
 email: liberty.spinks@listen-up.biz

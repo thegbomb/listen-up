@@ -1,6 +1,6 @@
 ---
 title: Ben Friedlander
-position: 12
+position: 13
 job-title: Press Manager, North America
 is-featured: true
 email: ben.friedlander@listen-up.biz

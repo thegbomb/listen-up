@@ -1,7 +1,6 @@
 ---
 title: Kevin McKay
 categories:
-- radio
 - artist
 tags:
 - artist

@@ -2,6 +2,7 @@
 title: Erick Morillo
 categories:
 - artist
+- club
 tags:
 - artist
 position: 30

@@ -1,7 +1,6 @@
 ---
 title: Moguai
 categories:
-- radio
 - artist
 tags:
 - artist

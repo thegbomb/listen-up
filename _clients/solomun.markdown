@@ -1,7 +1,6 @@
 ---
 title: Solomun
 categories:
-- radio
 - artist
 tags:
 - artist

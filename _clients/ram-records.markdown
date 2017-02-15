@@ -2,6 +2,7 @@
 title: RAM Records
 categories:
 - artist
+- radio
 tags:
 - label
 position: 150

@@ -2,6 +2,7 @@
 title: Virgin EMI
 categories:
 - artist
+- radio
 tags:
 - label
 position: 267

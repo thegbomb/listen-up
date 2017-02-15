@@ -1,6 +1,6 @@
 ---
 title: James Marsh
-position: 25
+position: 24
 job-title: Radio Promotions Manager
 is-featured: true
 email: james.marsh@listen-up.biz

@@ -1,6 +1,6 @@
 ---
 title: Kimia Zomorrodi
-position: 24
+position: 25
 job-title: Radio & Club Promotions Manager, North America
 is-featured: true
 email: kimia.zomorrodi@listen-up.biz

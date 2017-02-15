@@ -15,8 +15,8 @@
 
       // tiny helper function to add breakpoints
       function getGridSize() {
-        return (window.innerWidth < 600) ? 2 :
-               (window.innerWidth < 900) ? 3 : 4;
+        return (window.innerWidth < 600) ? 1 :
+               (window.innerWidth < 900) ? 2 : 3;
       }
 
       $(function() {
@@ -26,7 +26,7 @@
       $window.load(function() {
         $('.flexslider').flexslider({
           animation: "slide",
-          animationSpeed: 400,
+          animationSpeed: 200,
           animationLoop: true,
           itemWidth: 210,
           itemMargin: 5,

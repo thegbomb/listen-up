@@ -10,6 +10,7 @@ position: 5
 image: "/uploads/wiley.jpg"
 is-featured: true
 is-front: true
+is-radio-featured: true
 is-artist-featured: true
 ---
 

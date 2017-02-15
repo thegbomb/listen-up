@@ -1,7 +1,6 @@
 ---
 title: UKF
 categories:
-- radio
 - artist
 tags:
 - festival

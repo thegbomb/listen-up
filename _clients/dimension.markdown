@@ -6,6 +6,8 @@ categories:
 tags:
 - artist
 position: 16
+image: "/uploads/dimension.jpg"
+is-radio-featured: true
 website: http://thisisdimension.com
 facebook: https://www.facebook.com/Dimension/
 twitter: https://twitter.com/dimension_uk

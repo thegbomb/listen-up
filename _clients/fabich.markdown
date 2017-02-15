@@ -1,7 +1,6 @@
 ---
 title: Fabich
 categories:
-- radio
 - artist
 tags:
 - artist

@@ -1,6 +1,6 @@
 ---
 title: Tom Smart
-position: 27
+position: 26
 job-title: Radio Promotions Coordinator
 is-featured: true
 email: tom.smart@listen-up.biz

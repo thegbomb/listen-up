@@ -1,6 +1,6 @@
 ---
 title: Katherine Cooper
-position: 26
+position: 27
 job-title: Office Manager
 is-featured: true
 email: katherine.cooper@listen-up.biz

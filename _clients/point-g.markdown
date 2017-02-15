@@ -1,7 +1,6 @@
 ---
 title: Point G
 categories:
-- radio
 - artist
 tags:
 - artist

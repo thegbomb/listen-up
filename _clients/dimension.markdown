@@ -2,6 +2,7 @@
 title: Dimension
 categories:
 - artist
+- radio
 tags:
 - artist
 position: 16

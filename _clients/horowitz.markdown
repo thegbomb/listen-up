@@ -1,7 +1,6 @@
 ---
 title: Horowitz
 categories:
-- radio
 - artist
 tags:
 - artist

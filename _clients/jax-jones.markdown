@@ -1,7 +1,6 @@
 ---
 title: Jax Jones
 categories:
-- radio
 - artist
 tags:
 - artist

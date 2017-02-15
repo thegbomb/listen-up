@@ -1,7 +1,6 @@
 ---
 title: Carola Pisaturo
 categories:
-- radio
 - artist
 tags:
 - artist

@@ -1,7 +1,6 @@
 ---
 title: Nocturnal Sunshine
 categories:
-- radio
 - artist
 tags:
 - artist

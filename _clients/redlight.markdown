@@ -1,7 +1,6 @@
 ---
 title: Redlight
 categories:
-- radio
 - artist
 tags:
 - artist

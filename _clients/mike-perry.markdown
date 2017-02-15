@@ -1,7 +1,6 @@
 ---
 title: Mike Perry
 categories:
-- radio
 - artist
 tags:
 - artist

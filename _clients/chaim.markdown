@@ -1,7 +1,6 @@
 ---
 title: Chaim
 categories:
-- radio
 - artist
 tags:
 - artist

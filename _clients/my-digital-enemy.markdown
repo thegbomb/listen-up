@@ -1,7 +1,6 @@
 ---
 title: My Digital Enemy
 categories:
-- radio
 - artist
 tags:
 - artist

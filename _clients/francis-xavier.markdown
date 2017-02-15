@@ -1,7 +1,6 @@
 ---
 title: Francis Xavier
 categories:
-- radio
 - artist
 tags:
 - artist

@@ -1,7 +1,6 @@
 ---
 title: Brobot Records
 categories:
-- radio
 - artist
 tags:
 - label

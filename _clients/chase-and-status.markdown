@@ -1,7 +1,6 @@
 ---
 title: Chase and Status
 categories:
-- radio
 - artist
 tags:
 - artist

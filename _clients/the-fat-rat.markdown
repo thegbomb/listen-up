@@ -1,7 +1,6 @@
 ---
 title: The Fat Rat
 categories:
-- radio
 - artist
 tags:
 - artist

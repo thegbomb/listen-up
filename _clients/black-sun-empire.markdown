@@ -1,7 +1,6 @@
 ---
 title: Black Sun Empire
 categories:
-- radio
 - artist
 tags:
 - artist

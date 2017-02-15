@@ -2,7 +2,6 @@
 title: Dirty Dutch
 categories:
 - events
-- radio
 - artist
 tags:
 - festival

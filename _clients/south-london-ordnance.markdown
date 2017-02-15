@@ -1,7 +1,6 @@
 ---
 title: South London Ordnance
 categories:
-- radio
 - artist
 tags:
 - artist

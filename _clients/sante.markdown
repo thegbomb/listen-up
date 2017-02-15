@@ -1,7 +1,6 @@
 ---
 title: Santé
 categories:
-- radio
 - artist
 tags:
 - artist

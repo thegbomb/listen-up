@@ -1,7 +1,6 @@
 ---
 title: Dennis Ferrer
 categories:
-- radio
 - artist
 tags:
 - artist

@@ -1,7 +1,6 @@
 ---
 title: MOTi
 categories:
-- radio
 - artist
 tags:
 - artist

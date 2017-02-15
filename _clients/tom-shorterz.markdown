@@ -1,7 +1,6 @@
 ---
 title: Tom Shorterz
 categories:
-- radio
 - artist
 tags:
 - artist

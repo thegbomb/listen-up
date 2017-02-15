@@ -1,7 +1,6 @@
 ---
 title: Pirupa
 categories:
-- radio
 - artist
 tags:
 - artist

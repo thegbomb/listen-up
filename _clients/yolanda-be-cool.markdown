@@ -1,7 +1,6 @@
 ---
 title: Yolanda Be Cool
 categories:
-- radio
 - artist
 tags:
 - artist

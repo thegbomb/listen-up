@@ -1,7 +1,6 @@
 ---
 title: Anjunabeats
 categories:
-- radio
 - artist
 tags:
 - label

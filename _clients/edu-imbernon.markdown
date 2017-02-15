@@ -1,7 +1,6 @@
 ---
 title: Edu Imbernon
 categories:
-- radio
 - artist
 tags:
 - artist

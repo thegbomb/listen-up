@@ -5,6 +5,8 @@ categories:
 - radio
 tags:
 - artist
+image: "/uploads/jhus.jpg"
 is-front: false
+is-radio-featured: true
 ---
 

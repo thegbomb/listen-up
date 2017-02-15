@@ -2,7 +2,6 @@
 title: The Night League
 categories:
 - events
-- radio
 tags:
 - venue
 position: 249

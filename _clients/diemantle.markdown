@@ -1,7 +1,6 @@
 ---
 title: Diemantle
 categories:
-- radio
 - artist
 tags:
 - artist

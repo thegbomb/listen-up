@@ -1,8 +1,8 @@
 ---
 title: Toolroom Records
 categories:
-- radio
 - artist
+- club
 tags:
 - artist
 position: 260

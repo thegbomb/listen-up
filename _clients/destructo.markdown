@@ -1,7 +1,6 @@
 ---
 title: Destructo
 categories:
-- radio
 - artist
 tags:
 - artist

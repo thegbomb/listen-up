@@ -1,7 +1,6 @@
 ---
 title: Tony Blaize
 categories:
-- radio
 - artist
 tags:
 - artist

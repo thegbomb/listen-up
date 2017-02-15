@@ -1,7 +1,6 @@
 ---
 title: Saint Wknd
 categories:
-- radio
 - artist
 tags:
 - artist

@@ -2,6 +2,7 @@
 title: Subliminal Records
 categories:
 - artist
+- club
 tags:
 - label
 position: 236

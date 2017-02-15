@@ -1,7 +1,5 @@
 ---
 title: Mixmash Records
-categories:
-- radio
 tags:
 - label
 position: 196

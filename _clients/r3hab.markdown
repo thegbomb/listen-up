@@ -1,7 +1,6 @@
 ---
 title: R3hab
 categories:
-- radio
 - artist
 tags:
 - artist

@@ -1,7 +1,6 @@
 ---
 title: Tough Love
 categories:
-- radio
 - artist
 tags:
 - artist

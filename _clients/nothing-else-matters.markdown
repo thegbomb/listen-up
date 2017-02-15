@@ -4,7 +4,7 @@ categories:
 - artist
 - radio
 tags:
-- label
+- labels
 position: 121
 facebook: https://www.facebook.com/nothingelsemattersNEM/
 layout: client

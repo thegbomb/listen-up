@@ -1,7 +1,6 @@
 ---
 title: Tommy Trash
 categories:
-- radio
 - artist
 tags:
 - artist

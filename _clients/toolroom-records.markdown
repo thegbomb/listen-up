@@ -2,6 +2,7 @@
 title: Toolroom Records
 categories:
 - artist
+- club
 tags:
 - artist
 position: 260

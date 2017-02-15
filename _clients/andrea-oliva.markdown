@@ -1,7 +1,6 @@
 ---
 title: Andrea Oliva
 categories:
-- radio
 - artist
 tags:
 - artist

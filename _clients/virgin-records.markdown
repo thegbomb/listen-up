@@ -1,7 +1,6 @@
 ---
 title: Virgin EMI
 categories:
-- radio
 - artist
 tags:
 - label

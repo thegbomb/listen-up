@@ -1,7 +1,6 @@
 ---
 title: Go Freek
 categories:
-- radio
 - artist
 tags:
 - artist

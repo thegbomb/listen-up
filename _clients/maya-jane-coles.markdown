@@ -1,7 +1,6 @@
 ---
 title: Maya Jane Coles
 categories:
-- radio
 - artist
 tags:
 - artist

@@ -1,7 +1,6 @@
 ---
 title: Oliver Heldens
 categories:
-- radio
 - artist
 tags:
 - artist

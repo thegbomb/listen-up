@@ -242,11 +242,13 @@ div.row.excerpt__title {
 
 .index__hero {
   height: 60vh;
+  z-index: 0;
+  background-color: black;
 }
 
 .index__hero__cell {
   height: 100%;
-  width: 100;
+  z-index: 1;
 }
 
 .index__hero__cell__text {

@@ -1,7 +1,6 @@
 ---
 title: Dimension
 categories:
-- radio
 - artist
 tags:
 - artist

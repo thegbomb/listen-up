@@ -1,7 +1,6 @@
 ---
 title: Afterlife
 categories:
-- radio
 - artist
 tags:
 - label

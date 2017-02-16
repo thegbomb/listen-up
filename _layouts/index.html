@@ -37,7 +37,7 @@ layout: default
     {% endfor %}
     {% capture mod %}{{ clients.size | modulo: 9 }}{% endcapture %}
     {% capture extras %}{{ 9 | minus: mod }}{% endcapture %}
-    {% if extras != 9 %}
+    {% if extras != "9" %}
       {% for i in (1..extras) %}
         <li class="item">
         {% include placeholder-list-item.html %}

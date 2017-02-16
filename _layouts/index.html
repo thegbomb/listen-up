@@ -29,12 +29,22 @@ layout: default
 <section class="index__clients">
   <div class="flexslider" data-item="3">
     <ul class="slides">
-    {% assign clients = site.clients | sort: 'position' | where: "is-front", "true" %}
+    {% assign clients = site.clients | where: "is-front", "true" | shuffle %}
     {% for client in clients %}
       <li class="item">
       {% include client-slide.html %}
       </li>
     {% endfor %}
+    {% capture mod %}{{ clients.size | modulo: 9 }}{% endcapture %}
+    {% capture extras %}{{ 9 | minus: mod }}{% endcapture %}
+    {% for i in (1..extras) %}
+      <li class="item">
+      {% include placeholder-list-item.html %}
+      </li>
+    {% endfor %}
+    mod is {{ mod }}
+    size is {{ clients.size }}
+
     </ul>
   </div>
 </section>

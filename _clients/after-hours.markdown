@@ -3,6 +3,7 @@ title: AFTR HRS
 tags:
 - label
 position: 35
+is-front: true
 website: http://aftrhrsrecords.com
 facebook: https://www.facebook.com/AFTRHRSrecords/
 twitter: https://twitter.com/aftrhrsrecords

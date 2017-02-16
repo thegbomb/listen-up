@@ -178,6 +178,10 @@ div.row.excerpt__title {
   transition: $primary-transition;
   opacity:0.5;
 }
+.excerpt__image.placeholder:after {
+  background:transparent;
+  opacity:0;
+}
 
 
 // 8. Contact

@@ -1,7 +1,6 @@
 ---
 title: Junolarc
 categories:
-- radio
 - artist
 tags:
 - artist

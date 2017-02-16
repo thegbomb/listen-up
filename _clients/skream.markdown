@@ -1,7 +1,6 @@
 ---
 title: Skream
 categories:
-- radio
 - artist
 tags:
 - artist

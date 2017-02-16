@@ -1,7 +1,6 @@
 ---
 title: NoMBe
 categories:
-- radio
 - artist
 tags:
 - artist

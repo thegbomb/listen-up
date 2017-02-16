@@ -1,7 +1,6 @@
 ---
 title: Larse
 categories:
-- radio
 - artist
 tags:
 - artist

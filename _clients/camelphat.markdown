@@ -1,7 +1,6 @@
 ---
 title: Camelphat
 categories:
-- radio
 - artist
 tags:
 - artist

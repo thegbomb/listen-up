@@ -1,7 +1,6 @@
 ---
 title: AATW Records
 categories:
-- radio
 - artist
 tags:
 - label

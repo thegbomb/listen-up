@@ -1,7 +1,6 @@
 ---
 title: Neon Records
 categories:
-- radio
 - artist
 tags:
 - label

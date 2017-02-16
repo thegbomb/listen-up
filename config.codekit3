@@ -237,6 +237,12 @@
 		"oAP": "\/_clients\/blue-marlin.markdown",
 		"oF": 0
 		},
+	"\/_clients\/bmg.markdown": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_clients\/bmg.markdown",
+		"oF": 0
+		},
 	"\/_clients\/boardmasters-festival.markdown": {
 		"ft": 8192,
 		"oA": 2,
@@ -379,6 +385,18 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_clients\/clmd.markdown",
+		"oF": 0
+		},
+	"\/_clients\/counter-records.markdown": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_clients\/counter-records.markdown",
+		"oF": 0
+		},
+	"\/_clients\/cozzy-d.markdown": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_clients\/cozzy-d.markdown",
 		"oF": 0
 		},
 	"\/_clients\/culoe-de-song.markdown": {
@@ -543,6 +561,12 @@
 		"oAP": "\/_clients\/elrow.markdown",
 		"oF": 0
 		},
+	"\/_clients\/emerald-city.markdown": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_clients\/emerald-city.markdown",
+		"oF": 0
+		},
 	"\/_clients\/eric-prydz.markdown": {
 		"ft": 8192,
 		"oA": 2,
@@ -633,6 +657,12 @@
 		"oAP": "\/_clients\/george-fitzgerald.markdown",
 		"oF": 0
 		},
+	"\/_clients\/glasgow-underground.markdown": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_clients\/glasgow-underground.markdown",
+		"oF": 0
+		},
 	"\/_clients\/go-freek.markdown": {
 		"ft": 8192,
 		"oA": 2,
@@ -703,6 +733,12 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_clients\/insomniac-records.markdown",
+		"oF": 0
+		},
+	"\/_clients\/ipso.markdown": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_clients\/ipso.markdown",
 		"oF": 0
 		},
 	"\/_clients\/island-records.markdown": {
@@ -879,6 +915,12 @@
 		"oAP": "\/_clients\/lauren-lane.markdown",
 		"oF": 0
 		},
+	"\/_clients\/lee-foss.markdown": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_clients\/lee-foss.markdown",
+		"oF": 0
+		},
 	"\/_clients\/lehar.markdown": {
 		"ft": 8192,
 		"oA": 2,
@@ -931,6 +973,12 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_clients\/low-steppa.markdown",
+		"oF": 0
+		},
+	"\/_clients\/lower-east.markdown": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_clients\/lower-east.markdown",
 		"oF": 0
 		},
 	"\/_clients\/madeon.markdown": {
@@ -1155,6 +1203,12 @@
 		"oAP": "\/_clients\/nvoy.markdown",
 		"oF": 0
 		},
+	"\/_clients\/nyx.markdown": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_clients\/nyx.markdown",
+		"oF": 0
+		},
 	"\/_clients\/ocean-wisdom.markdown": {
 		"ft": 8192,
 		"oA": 2,
@@ -1183,6 +1237,12 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_clients\/option4.markdown",
+		"oF": 0
+		},
+	"\/_clients\/others.markdown": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_clients\/others.markdown",
 		"oF": 0
 		},
 	"\/_clients\/otto-knows.markdown": {
@@ -1273,6 +1333,12 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_clients\/point-g.markdown",
+		"oF": 0
+		},
+	"\/_clients\/polydor.markdown": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_clients\/polydor.markdown",
 		"oF": 0
 		},
 	"\/_clients\/porter-robinson.markdown": {
@@ -1569,6 +1635,12 @@
 		"oAP": "\/_clients\/subliminal-records.markdown",
 		"oF": 0
 		},
+	"\/_clients\/subsoul.markdown": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_clients\/subsoul.markdown",
+		"oF": 0
+		},
 	"\/_clients\/sultan-and-shepard.markdown": {
 		"ft": 8192,
 		"oA": 2,
@@ -1627,6 +1699,12 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_clients\/the-fat-rat.markdown",
+		"oF": 0
+		},
+	"\/_clients\/the-him.markdown": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_clients\/the-him.markdown",
 		"oF": 0
 		},
 	"\/_clients\/the-magician.markdown": {
@@ -1741,6 +1819,12 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_clients\/true-romance.markdown",
+		"oF": 0
+		},
+	"\/_clients\/truth-be-told.markdown": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_clients\/truth-be-told.markdown",
 		"oF": 0
 		},
 	"\/_clients\/ukf.markdown": {
@@ -2121,12 +2205,6 @@
 		"oAP": "\/_team\/james-paterson.markdown",
 		"oF": 0
 		},
-	"\/_team\/jessica-goodchild.markdown": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_team\/jessica-goodchild.markdown",
-		"oF": 0
-		},
 	"\/_team\/joanna-gardner.markdown": {
 		"ft": 8192,
 		"oA": 2,
@@ -2335,6 +2413,22 @@
 		"oF": 0,
 		"opt": 0
 		},
+	"\/_uploads\/dimension.jpg": {
+		"ft": 16384,
+		"iS": 229628,
+		"oA": 0,
+		"oAP": "\/_uploads\/dimension.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/_uploads\/disciples.jpg": {
+		"ft": 16384,
+		"iS": 311122,
+		"oA": 0,
+		"oAP": "\/_uploads\/disciples.jpg",
+		"oF": 0,
+		"opt": 0
+		},
 	"\/_uploads\/eats-everything.jpg": {
 		"ft": 16384,
 		"iS": 61015,
@@ -2375,6 +2469,14 @@
 		"oF": 0,
 		"opt": 0
 		},
+	"\/_uploads\/foss.jpg": {
+		"ft": 16384,
+		"iS": 228352,
+		"oA": 0,
+		"oAP": "\/_uploads\/foss.jpg",
+		"oF": 0,
+		"opt": 0
+		},
 	"\/_uploads\/fstvl.jpg": {
 		"ft": 16384,
 		"iS": 104641,
@@ -2391,6 +2493,14 @@
 		"oF": 0,
 		"opt": 0
 		},
+	"\/_uploads\/icarus.jpg": {
+		"ft": 16384,
+		"iS": 150848,
+		"oA": 0,
+		"oAP": "\/_uploads\/icarus.jpg",
+		"oF": 0,
+		"opt": 0
+		},
 	"\/_uploads\/jamie-jones.jpg": {
 		"ft": 16384,
 		"iS": 58570,
@@ -2399,11 +2509,27 @@
 		"oF": 0,
 		"opt": 0
 		},
+	"\/_uploads\/jhus.jpg": {
+		"ft": 16384,
+		"iS": 265798,
+		"oA": 0,
+		"oAP": "\/_uploads\/jhus.jpg",
+		"oF": 0,
+		"opt": 0
+		},
 	"\/_uploads\/jonas-blue.jpg": {
 		"ft": 16384,
 		"iS": 67680,
 		"oA": 0,
 		"oAP": "\/_uploads\/jonas-blue.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/_uploads\/kolsch.jpg": {
+		"ft": 16384,
+		"iS": 48927,
+		"oA": 0,
+		"oAP": "\/_uploads\/kolsch.jpg",
 		"oF": 0,
 		"opt": 0
 		},
@@ -2487,6 +2613,14 @@
 		"oF": 0,
 		"opt": 0
 		},
+	"\/_uploads\/sigala.jpg": {
+		"ft": 16384,
+		"iS": 310376,
+		"oA": 0,
+		"oAP": "\/_uploads\/sigala.jpg",
+		"oF": 0,
+		"opt": 0
+		},
 	"\/_uploads\/sound.jpg": {
 		"ft": 16384,
 		"iS": 59819,
@@ -2500,6 +2634,14 @@
 		"iS": 102447,
 		"oA": 0,
 		"oAP": "\/_uploads\/steve-lawler.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/_uploads\/strictly.jpg": {
+		"ft": 16384,
+		"iS": 96082,
+		"oA": 0,
+		"oAP": "\/_uploads\/strictly.jpg",
 		"oF": 0,
 		"opt": 0
 		},
@@ -3036,7 +3178,7 @@
 		"oA": 0,
 		"oAP": "\/assets\/videos\/video.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"\/assets\/videos\/video.mp4": {
 		"ft": 8192,

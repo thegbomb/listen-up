@@ -1,7 +1,6 @@
 ---
 title: Billy Kenny
 categories:
-- radio
 - artist
 tags:
 - artist

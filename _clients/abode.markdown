@@ -2,6 +2,7 @@
 title: Abode
 categories:
 - events
+- club
 tags:
 - label
 position: 275

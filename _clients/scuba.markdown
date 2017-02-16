@@ -1,7 +1,6 @@
 ---
 title: Scuba
 categories:
-- radio
 - artist
 tags:
 - artist

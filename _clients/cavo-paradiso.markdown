@@ -1,7 +1,6 @@
 ---
 title: Cavo Paradiso
 categories:
-- radio
 - artist
 tags:
 - venue

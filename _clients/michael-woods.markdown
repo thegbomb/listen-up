@@ -1,7 +1,6 @@
 ---
 title: Michael Woods
 categories:
-- radio
 - artist
 tags:
 - artist

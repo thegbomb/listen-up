@@ -1,7 +1,6 @@
 ---
 title: Julian Jordan
 categories:
-- radio
 - artist
 tags:
 - artist

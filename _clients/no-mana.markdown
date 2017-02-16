@@ -1,7 +1,6 @@
 ---
 title: No Mana
 categories:
-- radio
 - artist
 tags:
 - artist

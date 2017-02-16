@@ -1,7 +1,6 @@
 ---
 title: Tritonal
 categories:
-- radio
 - artist
 tags:
 - artist

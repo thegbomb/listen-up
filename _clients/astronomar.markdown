@@ -1,7 +1,6 @@
 ---
 title: Astronomar
 categories:
-- radio
 - artist
 tags:
 - artist

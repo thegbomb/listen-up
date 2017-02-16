@@ -1,7 +1,6 @@
 ---
 title: Mind Against
 categories:
-- radio
 - artist
 tags:
 - artist

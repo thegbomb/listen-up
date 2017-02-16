@@ -1,7 +1,6 @@
 ---
 title: Feder
 categories:
-- radio
 - artist
 tags:
 - artist

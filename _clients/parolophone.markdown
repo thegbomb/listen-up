@@ -1,7 +1,6 @@
 ---
 title: Parlophone
 categories:
-- radio
 - artist
 tags:
 - label

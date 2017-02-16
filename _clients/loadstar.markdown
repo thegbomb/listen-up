@@ -1,7 +1,6 @@
 ---
 title: Loadstar
 categories:
-- radio
 - artist
 tags:
 - artist

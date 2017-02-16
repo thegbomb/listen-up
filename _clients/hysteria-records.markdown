@@ -1,7 +1,6 @@
 ---
 title: Hysteria Records
 categories:
-- radio
 - artist
 tags:
 - label

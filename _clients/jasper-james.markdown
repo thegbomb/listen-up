@@ -1,7 +1,6 @@
 ---
 title: Jasper James
 categories:
-- radio
 - artist
 tags:
 - artist

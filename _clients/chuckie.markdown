@@ -1,7 +1,6 @@
 ---
 title: Chuckie
 categories:
-- radio
 - artist
 tags:
 - artist

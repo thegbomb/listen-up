@@ -1,7 +1,6 @@
 ---
 title: Kokiri
 categories:
-- radio
 - artist
 tags:
 - artist

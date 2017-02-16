@@ -1,7 +1,6 @@
 ---
 title: Diversion
 categories:
-- radio
 - artist
 tags:
 - artist

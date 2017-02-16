@@ -2,6 +2,7 @@
 title: Bearcubs
 categories:
 - artist
+- radio
 tags:
 - artist
 position: 48

@@ -1,7 +1,6 @@
 ---
 title: Jerome Price
 categories:
-- radio
 - artist
 tags:
 - artist

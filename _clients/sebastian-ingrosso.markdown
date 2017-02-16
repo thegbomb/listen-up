@@ -1,7 +1,6 @@
 ---
 title: Sebastian Ingrosso
 categories:
-- radio
 - artist
 tags:
 - artist

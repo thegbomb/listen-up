@@ -1,7 +1,6 @@
 ---
 title: Bob Moses
 categories:
-- radio
 - artist
 tags:
 - artist

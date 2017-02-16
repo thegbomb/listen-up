@@ -1,7 +1,6 @@
 ---
 title: Vicetone
 categories:
-- radio
 - artist
 tags:
 - artist

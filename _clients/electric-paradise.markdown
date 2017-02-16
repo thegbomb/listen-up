@@ -1,7 +1,6 @@
 ---
 title: Electric Paradise
 categories:
-- radio
 - artist
 tags:
 - festival

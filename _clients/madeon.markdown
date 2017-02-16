@@ -1,7 +1,6 @@
 ---
 title: Madeon
 categories:
-- radio
 - artist
 tags:
 - artist

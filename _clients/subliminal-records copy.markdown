@@ -1,7 +1,6 @@
 ---
 title: Sultan + Shepard
 categories:
-- radio
 - artist
 tags:
 - artist

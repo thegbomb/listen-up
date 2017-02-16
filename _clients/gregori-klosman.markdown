@@ -1,7 +1,6 @@
 ---
 title: Gregori Klosman
 categories:
-- radio
 - artist
 tags:
 - artist

@@ -1,7 +1,6 @@
 ---
 title: Jesse Calosso
 categories:
-- radio
 - artist
 tags:
 - artist

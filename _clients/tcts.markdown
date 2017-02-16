@@ -1,7 +1,6 @@
 ---
 title: TCTS
 categories:
-- radio
 - artist
 tags:
 - artist

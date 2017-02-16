@@ -1,7 +1,6 @@
 ---
 title: David Guetta
 categories:
-- radio
 - artist
 tags:
 - artist

@@ -9,6 +9,7 @@ position: 53
 image: "/uploads/alesso.jpg"
 is-featured: false
 is-radio-featured: true
+is-front: true
 website: http://www.alessoworld.com
 facebook: https://www.facebook.com/AlessoOfficial/
 twitter: https://twitter.com/Alesso

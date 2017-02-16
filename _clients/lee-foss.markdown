@@ -6,6 +6,7 @@ categories:
 tags:
 - artist
 image: "/uploads/foss.jpg"
+is-front: true
 is-club-featured: true
 ---
 

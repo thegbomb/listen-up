@@ -8,6 +8,7 @@ tags:
 position: 18
 image: "/uploads/disciples.jpg"
 is-radio-featured: true
+is-front: true
 website: http://disciplesldn.com
 facebook: https://www.facebook.com/DisciplesLDN
 twitter: https://twitter.com/Disciples

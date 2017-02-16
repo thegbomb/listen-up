@@ -8,6 +8,7 @@ position: 63
 image: "/uploads/lostfound.jpg"
 is-featured: true
 is-events-featured: true
+is-front: true
 website: http://www.lostandfoundfestival.com
 facebook: https://www.facebook.com/lostandfoundfestival/
 twitter: https://twitter.com/AMPlostandfound

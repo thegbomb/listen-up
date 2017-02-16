@@ -8,6 +8,7 @@ tags:
 position: 16
 image: "/uploads/dimension.jpg"
 is-radio-featured: true
+is-front: true
 website: http://thisisdimension.com
 facebook: https://www.facebook.com/Dimension/
 twitter: https://twitter.com/dimension_uk

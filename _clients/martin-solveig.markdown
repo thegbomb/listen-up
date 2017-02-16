@@ -7,7 +7,7 @@ tags:
 - artist
 position: 94
 image: "/uploads/martin-solveig.jpg"
-is-front: false
+is-front: true
 website: http://www.martinsolveig.com
 facebook: http://www.facebook.com/MartinSolveig
 twitter: http://twitter.com/martinsolveig

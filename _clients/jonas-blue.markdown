@@ -7,7 +7,7 @@ tags:
 position: 93
 image: "/uploads/jonas-blue.jpg"
 is-featured: false
-is-front: false
+is-front: true
 website: http://www.jonasbluemusic.com
 facebook: http://facebook.com/jonasbluemusic
 twitter: http://twitter.com/jonasblue

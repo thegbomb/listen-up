@@ -6,29 +6,122 @@
 <!-- FlexSlider -->
 <script defer src="/assets/flexslider/jquery.flexslider.js"></script>
 <script type="text/javascript">
-var fs = $('.flexslider'),
-    dataItem = fs.data('item'),
-    item = fs.find('.item');
-
-// Wrap divs
-for (var i = 0; i < item.length; i+=dataItem) {
-  item.slice(i, i+dataItem).wrapAll('<div class="items"></div>');
-}
-
-// Initialize flexslider
+// Initialize flexsliders
 $(window).load(function() {
-  fs.flexslider({
-    selector: '.slides > .items',
-    animation: "slide",
+  $('#flexslider1').flexslider({
     animationSpeed: 200,
+    animationLoop: true,
+    slideshowSpeed: 9000,
+    controlNav: false,
+    directionNav: false,
+    smoothHeight: false,
+    itemWidth: 350,
+    minItems: 1,
+    maxItems: 1,
+    randomize: false,
+  });
+  $('#flexslider2').flexslider({
+    initDelay: 1000,
+    animationSpeed: 200,
+    animationLoop: true,
+    slideshowSpeed: 9000,
+    controlNav: false,
+    directionNav: false,
+    smoothHeight: false,
+    itemWidth: 350,
+    minItems: 1,
+    maxItems: 1,
+    randomize: false,
+  });
+  $('#flexslider3').flexslider({
+    initDelay: 2000,
+    animationSpeed: 200,
+    slideshowSpeed: 9000,
     animationLoop: true,
     controlNav: false,
     directionNav: false,
     smoothHeight: false,
-    itemMargin: 5,
-    itemWidth: 450,
-    minItems: 3,
-    maxItems: 3,
+    itemWidth: 350,
+    minItems: 1,
+    maxItems: 1,
+    randomize: false,
+  });
+  $('#flexslider4').flexslider({
+    initDelay: 3000,
+    animationSpeed: 200,
+    animationLoop: true,
+    slideshowSpeed: 9000,
+    controlNav: false,
+    directionNav: false,
+    smoothHeight: false,
+    itemWidth: 350,
+    minItems: 1,
+    maxItems: 1,
+    randomize: false,
+  });
+  $('#flexslider5').flexslider({
+    initDelay: 4000,
+    animationSpeed: 200,
+    animationLoop: true,
+    slideshowSpeed: 9000,
+    controlNav: false,
+    directionNav: false,
+    smoothHeight: false,
+    itemWidth: 350,
+    minItems: 1,
+    maxItems: 1,
+    randomize: false,
+  });
+  $('#flexslider6').flexslider({
+    initDelay: 5000,
+    animationSpeed: 200,
+    animationLoop: true,
+    slideshowSpeed: 9000,
+    controlNav: false,
+    directionNav: false,
+    smoothHeight: false,
+    itemWidth: 350,
+    minItems: 1,
+    maxItems: 1,
+    randomize: false,
+  });
+  $('#flexslider7').flexslider({
+    initDelay: 6000,
+    animationSpeed: 200,
+    animationLoop: true,
+    slideshowSpeed: 9000,
+    controlNav: false,
+    directionNav: false,
+    smoothHeight: false,
+    itemWidth: 350,
+    minItems: 1,
+    maxItems: 1,
+    randomize: false,
+  });
+  $('#flexslider8').flexslider({
+    initDelay: 7000,
+    animationSpeed: 200,
+    animationLoop: true,
+    slideshowSpeed: 9000,
+    controlNav: false,
+    directionNav: false,
+    smoothHeight: false,
+    itemWidth: 350,
+    minItems: 1,
+    maxItems: 1,
+    randomize: false,
+  });
+  $('#flexslider9').flexslider({
+    initDelay: 8000,
+    animationSpeed: 200,
+    animationLoop: true,
+    slideshowSpeed: 9000,
+    controlNav: false,
+    directionNav: false,
+    smoothHeight: false,
+    itemWidth: 350,
+    minItems: 1,
+    maxItems: 1,
     randomize: false,
   });
 });

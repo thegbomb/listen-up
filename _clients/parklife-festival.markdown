@@ -11,6 +11,7 @@ is-featured: true
 is-events-featured: true
 is-radio-featured: true
 is-artist-featured: false
+is-front: true
 facebook: https://www.facebook.com/parklifefestival
 layout: client
 ---

@@ -9,6 +9,7 @@ position: 3
 image: "/uploads/noisily.jpg"
 is-featured: true
 is-digital-featured: true
+is-front: true
 website: http://noisilyfestival.com
 ---
 

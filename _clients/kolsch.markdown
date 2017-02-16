@@ -8,6 +8,7 @@ tags:
 position: 194
 image: "/uploads/kolsch.jpg"
 is-club-featured: true
+is-front: true
 facebook: https://www.facebook.com/kolschofficial
 layout: client
 ---

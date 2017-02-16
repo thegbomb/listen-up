@@ -6,7 +6,7 @@ categories:
 tags:
 - artist
 image: "/uploads/jhus.jpg"
-is-front: false
+is-front: true
 is-radio-featured: true
 ---
 

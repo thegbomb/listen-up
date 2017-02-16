@@ -8,7 +8,7 @@ tags:
 position: 6
 image: "/uploads/nass.jpg"
 is-featured: true
-is-front: false
+is-front: true
 is-digital-featured: true
 website: http://www.nassfestival.com/
 facebook: http://www.facebook.com/

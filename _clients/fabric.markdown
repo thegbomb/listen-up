@@ -4,7 +4,6 @@ categories:
 - events
 position: 279
 image: "/uploads/venue.jpg"
-is-front: true
 layout: client
 ---
 

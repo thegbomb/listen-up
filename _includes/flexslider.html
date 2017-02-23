@@ -25,9 +25,10 @@ $(window).load(function() {
   for(var i=0; i < sliderArr.length; i++) {
     jQuery('#flexslider' + sliders[i]['position']).flexslider({
       initDelay: (sliders[i]['delay'] * 3000),
+      animation: "fade",
       animationSpeed: 600,
       animationLoop: true,
-      slideshowSpeed: 30000,
+      slideshowSpeed: 3000,
       controlNav: false,
       directionNav: false,
       smoothHeight: false,
@@ -35,6 +36,15 @@ $(window).load(function() {
       minItems: 1,
       maxItems: 1,
       randomize: false,
+      startAt: ( 27 - (sliders[i]['position']*3)),
+      after: function(slider){
+        // clears the interval
+        slider.stop();
+        // grab a random duration to show this slide
+        slider.vars.slideshowSpeed = 30000;
+        // start the interval
+        slider.play();
+      }
     });
   };
 });

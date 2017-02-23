@@ -33,8 +33,7 @@ layout: default
       <div class="columns">
         <div id="flexslider{{ i }}" class="flexslider">
           <ul class="slides">
-          {% capture os %}{{ forloop.index0 | times:3 }}{% endcapture %}
-          {% for client in clients offset:os %}
+          {% for client in clients %}
             <li class="item">
               {% include client-excerpt.html %}
             </li>
